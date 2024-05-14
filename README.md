@@ -1,8 +1,11 @@
 # Prerequirement
 * install Node.js
-* Create
 * npm -v => 10.7.0
 * node -v => 18.17.1
+
+# How to colla
+* Create a project first then clone?
+* Or, clone first, then use `npm start`?
 
 # npm installs
 ```
