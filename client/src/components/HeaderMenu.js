@@ -1,7 +1,7 @@
 import { Button, Grid } from "semantic-ui-react";
 import { useNavigate } from "react-router-dom";
 
-function Header(){
+function HeaderMenu(){
     const navigate = useNavigate()
 
     const GoLoginSignup = async () => {
@@ -22,4 +22,4 @@ function Header(){
     
 }
 
-export default Header;
+export default HeaderMenu;
