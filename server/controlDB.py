@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
 
-from initDB import *
+from dbqueries import *
 
 try:
     connection = mysql.connector.connect(
@@ -13,9 +13,16 @@ try:
     print("Connection successful!")
     cursor = connection.cursor()
 
-    #createSECTION(cursor)
-    insertSection(cursor, connection)
+    query = """
+    CREATE TABLE store_type (
+        id INT PRIMARY KEY,
+        name VARCHAR(10)
+    )
+    """
 
+    #createTable(cursor, query)
+    #insertData(cursor, connection, query, data)
+    insertCSVfile(cursor, connection, "D:\codes\DB_project\sorte_datas\store_type.csv", "store_type")
 
 except mysql.connector.Error as err:
     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
