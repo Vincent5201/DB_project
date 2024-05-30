@@ -4,12 +4,8 @@ import "./App.css";
 import HeaderMenu from "./components/HeaderMenu";
 import Login from "./pages/login";
 import MainPage from "./pages/main_page";
-import Donotlookatme from "./Donotlookatme";
+import Selector from "./Selector";
 function App() {
-  // This is arrow function expression, which I didn't understand then
-  const func = () => {
-    return 5566666;
-  };
   // lesson from the class , it might be useful for data processing from database
   let data = [{ data1: 10 }, { data2: "road" }, { position: { x: 5, y: 7 } }];
   // {data.map((single_data)=>(<component_name property1=single_data.data1
@@ -26,8 +22,7 @@ function App() {
         <Route path="/" element={<MainPage />}></Route>
       </Routes>
 
-      <Donotlookatme properties="props" anotherprop={5} />
-      <p style={{ backgroundColor: "greenyellow" }}>{func()}</p>
+      <Selector properties="props" anotherprop={5} />
       <h1 style={{ color: "lightblue" }}>What???</h1>
     </BrowserRouter>
   );
