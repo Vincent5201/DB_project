@@ -1,10 +1,10 @@
 import React from "react";
 import "../styles/style.css";
-import SectionSelector from "./SectionSelector";
-import RentalSelector from "./RentalSelector";
-import FloorSelector from "./FloorSelector";
-import ScoreSelector from "./ScoreSelector";
-import EquipSelector from "./EquipSelector";
+import SectionSelector from "./selectors/SectionSelector";
+import RentalSelector from "./selectors/RentalSelector";
+import FloorSelector from "./selectors/FloorSelector";
+import ScoreSelector from "./selectors/ScoreSelector";
+import EquipSelector from "./selectors/EquipSelector";
 
 const Selector = ({ properties, anotherprop }) => {
 
@@ -16,7 +16,7 @@ const Selector = ({ properties, anotherprop }) => {
         <FloorSelector/>
         <ScoreSelector/>
         <EquipSelector/>
-        
+
         <div className="filter-group">
           <h2>特色(離您想要的店家最近的租屋處)</h2>
           <div className="filter-options">
