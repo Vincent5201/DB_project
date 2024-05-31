@@ -26,7 +26,7 @@ function AroundSelector() {
   
     return (
         <div className="filter-group">
-        <h2>特色(租屋處附近一定要有什麼?)</h2>
+        <h2>生活機能(租屋處附近要有什麼?)</h2>
         <label>
             距離限制:
             <select value={selectedDistance} onChange={handleSelectChange}>
@@ -56,7 +56,7 @@ function AroundSelector() {
                 type="checkbox"
                 name="t3"
                 checked={aroundChecked.t3}
-                onChange={handleAroundChange} /> ubike
+                onChange={handleAroundChange} /> Ubike
           </label>
           <label>
             <input 
