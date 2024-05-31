@@ -14,15 +14,25 @@ try:
     cursor = connection.cursor()
 
     query = """
-    CREATE TABLE restaurants_type (
-        RT_ID INT PRIMARY KEY,
-        name VARCHAR(15)
+    CREATE TABLE house (
+        H_ID INT PRIMARY KEY,
+        Title VARCHAR(10) NOT NULL,
+        Price FLOAT NOT NULL,
+        Score FLOAT NOT NULL,
+        Location_ID INT,
+        FOREIGN KEY (Location_ID) REFERENCES location(L_ID) ON DELETE SET NULL ON UPDATE CASCADE,
+        Equipment_ID INT,
+        FOREIGN KEY (Equipment_ID) REFERENCES equipment(E_ID) ON DELETE SET NULL ON UPDATE CASCADE,
+        Housetype_ID INT,
+        FOREIGN KEY (Housetype_ID) REFERENCES house_type(HT_ID) ON DELETE SET NULL ON UPDATE CASCADE,
+        Lanlord_ID INT,
+        FOREIGN KEY (Lanlord_ID) REFERENCES landlord(LL_ID) ON DELETE SET NULL ON UPDATE CASCADE
     )
     """
 
     createTable(cursor, query)
     #insertData(cursor, connection, query, data)
-    insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//restaurants_type.csv", "restaurants_type")
+    #insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//restaurants_type.csv", "restaurants_type")
 
 except mysql.connector.Error as err:
     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
