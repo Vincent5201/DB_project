@@ -6,6 +6,8 @@ import FloorSelector from "./selectors/FloorSelector";
 import ScoreSelector from "./selectors/ScoreSelector";
 import EquipSelector from "./selectors/EquipSelector";
 import AroundSelector from "./selectors/AroundSelector";
+import LocationSelector from "./selectors/LocationSelector";
+import { Button } from "semantic-ui-react";
 
 const Selector = ({ properties, anotherprop }) => {
 
@@ -18,6 +20,8 @@ const Selector = ({ properties, anotherprop }) => {
         <ScoreSelector/>
         <EquipSelector/>
         <AroundSelector/>
+        <LocationSelector/>
+        <Button>搜尋</Button>
       </div>
     </section>
   );
