@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useState } from "react";
 
 function SelectedList() {
-    const [items, setItems] = useState(['Item 1', 'Item 2', 'Item 3', 'Item 4']);
+  const [items, setItems] = useState(["Item 1", "Item 2", "Item 3", "Item 4"]);
 
   return (
     <div className="item-list">
@@ -15,5 +15,3 @@ function SelectedList() {
   );
 }
 export default SelectedList;
-
-
