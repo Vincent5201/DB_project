@@ -2,7 +2,6 @@ import { useState } from 'react';
 
 function SectionSelector() {
     const [sectionChecked, setSectionChecked] = useState({
-        all: false,
         north: false,
         east: false,
         central: false
@@ -19,14 +18,6 @@ function SectionSelector() {
       <div className="filter-group">
         <h2>位置</h2>
         <div className="filter-options">
-          <label>
-            <input
-              type="checkbox"
-              name="all"
-              checked={sectionChecked.all}
-              onChange={handleSectionChange}
-            /> 不限
-          </label>
           <label>
             <input
               type="checkbox"
