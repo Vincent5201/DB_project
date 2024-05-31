@@ -15,12 +15,12 @@ function App() {
 
   return (
     <BrowserRouter>
-      <HeaderMenu />
+      {/* <HeaderMenu /> */}
 
-      <Routes>
+      {/* <Routes>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/" element={<MainPage />}></Route>
-      </Routes>
+      </Routes> */}
 
       <Selector properties="props" anotherprop={5} />
       <h1 style={{ color: "lightblue" }}>What???</h1>
