@@ -26,7 +26,7 @@ function AroundSelector() {
 
   return (
     <div className="filter-group">
-      <h2>生活機能(租屋處附近要有什麼?)</h2>
+      <h2>生活機能(租屋處附近一定有什麼?)</h2>
       <label>
         <input
           type="checkbox"
