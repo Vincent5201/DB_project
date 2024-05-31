@@ -5,6 +5,7 @@ import RentalSelector from "./selectors/RentalSelector";
 import FloorSelector from "./selectors/FloorSelector";
 import ScoreSelector from "./selectors/ScoreSelector";
 import EquipSelector from "./selectors/EquipSelector";
+import AroundSelector from "./selectors/AroundSelector";
 
 const Selector = ({ properties, anotherprop }) => {
 
@@ -16,33 +17,7 @@ const Selector = ({ properties, anotherprop }) => {
         <FloorSelector/>
         <ScoreSelector/>
         <EquipSelector/>
-
-        <div className="filter-group">
-          <h2>特色(離您想要的店家最近的租屋處)</h2>
-          <div className="filter-options">
-            <label>
-              選擇離店家種類:
-              <select>
-                <option value=""></option>
-                <option value="ATM">銀行</option>
-                <option value="resturant">餐廳</option>
-                <option value="uBike">ubike</option>
-                <option value="garbage-truck">垃圾車</option>
-              </select>
-            </label>
-            <label>
-              選擇離店家距離:
-              <select>
-                <option value=""></option>
-                <option value="1">小於1km</option>
-                <option value="3">小於3km</option>
-                <option value="5">小於5km</option>
-                <option value="10">小於10km</option>
-              </select>
-            </label>
-            {/* I will modify this*/}
-          </div>
-        </div>
+        <AroundSelector/>
       </div>
     </section>
   );
