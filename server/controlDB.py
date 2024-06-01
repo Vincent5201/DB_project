@@ -30,9 +30,9 @@ try:
     )
     """
 
-    createTable(cursor, query)
+    #createTable(cursor, query)
     #insertData(cursor, connection, query, data)
-    #insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//restaurants_type.csv", "restaurants_type")
+    insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//house_finish.csv", "house")
 
 except mysql.connector.Error as err:
     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
