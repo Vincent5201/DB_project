@@ -77,7 +77,7 @@ function AroundSelector() {
           <input
             type="checkbox"
             name="t6"
-            checked={aroundChecked.t5}
+            checked={aroundChecked.t6}
             onChange={handleAroundChange}
           />{" "}
           ATM
@@ -86,7 +86,7 @@ function AroundSelector() {
           <input
             type="checkbox"
             name="t7"
-            checked={aroundChecked.t5}
+            checked={aroundChecked.t7}
             onChange={handleAroundChange}
           />{" "}
           診所
@@ -95,7 +95,7 @@ function AroundSelector() {
           <input
             type="checkbox"
             name="t8"
-            checked={aroundChecked.t5}
+            checked={aroundChecked.t8}
             onChange={handleAroundChange}
           />{" "}
           理髮店
