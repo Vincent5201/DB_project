@@ -1,4 +1,4 @@
-R_ID,title,Category,ReviewsCount,Score,Location_ID
+R_ID,Title,Type,ReviewsCount,Score,Location_ID
 1,阿銘牛肉麵,1,1429,4.1,10001
 2,阿醜早餐店,2,12,4.5,10002
 3,老鄭牛肉麵,3,1704,4.0,10003
