@@ -1,0 +1,181 @@
+S_ID,Name,Store_type,Location_ID,Section,Address,Latitude,Longitude,Rating
+501,Barclay Memorial Park,5,5001,25,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874,4.4
+502,Tainan Park,5,5002,25,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924,4.2
+503,Yongkang Park,5,5003,25,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039,4.2
+504,Xiaodong Park,5,5004,25,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725,4.1
+505,Pingshi Park,5,5005,25,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541,4.3
+506,Tainan City Sports Park,5,5006,25,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503,4.3
+507,No.9 Park,5,5007,25,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303,4.2
+508,Dongxing Park,5,5008,25,"701, Taiwan, Tainan City, East District",22.9972554,120.2250295,4.2
+509,Wensheng Park,5,5009,25,"No. 255, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9829623,120.2425259,4.2
+5010,Tainan Sports Park,5,50010,25,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045,4.2
+5011,Daen Park,5,50011,25,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.965706,120.209966,4.1
+5012,Nanmen Park,5,50012,25,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692,4.3
+5013,Dongning Sports Park,5,50013,25,"No. 250號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9913922,120.2247529,4.2
+5014,Chongshan Park,5,50014,25,"701, Taiwan, Tainan City, East District, Chongshan 4th St, 56號號",22.9745794,120.2300747,4.2
+5015,Sanjiao Park,5,50015,25,"No. 311號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9834484,120.2181705,4.0
+5016,Yujing Park,5,50016,25,"No. 9, Yujing 1st St, East District, Tainan City, Taiwan 701",22.9790278,120.2440587,4.0
+5017,Donghe Park,5,50017,25,"Taiwan, Tainan City, East District, 701台南市東區",22.9988652,120.225174,4.5
+5018,南榕廣場,5,50018,25,"701, Taiwan, Tainan City, East District",22.9964906,120.2195431,5.0
+5019,Banyan Garden,5,50019,25,"701, Taiwan, Tainan City, East District, Dasyue Rd, 1號成功大學光復校區",23.0003294,120.2161599,4.6
+5020,Thng Tik-Tsiong Memorial Park,5,50020,25,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199,4.1
+5021,Guansheng Park,5,50021,25,"No. 229, Yuhe 5th St, East District, Tainan City, Taiwan 701",22.9861776,120.2467239,4.0
+5022,Qianxi Park,5,50022,25,"No. 95號, Yuhe 2nd St, East District, Tainan City, Taiwan 701",22.9859668,120.2403567,4.2
+5023,Chongxue Park,5,50023,25,"No. 22, Chongxue Rd, East District, Tainan City, Taiwan 701",22.9778323,120.2216113,4.0
+5024,哈赫拿爾森林,5,50024,25,"No. 90, Tiyu Rd, South District, Tainan City, Taiwan 702",22.976236,120.206164,3.0
+5025,Dongxingluyi Park,5,50025,25,"704, Taiwan, Tainan City, North District, 小東路307巷96弄17號",23.0004049,120.2321992,3.9
+5026,Kaishan Park,5,50026,25,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519,4.3
+5027,Shueipingwun Park,5,50027,25,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148,4.1
+5028,Xinsheng Park,5,50028,25,"Dalin Rd, South District, Tainan City, Taiwan 702",22.9760733,120.2124283,4.4
+5029,Chongde Park,5,50029,25,"701, Taiwan, Tainan City, East District, 崇德七街33-45號",22.9752143,120.2279434,4.1
+5030,Yuhua Park,5,50030,25,"No. 25, Yuhua 3rd St, East District, Tainan City, Taiwan 701",22.9787394,120.2464959,4.0
+5031,Fengxing Park,5,50031,25,"No. 9, Lane 559, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0013429,120.2278423,4.1
+5032,Guangming Park,5,50032,25,"701, Taiwan, Tainan City, East District, Lane 175, Guangming St, 26號號旁",22.9971766,120.2290367,4.1
+5033,Nansheng Park,5,50033,25,"No. 21, Yuhe 5th St, East District, Tainan City, Taiwan 701",22.9884094,120.2465546,4.1
+5034,巴克禮公園-黑森林,5,50034,25,"701, Taiwan, Tainan City, East District, 701",22.9669758,120.2232828,4.2
+5035,Wenliang Park,5,50035,25,"701, Taiwan, Tainan City, East District",22.9752017,120.2321578,4.1
+5036,開元公園苦楝樹,5,50036,25,"No. 66, Kainan St, North District, Tainan City, Taiwan 704",23.0066883,120.2240274,4.2
+5037,Zhuangjing Park,5,50037,25,"Lane 121, Section 2, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9976495,120.2302008,4.3
+5038,Tainan City Jinhua Park,5,50038,25,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516,4.1
+5039,Dalinyi Park,5,50039,25,"No. 33, Lane 482, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9727591,120.2136533,3.2
+5040,YuSheng Park 裕聖公園,5,50040,25,"No. 68, Yuxin 5th St, East District, Tainan City, Taiwan 701",22.9813674,120.2461496,5.0
+5041,218Ying Park,5,50041,25,"Lane 218, Baosheng E Rd, Rende District, Tainan City, Taiwan 717",22.9569258,120.2324789,4.8
+5042,Changrong Park,5,50042,25,"No. 15, Lane 333, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0086813,120.2196232,4.3
+5043,Zhonghualier9 Park,5,50043,25,"No. 44號, Lane 647, Xiaodong Rd, Yongkang District, Tainan City, Taiwan 710",23.0000889,120.2387729,0.0
+5044,Tongpanqian Park,5,50044,25,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9662194,120.2097722,0.0
+5045,Zhugaocuo Park,5,50045,25,"701, Taiwan, Tainan City, East District",22.964115,120.2374609,3.9
+5046,DongquE41 Park,5,50046,25,"No. 476號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9803204,120.2416093,4.0
+5047,念慈亭,5,50047,25,"704, Taiwan, Tainan City, North District, 704 台灣 燕 潭",23.001552,120.212167,4.0
+5048,Heping Park,5,50048,25,"701, Taiwan, Tainan City, East District",22.9765003,120.2331566,3.4
+5049,棒球公園,5,50049,25,"702台灣台南市南區健康路, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.980915,120.210566,3.9
+5050,Dongcheng Park,5,50050,25,"No. 150號, Dongcheng St, East District, Tainan City, Taiwan 701",22.9800618,120.2362837,3.8
+5051,Heshun Park,5,50051,25,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429,4.1
+5052,Wenhua Park,5,50052,25,"No. 86號, Wenhua 1st St, East District, Tainan City, Taiwan 701",22.9778578,120.2315583,4.5
+5053,Dafu Park,5,50053,25,"Lide 7th Rd, East District, Tainan City, Taiwan 701",22.9761431,120.2155134,3.9
+5054,Xianghe Park,5,50054,25,"No. 6號, Alley 22, Lane 226, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9908215,120.2106578,4.3
+5055,Daliner Park,5,50055,25,"No. 482巷, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9736823,120.2099384,4.4
+5056,臺南公園大燕潭,5,50056,25,"704, Taiwan, Tainan City, North District",23.0014483,120.2119299,5.0
+5057,Daliangshengtai Park,5,50057,25,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127,4.1
+5058,Tainan Metropolitan Park,5,50058,25,"No. 62, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.9358456,120.2240562,4.5
+5059,Chongcheng Park,5,50059,25,"Chongming 24th St, East District, Tainan City, Taiwan 701",22.966425,120.2260729,4.3
+5060,Huaishilu Park,5,50060,25,"No. 215號, Yuxiao Rd, East District, Tainan City, Taiwan 701",22.982978,120.243612,0.0
+5061,Tainan Park,5,50061,2,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924,4.2
+5062,Pingshi Park,5,50062,2,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541,4.3
+5063,Xiaodong Park,5,50063,2,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725,4.1
+5064,Xiwang Park,5,50064,2,"No. 139-153, Wencheng 1st Rd, North District, Tainan City, Taiwan 704",23.013791,120.2047624,4.1
+5065,Heshun Park,5,50065,2,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429,4.1
+5066,No.9 Park,5,50066,2,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303,4.2
+5067,Nanmen Park,5,50067,2,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692,4.3
+5068,Lide Park,5,50068,2,"No. 20, Section 1, Lixian Rd, North District, Tainan City, Taiwan 704",23.0099894,120.2053467,4.1
+5069,Yude Park,5,50069,2,"704, Taiwan, Tainan City, North District",23.0066463,120.2012639,3.9
+5070,Wenyuan Park,5,50070,2,"No. 23, Lane 650, Wencheng Rd, North District, Tainan City, Taiwan 704",23.0124548,120.1980612,4.0
+5071,Yongkang Park,5,50071,2,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039,4.2
+5072,Thng Tik-Tsiong Memorial Park,5,50072,2,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199,4.1
+5073,Barclay Memorial Park,5,50073,2,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874,4.4
+5074,Kaide Park,5,50074,2,"704, Taiwan, Tainan City, North District, 育德一街",23.0159919,120.2050041,4.5
+5075,Dongxing Park,5,50075,2,"701, Taiwan, Tainan City, East District",22.9972554,120.2250295,4.2
+5076,Chengde Park,5,50076,2,"No. 488-500, Yude Rd, North District, Tainan City, Taiwan 704",23.0140974,120.2072794,4.0
+5077,Beiyuan Park,5,50077,2,"Alley 49, Lane 985, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0187658,120.1987814,4.1
+5078,Zhengziliao Park,5,50078,2,"No. 301, Yucheng Rd, North District, Tainan City, Taiwan 704",23.020449,120.2055288,3.9
+5079,Dahe Park,5,50079,2,"No. 472號, Section 1, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.015696,120.18927,3.7
+5080,Lianyatang Memorial Park,5,50080,2,"704, Taiwan, Tainan City, North District",23.0033439,120.199481,3.8
+5081,Banyan Garden,5,50081,2,"701, Taiwan, Tainan City, East District, Dasyue Rd, 1號成功大學光復校區",23.0003294,120.2161599,4.6
+5082,Shueipingwun Park,5,50082,2,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148,4.1
+5083,Shijian Park,5,50083,2,"No. 156, Shijian St, North District, Tainan City, Taiwan 704",23.0133624,120.219618,3.7
+5084,Dongxingluyi Park,5,50084,2,"704, Taiwan, Tainan City, North District, 小東路307巷96弄17號",23.0004049,120.2321992,3.9
+5085,Guangxian Park,5,50085,2,"Guangxian St, West Central District, Tainan City, Taiwan 700",23.0047947,120.1894504,4.1
+5086,Fengxing Park,5,50086,2,"No. 9, Lane 559, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0013429,120.2278423,4.1
+5087,Yanshuixibei'an Riverside Park,5,50087,2,"No. 249, Section 5, Fuan Rd, Annan District, Tainan City, Taiwan 709",23.0206842,120.1941643,3.9
+5088,Donghe Park,5,50088,2,"Taiwan, Tainan City, East District, 701台南市東區",22.9988652,120.225174,4.5
+5089,Liren Park,5,50089,2,"No. 28, Lane 370, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0045043,120.2023895,2.8
+5090,Lin Mo-niang Park,5,50090,2,"No. 250號, Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9938758,120.1571958,4.4
+5091,Zhangxingshengtai Park,5,50091,2,"Gongyuan N Rd, North District, Tainan City, Taiwan 704",23.0046496,120.207364,4.0
+5092,Zhengde Park,5,50092,2,"No. 57號, Lane 194, Section 2, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.019092,120.203074,4.0
+5093,Liujia Park,5,50093,2,"No. 11, Lane 200, Section 4, Ximen Rd, North District, Tainan City, Taiwan 704",23.0103499,120.208995,4.1
+5094,湖美公園,5,50094,2,"No. 14號, Lane 42, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0014122,120.1815368,4.2
+5095,Shenganxiangcao Sports Park,5,50095,2,"No. 68, Alley 7, Lane 63, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0063889,120.2160683,4.0
+5096,Daliangshengtai Park,5,50096,2,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127,4.1
+5097,Wenling Park,5,50097,2,"704, Taiwan, Tainan City, North District, 文賢三街",23.0167072,120.197858,4.3
+5098,Historic Harborside Park Park,5,50098,2,"Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9953611,120.1621471,4.2
+5099,Fuping Park,5,50099,2,"Fuping Rd, Anping District, Tainan City, Taiwan 708",22.9875804,120.1719107,4.2
+50100,Yubei Park,5,500100,2,"No. 10, Lane 809, Yudeer Rd, North District, Tainan City, Taiwan 704",23.0197748,120.2008631,4.3
+50101,Daxing Park,5,500101,2,"No. 1號, Daxing St, North District, Tainan City, Taiwan 704",23.0119176,120.193712,3.9
+50102,Beicheng Park,5,500102,2,"No. 23, Alley 22, Lane 80, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0192184,120.2109891,4.2
+50103,Dingmei Park,5,500103,2,"700, Taiwan, Tainan City, West Central District",23.0048329,120.1856777,4.4
+50104,Wenzhong Park,5,500104,2,"No. 19, Lane 25, Section 2, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.0176388,120.1942384,3.8
+50105,念慈亭,5,500105,2,"704, Taiwan, Tainan City, North District, 704 台灣 燕 潭",23.001552,120.212167,4.0
+50106,Changrong Park,5,500106,2,"No. 15, Lane 333, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0086813,120.2196232,4.3
+50107,Shunde Park,5,500107,2,"No. 368-390, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0196113,120.2028027,3.9
+50108,開元公園苦楝樹,5,500108,2,"No. 66, Kainan St, North District, Tainan City, Taiwan 704",23.0066883,120.2240274,4.2
+50109,Yuanchang Park,5,500109,2,"No. 25號, Lane 300, Wenxianyi Rd, North District, Tainan City, Taiwan 704",23.0113766,120.1967028,4.1
+50110,永康公七公園（祥合公園）,5,500110,2,"No. 12, Lane 283, Zhonghuaer Rd, Yongkang District, Tainan City, Taiwan 710",23.0074401,120.23288,3.8
+50111,Dagang Park,5,500111,2,"No. 78號, Lane 192, Daxing St, North District, Tainan City, Taiwan 704",23.0123704,120.1881874,3.3
+50112,南榕廣場,5,500112,2,"701, Taiwan, Tainan City, East District",22.9964906,120.2195431,5.0
+50113,Chenggong Park,5,500113,2,"No. 58-64, Lane 128, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0209198,120.2098538,3.9
+50114,臺南公園大燕潭,5,500114,2,"704, Taiwan, Tainan City, North District",23.0014483,120.2119299,5.0
+50115,Dinghu Park,5,500115,2,"No. 163-165, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0042478,120.181561,4.2
+50116,Yuanbao Sweet Osmanthus Park,5,500116,2,"No. 53, Lane 80, Beiyuan St, North District, Tainan City, Taiwan 704",23.0127421,120.2242109,4.0
+50117,Wencheng Park,5,500117,2,"No. 751, Wencheng Rd, North District, Tainan City, Taiwan 704",23.0125606,120.195962,3.1
+50118,Kaishan Park,5,500118,2,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519,4.3
+50119,Tainan City Sports Park,5,500119,2,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503,4.3
+50120,Zhongtan Park,5,500120,2,"No. 340, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.0205292,120.2063801,3.8
+50121,Thng Tik-Tsiong Memorial Park,5,500121,3,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199,4.1
+50122,Shueipingwun Park,5,500122,3,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148,4.1
+50123,Nanmen Park,5,500123,3,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692,4.3
+50124,Daliangshengtai Park,5,500124,3,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127,4.1
+50125,Tainan Park,5,500125,3,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924,4.2
+50126,Barclay Memorial Park,5,500126,3,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874,4.4
+50127,Guangxian Park,5,500127,3,"Guangxian St, West Central District, Tainan City, Taiwan 700",23.0047947,120.1894504,4.1
+50128,Tainan Sports Park,5,500128,3,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045,4.2
+50129,No.9 Park,5,500129,3,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303,4.2
+50130,Xixian Park,5,500130,3,"Lane 109, Xixianyi St, West Central District, Tainan City, Taiwan 700",23.0021338,120.1775175,4.1
+50131,Dingmei Park,5,500131,3,"700, Taiwan, Tainan City, West Central District",23.0048329,120.1856777,4.4
+50132,Anping Canal Park,5,500132,3,"708, Taiwan, Tainan City, Anping District",22.997428,120.1757359,4.3
+50133,Wuqiao Park,5,500133,3,"No. 370, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9926436,120.1877808,4.1
+50134,Jianshi Park,5,500134,3,"No. 6, Anbei Rd, Anping District, Tainan City, Taiwan 708",22.9988397,120.1681548,3.9
+50135,Tainan City Sports Park,5,500135,3,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503,4.3
+50136,Kaishan Park,5,500136,3,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519,4.3
+50137,Tainan City Jinhua Park,5,500137,3,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516,4.1
+50138,Xihu Park,5,500138,3,"Section 4, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9992766,120.1842042,4.1
+50139,Heyi Park,5,500139,3,"700, Taiwan, Tainan City, West Central District",22.9886026,120.1991761,4.3
+50140,水萍塭公園中央舞台,5,500140,3,"號, No. 285, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9863239,120.1940517,3.7
+50141,Historic Harborside Park Park,5,500141,3,"Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9953611,120.1621471,4.2
+50142,Xiaoximen Park,5,500142,3,"No. 34號, Heyi Rd, West Central District, Tainan City, Taiwan 700",22.9885307,120.1990909,4.8
+50143,Lin Mo-niang Park,5,500143,3,"No. 250號, Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9938758,120.1571958,4.4
+50144,慶平公園,5,500144,3,"708, Taiwan, Tainan City, Anping District, Qingping Rd, 35號文平路",22.996463,120.180003,3.9
+50145,Wenping Park,5,500145,3,"No. 22, Alley 3, Lane 1, Section 2, Zhonghua W Rd, Anping District, Tainan City, Taiwan 708",22.9863884,120.1858451,4.3
+50146,湖美公園,5,500146,3,"No. 14號, Lane 42, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0014122,120.1815368,4.2
+50147,Heshun Park,5,500147,3,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429,4.1
+50148,台南環河街-廣8廣場,5,500148,3,"Huanhe St, West Central District, Tainan City, Taiwan 700",22.9941441,120.1921383,4.6
+50149,Xiaodong Park,5,500149,3,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725,4.1
+50150,Xianghe Park,5,500150,3,"No. 6號, Alley 22, Lane 226, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9908215,120.2106578,4.3
+50151,Xianbei Park,5,500151,3,"704, Taiwan, Tainan City, North District",23.0061181,120.1822824,3.9
+50152,Yude Park,5,500152,3,"704, Taiwan, Tainan City, North District",23.0066463,120.2012639,3.9
+50153,Lianyatang Memorial Park,5,500153,3,"704, Taiwan, Tainan City, North District",23.0033439,120.199481,3.8
+50154,Xiehe Park,5,500154,3,"700, Taiwan, Tainan City, West Central District, 700",23.0004077,120.1933744,4.1
+50155,Sanjiao Park,5,500155,3,"No. 311號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9834484,120.2181705,4.0
+50156,Luyi Park,5,500156,3,"No. 20, Lane 21, Wenxianyi Rd, North District, Tainan City, Taiwan 704",23.0039094,120.195548,3.9
+50157,Tainan 228 Memorial Park,5,500157,3,"Jianping Rd, Anping District, Tainan City, Taiwan 708",22.99156,120.1826689,3.7
+50158,Tainanshiyihui Riverside Park,5,500158,3,"708, Taiwan, Tainan City, Anping District",22.9894604,120.1858716,4.5
+50159,Yonghua Park,5,500159,3,"Yonghua 2nd St, Anping District, Tainan City, Taiwan 708",22.9851371,120.184266,4.0
+50160,大涼生態公園榕樹廣場,5,500160,3,"700, Taiwan, Tainan City, West Central District, 700",22.9955244,120.1899477,4.2
+50161,Dinghu Park,5,500161,3,"No. 163-165, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0042478,120.181561,4.2
+50162,Wusheng Park,5,500162,3,"No. 2, Alley 50, Lane 151, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0047379,120.1897333,4.0
+50163,Humeilijing Park,5,500163,3,"Humei 3rd St, West Central District, Tainan City, Taiwan 700",23.002756,120.1829973,4.1
+50164,原花園町綠園,5,500164,3,"No. 127號, Gongyuan Rd, West Central District, Tainan City, Taiwan 700",22.997314,120.2063526,0.0
+50165,Minsheng Park,5,500165,3,"No. 71-1號, Wuying St, West Central District, Tainan City, Taiwan 700",22.9890606,120.1900584,3.0
+50166,Laikou Park,5,500166,3,"702, Taiwan, Tainan City, South District, Section 1, Zhonghua W Rd, 和建南路口",22.985488,120.1861317,4.1
+50167,綠蔭廣場,5,500167,3,"702, Taiwan, Tainan City, South District, 702",22.9795694,120.2065457,0.0
+50168,東門圓環,5,500168,3,"700, Taiwan, Tainan City, West Central District, 東門圓環",22.9889027,120.2113935,3.9
+50169,Fuping Park,5,500169,3,"Fuping Rd, Anping District, Tainan City, Taiwan 708",22.9875804,120.1719107,4.2
+50170,Yizai Park,5,500170,3,"Gwangju Rd, Anping District, Tainan City, Taiwan 708",22.9898824,120.1589496,4.4
+50171,Dafeng Park,5,500171,3,"No. 376號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0075753,120.1873159,4.5
+50172,原始森林,5,500172,3,"No. 132號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.998783,120.196478,0.0
+50173,台南環河街,5,500173,3,"No. 102, Huanhe St, West Central District, Tainan City, Taiwan 700",22.9954512,120.1924611,4.1
+50174,Jianping Park,5,500174,3,"No. 26, Fuqian 4th St, Anping District, Tainan City, Taiwan 708",22.994011,120.1853623,3.8
+50175,Wuqiaoyunhexi'an Park,5,500175,3,"No. 237號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9915682,120.1908055,3.0
+50176,Wenhua Park,5,500176,3,"No. 275號, Section 1, Yonghua Rd, South District, Tainan City, Taiwan 702",22.9881831,120.1895283,4.2
+50177,Pingshi Park,5,500177,3,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541,4.3
+50178,Gong58 Park,5,500178,3,"No. 81, Lane 293, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9923432,120.2139395,3.3
+50179,文賢綠園,5,500179,3,"700, Taiwan, Tainan City, West Central District, 700",23.0005582,120.1880152,5.0
+50180,光賢里13號公園,5,500180,3,"No. 66號, Wenxiang St, West Central District, Tainan City, Taiwan 700",23.0012518,120.1881411,3.4

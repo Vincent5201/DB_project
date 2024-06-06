@@ -1,0 +1,181 @@
+S_ID,Name,Store_type,Location_ID,Section,Address,Latitude,Longitude,Rating
+401,Family Mart,4,4001,25,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358,2.9
+402,7-ELEVEN 民族門市,4,4002,25,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859,3.6
+403,7-ELEVEN 友愛門市,4,4003,25,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141,3.8
+404,FamilyMart National University of Tainan,4,4004,25,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487,3.4
+405,FamilyMart Tainan Linsen,4,4005,25,"No. 188號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9890814,120.2240204,3.2
+406,FamilyMart Tainan Jhongyi,4,4006,25,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069,2.2
+407,7-ELEVEN 永福門市,4,4007,25,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665,3.8
+408,7-ELEVEN 康樂門市 (SNOOPY主題商店),4,4008,25,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622,3.9
+409,全家便利商店 台南永福店-霜淇淋單口味,4,4009,25,"No. 191號, Section 1, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9881984,120.1999626,3.4
+4010,全家便利商店 台南常榮店,4,40010,25,"1、2樓, No. 39號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701020",22.9936558,120.2215537,4.0
+4011,7-ELEVEN 新東門市,4,40011,25,"No. 84號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9869887,120.2231252,4.2
+4012,全家便利商店 台南前站店,4,40012,25,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075,1.8
+4013,7-ELEVEN 開山門市,4,40013,25,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111,4.0
+4014,FamilyMart,4,40014,25,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398,3.4
+4015,FamilyMart Tainan Dedong,4,40015,25,"全棟, No. 83號, Dedong St, East District, Tainan City, Taiwan 701",22.961782,120.2296387,2.9
+4016,全家便利商店-台南成大店,4,40016,25,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",22.9995393,120.2151075,2.9
+4017,7-ELEVEN 東和門市,4,40017,25,"701, Taiwan, Tainan City, East District, Dong'an Rd, 291號293號1樓",22.9975866,120.2271248,4.4
+4018,7-ELEVEN 新東育門市,4,40018,25,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355,3.4
+4019,Family Mart,4,40019,25,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374,3.6
+4020,Family Mart,4,40020,25,"No. 150號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9948988,120.1950902,3.3
+4021,7-ELEVEN 南門城門市,4,40021,25,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263,2.8
+4022,7-ELEVEN 赤崁門市,4,40022,25,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461,3.8
+4023,千浤便利商店,4,40023,25,"710, Taiwan, Tainan City, Yongkang District, Lane 203, Zhonghuayi Rd, 1號1號",23.0040454,120.2336733,5.0
+4024,7-ELEVEN 天公門市,4,40024,25,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774,3.9
+4025,Family Mart,4,40025,25,"No. 1號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 701",22.9948105,120.2167921,4.5
+4026,全家便利商店-台南東德店,4,40026,25,"No. 128號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9795967,120.2193838,3.0
+4027,7-ELEVEN 致聖門市,4,40027,25,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909,3.7
+4028,7-ELEVEn T.S. Mall Store,4,40028,25,"701, Taiwan, Tainan City, East District, Section 1, Zhonghua E Rd, 366號3樓",22.9911239,120.232852,3.6
+4029,7-ELEVEN 竹篙厝門市,4,40029,25,"701, Taiwan, Tainan City, East District, Renhe Rd, 126號1樓",22.9709381,120.2332039,3.5
+4030,7-ELEVEN 大灣門市,4,40030,25,"No. 951號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9989089,120.2529112,3.2
+4031,7-ELEVEN 新永健門市,4,40031,25,"No. 346號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9814928,120.1999922,4.0
+4032,7-ELEVEN 北門門市 (卡娜赫拉主題商店),4,40032,25,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709,4.0
+4033,7-ELEVEN 崇明門市,4,40033,25,"No. 184號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9819764,120.2161906,4.2
+4034,7-Eleven,4,40034,25,"No. 12號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.9924931,120.2217582,4.0
+4035,全家便利商店-台南崇德店,4,40035,25,"No. 737號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9681213,120.2276029,2.4
+4036,7-ELEVEN 衛國門市,4,40036,25,"701, Taiwan, Tainan City, East District, Alley 24, Lane 192, Section 2, Linsen Rd, 5號7號",22.9892749,120.2253005,4.0
+4037,全家便利商店-台南東文店,4,40037,25,"No. 168號, Section 3, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9782325,120.2330273,3.3
+4038,7-ELEVEN 公園門市,4,40038,25,"704, Taiwan, Tainan City, North District, Gongyuan Rd, 1072-1號3號號 2",23.0184332,120.2159187,3.7
+4039,7-ELEVEN 東敬門市,4,40039,25,"No. 90號, Zhuangjing Rd, East District, Tainan City, Taiwan 701",22.9947445,120.2330208,3.5
+4040,7-ELEVEN 公平門市,4,40040,25,"No. 694號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0084968,120.2102091,3.8
+4041,7-ELEVEN 小東門市,4,40041,25,"701, Taiwan, Tainan City, East District, 小東路256號1樓",22.9987852,120.2308485,4.1
+4042,7-ELEVEN 崇道門市,4,40042,25,"701, Taiwan, Tainan City, East District, Chongshan Rd, 569號571號",22.9726655,120.2300799,3.8
+4043,全家便利商店-台南東平店,4,40043,25,"219號, No. 217號, Guangming St, East District, Tainan City, Taiwan 701",22.9955329,120.2288265,2.5
+4044,7-ELEVEN 東發門市,4,40044,25,"No. 379號, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.973587,120.2214633,3.9
+4045,7-ELEVEN 新永華門市,4,40045,25,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395,3.4
+4046,全家便利商店-台南榮寶店,4,40046,25,"No. 236號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9856788,120.2188651,2.5
+4047,7-ELEVEN 成商門市,4,40047,25,"1、2樓, No. 118號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9959267,120.2183002,3.2
+4048,7-ELEVEN 億載門市,4,40048,25,"No. 95-3號, Section 2, Datong Rd, South District, Tainan City, Taiwan 701",22.9786506,120.2134769,3.8
+4049,統一超商 成大商場,4,40049,25,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518,5.0
+4050,全家便利商店台南康順店-霜淇淋單口味,4,40050,25,"700029, Taiwan, Tainan City, West Central District, Section 1, Jiankang Rd, ９０號１樓No",22.9813835,120.2095851,3.4
+4051,7-ELEVEN 東龍門市,4,40051,25,"No. 362號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9864865,120.2186613,4.3
+4052,FamilyMart Tainan Changshun,4,40052,25,"No. 112號, Zhangbei St, North District, Tainan City, Taiwan 704",23.0023236,120.2046325,3.1
+4053,FamilyMart Tainan Park,4,40053,25,"No. 131號, Gongyuan N Rd, North District, Tainan City, Taiwan 704",23.0043736,120.2104493,2.2
+4054,全家便利商店 台南新崇義店-霜淇淋單口味,4,40054,25,"No. 471-3號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9747857,120.2264804,3.2
+4055,7-ELEVEN 好富門市,4,40055,25,"No. 320號, Yunong Rd, East District, Tainan City, Taiwan 701",22.9867371,120.2292024,3.2
+4056,VNEX Tainan 台南服務門市,4,40056,25,"No. 31號, No. 31, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.000028,120.2119247,4.4
+4057,7-ELEVEN 勝堉門市,4,40057,25,"No. 1號, Yule St, East District, Tainan City, Taiwan 701",22.9953419,120.2179136,3.9
+4058,7-ELEVEN Yawan Store,4,40058,25,"No. 812號, Section 2, Yonghua Rd, Anping District, Tainan City, Taiwan 708",22.9915434,120.1691728,4.1
+4059,7-ELEVEN 自由門市,4,40059,25,"No. 37號, Section 2, Ziyou Rd, East District, Tainan City, Taiwan 701",22.9710833,120.2374447,3.2
+4060,7-ELEVEN 新新樓門市,4,40060,25,"No. 16號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9898152,120.2127775,3.6
+4061,7-ELEVEN 友愛門市,4,40061,2,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141,3.8
+4062,Family Mart,4,40062,2,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358,2.9
+4063,7-ELEVEN 民族門市,4,40063,2,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859,3.6
+4064,FamilyMart National University of Tainan,4,40064,2,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487,3.4
+4065,FamilyMart Tainan Jhongyi,4,40065,2,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069,2.2
+4066,7-ELEVEN 永福門市,4,40066,2,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665,3.8
+4067,7-ELEVEN 開山門市,4,40067,2,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111,4.0
+4068,FamilyMart,4,40068,2,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398,3.4
+4069,7-ELEVEN 綜合門市,4,40069,2,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 26號 28號1樓",22.9949018,120.1983992,3.9
+4070,7-ELEVEN 天公門市,4,40070,2,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774,3.9
+4071,7-ELEVEN 康樂門市 (SNOOPY主題商店),4,40071,2,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622,3.9
+4072,全家便利商店 台南前站店,4,40072,2,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075,1.8
+4073,VNEX Tainan 台南服務門市,4,40073,2,"No. 31號, No. 31, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.000028,120.2119247,4.4
+4074,7-ELEVEN 豐盛門市,4,40074,2,"704, Taiwan, Tainan City, North District, Shengli Rd, 192號194號",23.0039579,120.2188361,3.5
+4075,7-ELEVEN 長源門市,4,40075,2,"No. 181號, Changrong Rd Section 4, North District, Tainan City, Taiwan 704",23.0066757,120.2213329,4.3
+4076,全家便利商店 台南和順店-霜淇淋單口味,4,40076,2,"No. 360號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0030297,120.2024659,3.3
+4077,FamilyMart Tainan Nanyuan,4,40077,2,"704, Taiwan, Tainan City, North District, Nanyuan St, 102號號1+2樓",23.0078482,120.2254318,2.9
+4078,7-ELEVEN 赤崁門市,4,40078,2,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461,3.8
+4079,7-ELEVEN 和善門市,4,40079,2,"No. 277號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9999182,120.1926025,3.7
+4080,全家便利商店 台南和緯店-霜淇淋雙口味,4,40080,2,"文, No. 333號, Section 3, Hewei Rd, North District, Tainan City, Taiwan 704",23.0096786,120.1958725,2.7
+4081,7-ELEVEN 新東育門市,4,40081,2,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355,3.4
+4082,7-ELEVEN 致聖門市,4,40082,2,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909,3.7
+4083,7-ELEVEN 南門城門市,4,40083,2,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263,2.8
+4084,全家便利商店 台南全順店,4,40084,2,"No. 59號, Changrong Rd Section 4, North District, Tainan City, Taiwan 704",23.0041854,120.2224485,3.3
+4085,7-ELEVEN Yawan Store,4,40085,2,"No. 812號, Section 2, Yonghua Rd, Anping District, Tainan City, Taiwan 708",22.9915434,120.1691728,4.1
+4086,Family Mart,4,40086,2,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374,3.6
+4087,7-ELEVEN 康榮門市,4,40087,2,"No. 2號, Section 3, Beimen Rd, North District, Tainan City, Taiwan 704",23.0128944,120.2171706,4.2
+4088,7-ELEVEN 新東門市,4,40088,2,"No. 84號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9869887,120.2231252,4.2
+4089,統一超商 成大商場,4,40089,2,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518,5.0
+4090,7-ELEVEN 北門門市 (卡娜赫拉主題商店),4,40090,2,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709,4.0
+4091,7-ELEVEN 成商門市,4,40091,2,"1、2樓, No. 118號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9959267,120.2183002,3.2
+4092,7-Eleven,4,40092,2,"717, Taiwan, Tainan City, Rende District, 中洲路1巷220號",22.9056872,120.2649305,3.3
+4093,7-ELEVEN 新永華門市,4,40093,2,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395,3.4
+4094,RT-Mart Tainan Store,4,40094,2,"No. 310號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0046614,120.2032966,4.2
+4095,全家便利商店-台南育德店,4,40095,2,"No. 433號, Yude Rd, North District, Tainan City, Taiwan 704",23.0137746,120.2064619,3.1
+4096,7-ELEVEN 公平門市,4,40096,2,"No. 694號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0084968,120.2102091,3.8
+4097,7-ELEVEN 東橋門市,4,40097,2,"No. 28號, Dongciao 1st Rd, Yongkang District, Tainan City, Taiwan 710",23.0170065,120.2352551,3.8
+4098,7-ELEVEN 西門門市,4,40098,2,"No. 132號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0087807,120.207584,3.6
+4099,7-ELEVEN 公園門市,4,40099,2,"704, Taiwan, Tainan City, North District, Gongyuan Rd, 1072-1號3號號 2",23.0184332,120.2159187,3.7
+40100,Carrefour Market Tainan Kaiyuan Store,4,400100,2,"No. 501, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0106553,120.22506,4.0
+40101,RJ Mart tainan,4,400101,2,"No. 111號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9978813,120.207455,4.3
+40102,COSTCO Tainan Store,4,400102,2,"No. 8號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0100177,120.1936728,4.3
+40103,7-ELEVEN 楠西門市,4,400103,2,"715, Taiwan, Tainan City, Nanxi District",23.1583787,120.4898175,4.4
+40104,INDEX 南洋百貨,4,400104,2,"No. 42號, Xihua St, North District, Tainan City, Taiwan 704",22.9998404,120.2108271,4.6
+40105,PX MART Tainan Zhongyi Store,4,400105,2,"No. 85、87號, Section 3, Zhongyi Rd, North District, Tainan City, Taiwan 70443",23.0006434,120.2056539,4.1
+40106,Hilife Tainan Nanyuan,4,400106,2,"No. 103號, Nanyuan St, North District, Tainan City, Taiwan 704",23.0079597,120.2255813,2.9
+40107,7-Eleven,4,400107,2,"No. 307號, Junping Rd, Anping District, Tainan City, Taiwan 708",22.989489,120.1640629,2.9
+40108,Hilife,4,400108,2,"No. 314號, Zhongzheng N Rd, Yongkang District, Tainan City, Taiwan 710",23.0416501,120.2476537,2.1
+40109,俗俗的賣生鮮超市,4,400109,2,"No. 40號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0068117,120.2065006,4.0
+40110,Carrefour Anping Store,4,400110,2,"No. 16號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",22.9883308,120.1873398,4.3
+40111,EEC ELITE EXPRESS TNN(台南店),4,400111,2,"No. 184號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9964702,120.2113543,3.6
+40112,Carrefour Market Tainan Bei’an Store,4,400112,2,"No. 167, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.0175631,120.2084963,4.1
+40113,Shin Kong Mitsukoshi Tainan Ximen Store,4,400113,2,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502,4.3
+40114,開南食品海安總店,4,400114,2,"No. 265號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0072808,120.199582,4.0
+40115,啤酒超市 Belgium Beer Restraunt,4,400115,2,"No. 428, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9993866,120.2013885,4.5
+40116,7-ELEVEN 崇祐門市,4,400116,2,"701, Taiwan, Tainan City, 崇成里崇明路561號 1樓",22.9709634,120.2258306,3.7
+40117,7-ELEVEN 祥發門市,4,400117,2,"1樓, No. 187號, Yufeng St, East District, Tainan City, Taiwan 701",22.988452,120.2272925,3.7
+40118,開南食品公園店,4,400118,2,"No. 248號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022396,120.2050084,4.1
+40119,加州安全帽專賣店,4,400119,2,"No. 1號, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704",22.9998841,120.2012261,4.7
+40120,SHOWBA小北百貨-台南西門店,4,400120,2,"No. 5號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.006253,120.2058625,4.0
+40121,7-ELEVEN 民族門市,4,400121,3,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859,3.6
+40122,7-ELEVEN 友愛門市,4,400122,3,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141,3.8
+40123,Family Mart,4,400123,3,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358,2.9
+40124,全家便利商店 台南前站店,4,400124,3,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075,1.8
+40125,全家便利商店 台南永福店-霜淇淋單口味,4,400125,3,"No. 191號, Section 1, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9881984,120.1999626,3.4
+40126,FamilyMart National University of Tainan,4,400126,3,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487,3.4
+40127,7-ELEVEN 光賢門市,4,400127,3,"700, Taiwan, Tainan City, West Central District, Section 2, Zhonghua W Rd, 600號 600-1號1.2樓",23.0044365,120.1869558,3.7
+40128,FamilyMart Tainan Jhongyi,4,400128,3,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069,2.2
+40129,FamilyMart,4,400129,3,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398,3.4
+40130,7-ELEVEN 永福門市,4,400130,3,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665,3.8
+40131,7-ELEVEN 綜合門市,4,400131,3,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 26號 28號1樓",22.9949018,120.1983992,3.9
+40132,7-ELEVEN 天公門市,4,400132,3,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774,3.9
+40133,7-ELEVEN 開山門市,4,400133,3,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111,4.0
+40134,7-ELEVEN 和善門市,4,400134,3,"No. 277號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9999182,120.1926025,3.7
+40135,7-ELEVEN 赤崁門市,4,400135,3,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461,3.8
+40136,Family Mart,4,400136,3,"No. 150號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9948988,120.1950902,3.3
+40137,Family Mart,4,400137,3,"No. 1號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 701",22.9948105,120.2167921,4.5
+40138,Family Mart,4,400138,3,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374,3.6
+40139,7-ELEVEN 康樂門市 (SNOOPY主題商店),4,400139,3,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622,3.9
+40140,全家便利商店台南康順店-霜淇淋單口味,4,400140,3,"700029, Taiwan, Tainan City, West Central District, Section 1, Jiankang Rd, ９０號１樓No",22.9813835,120.2095851,3.4
+40141,全家便利商店 台南芳草店-霜淇淋單口味,4,400141,3,"No. 375、377號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9973489,120.189416,4.0
+40142,全家便利商店-台南忠成店,4,400142,3,"No. 118號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9985229,120.2050524,3.1
+40143,7-ELEVEN 明倫門市,4,400143,3,"1.2樓, No. 88號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9906736,120.1927552,4.5
+40144,全家便利商店 台南康樂三店,4,400144,3,"No. 178號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9914348,120.1936993,2.8
+40145,7-ELEVEN 佰納門市,4,400145,3,"No. 294號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9971751,120.1911486,3.8
+40146,7-ELEVEN 新永健門市,4,400146,3,"No. 346號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9814928,120.1999922,4.0
+40147,全家便利商店 台南五妃店,4,400147,3,"No. 270號, Wufei St, West Central District, Tainan City, Taiwan 700",22.982675,120.1992623,3.4
+40148,7-ELEVEN 新運河門市,4,400148,3,"1樓, No. 239號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9918586,120.1906858,3.7
+40149,7-ELEVEn 台南星鑽門市,4,400149,3,"No. 218號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9944866,120.1936966,4.3
+40150,7-ELEVEN 湖華門市,4,400150,3,"No. 3號, Xihu St, West Central District, Tainan City, Taiwan 700",23.003322,120.1864587,3.4
+40151,全家便利商店 尊王店,4,400151,3,"No. 143號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9920433,120.1928405,2.7
+40152,春松便利商店,4,400152,3,"No. 126號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9940467,120.200905,4.0
+40153,福 不倒翁 自動販賣機,4,400153,3,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, No. 3",22.9884929,120.2111743,0.0
+40154,7-ELEVEN 新永華門市,4,400154,3,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395,3.4
+40155,7-ELEVEN 北門門市 (卡娜赫拉主題商店),4,400155,3,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709,4.0
+40156,Hilife,4,400156,3,"No. 580號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9861844,120.1976886,2.7
+40157,7-ELEVEN 南門城門市,4,400157,3,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263,2.8
+40158,7-ELEVEN 郡王門市,4,400158,3,"No. 144號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891136,120.2073923,4.2
+40159,7-ELEVEN 新光美門市,4,400159,3,"B2, No. 162號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9954795,120.2099473,4.5
+40160,SMART LIFE（台南站第一月台）,4,400160,3,"No. 210號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9971413,120.2128989,2.2
+40161,7-ELEVEN 聖賢門市,4,400161,3,"No. 315號, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0067268,120.1934576,4.2
+40162,7-ELEVEN 千福門市,4,400162,3,"No. 36號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",22.9928605,120.1870365,4.3
+40163,7-ELEVEN 大五門市,4,400163,3,"No. 218號, Section 1, Datong Rd, West Central District, Tainan City, Taiwan 700",22.9824421,120.2112791,3.7
+40164,7-ELEVEN 致聖門市,4,400164,3,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909,3.7
+40165,全家便利商店-台南美環店,4,400165,3,"No. 277號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9919601,120.1897106,2.4
+40166,7-ELEVEN 新府緯門市,4,400166,3,"702, Taiwan, Tainan City, South District, Section 1, Ximen Rd, 553號1樓",22.9838112,120.1974262,3.6
+40167,蔡秀真,4,400167,3,"700, Taiwan, Tainan City, West Central District, Section 2, Ximen Rd, 389號9樓",22.9986924,120.2004222,0.0
+40168,7-ELEVEN 新海成門市,4,400168,3,"No. 2號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0005759,120.1989765,3.1
+40169,Family Mart,4,400169,3,"No. 586號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0023571,120.1951054,2.6
+40170,7-ELEVEN 新新樓門市,4,400170,3,"No. 16號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9898152,120.2127775,3.6
+40171,7-ELEVEN 南醫門市,4,400171,3,"之13, No. 76號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9950809,120.2081208,3.8
+40172,萊爾富便利商店 府城和緯店,4,400172,3,"No. 67號, Lane 95, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.006913,120.1913308,2.9
+40173,7-ELEVEN 新東育門市,4,400173,3,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355,3.4
+40174,7-ELEVEN 東都門市,4,400174,3,"No. 140號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9986949,120.2046775,4.2
+40175,全家便利商店-台南成大店,4,400175,3,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",22.9995393,120.2151075,2.9
+40176,7-ELEVEN 鎮山門市,4,400176,3,"No. 10號, Humei St, West Central District, Tainan City, Taiwan 700",22.9992659,120.1801675,3.7
+40177,7-ELEVEN 體育門市,4,400177,3,"No. 166號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9813951,120.207352,4.0
+40178,統一超商 成大商場,4,400178,3,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518,5.0
+40179,7-ELEVEN 武德門市,4,400179,3,"No. 134號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9917635,120.2092671,3.8
+40180,7-ELEVEN 武聖門市,4,400180,3,"700, Taiwan, Tainan City, West Central District, Wusheng Rd, 47號49號",23.0053565,120.1922764,4.0

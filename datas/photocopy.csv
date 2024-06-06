@@ -1,0 +1,151 @@
+S_ID,Store_type,Name,Location_ID,Section,Address,Latitude,Longitude,Rating
+101,1,康華輸出設計中心(臨時公告請至臉書查詢）,1001,25,"No. 110-1號, Dongping Rd, East District, Tainan City, Taiwan 70160",22.995402,120.2305418,4.9
+102,1,元岡影印店,1002,25,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468,4.2
+103,1,聯吉文書有限公司,1003,25,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475,5.0
+104,1,馬雅影印,1004,25,"No. 137, Shengli Rd, East District, Tainan City, Taiwan 701",22.9950207,120.2178204,4.2
+105,1,神彩影像輸出,1005,25,"No. 188, Yule St, East District, Tainan City, Taiwan 701",22.9939847,120.2145907,4.6
+106,1,飛揚影印店,1006,25,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894,4.3
+107,1,吉祥影印社,1007,25,"No. 55號, Yule St, East District, Tainan City, Taiwan 701",22.9954471,120.216406,4.3
+108,1,印象行影印&圖文輸出,1008,25,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706,4.6
+109,1,源豐影印,1009,25,"No. 61號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9922793,120.2071349,4.1
+1010,1,繁星數位影印,10010,25,"701, Taiwan, Tainan City, East District, Shengli Rd, 93-1號copy2090789@gmail.com2樓",22.9921067,120.217699,4.2
+1011,1,太學系列-壺冰影印社,10011,25,"No. 93號, Yule St, East District, Tainan City, Taiwan 701",22.9956414,120.2155633,4.6
+1012,1,佳格專業影印,10012,25,"No. 8號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9891028,120.2412574,4.0
+1013,1,台南吉茂數位輸出影印印刷店,10013,25,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534,4.9
+1014,1,複製學院影印店-成大店,10014,25,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867,3.6
+1015,1,欣達企業(美佳美數位影印),10015,25,"No. 477, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9913035,120.2174167,4.1
+1016,1,忠盈行,10016,25,"No. 223號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874986,120.2167534,4.4
+1017,1,美捷馨影印店-臺南店,10017,25,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656,4.7
+1018,1,冠華數位影印中心 - 成大店,10018,25,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748,2.8
+1019,1,元祥行,10019,25,"No. 253號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9893385,120.2027223,4.2
+1020,1,汎美數位输出冲印中心 (FB Digital Enterprise),10020,25,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131,4.1
+1021,1,乘漢影印行,10021,25,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092,3.6
+1022,1,經典數位印刷 台南站前店,10022,25,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859,4.9
+1023,1,PO Line Copy,10023,25,"No. 97之1號, Yule St, East District, Tainan City, Taiwan 701",22.9956571,120.2154087,4.4
+1024,1,柔梅影印社,10024,25,"701, Taiwan, Tainan City, East District, 大學路西段11號",22.9962144,120.2178764,4.4
+1025,1,創義印務設計庇護工場 Chongyi Sheltered Workshop,10025,25,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646,4.8
+1026,1,金池塘影印店,10026,25,"No. 161, Shengli Rd, East District, 台灣省 Taiwan 701",22.9955743,120.2180739,4.4
+1027,1,大友數位影印,10027,25,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525,4.2
+1028,1,佳利影印,10028,25,"No. 5號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984179,120.2503186,4.5
+1029,1,鴻展大圖輸出社 HOMEPRO REPROGRAPHICS & DATA PROCESSING CO.,10029,25,"701, Taiwan, Tainan City, East District, 大學路西段23號",22.9962746,120.2175855,4.1
+1030,1,富辰創意印刷,10030,25,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494,4.1
+1031,1,台一影印,10031,25,"No. 131, Shengli Rd, East District, Tainan City, Taiwan 701",22.9949377,120.217855,3.0
+1032,1,順天綜合印刷廠,10032,25,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234,4.1
+1033,1,美文資料輸出中心,10033,25,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093,4.2
+1034,1,複製館影印店- 東平店,10034,25,"No. 88號, Dongping Rd, East District, Tainan City, Taiwan 701",22.9953791,120.2310697,3.9
+1035,1,華特圖文輸出店,10035,25,"No. 3號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984951,120.2504428,4.6
+1036,1,享印設計輸出中心,10036,25,"700, Taiwan, Tainan City, West Central District, Nanmen Rd, 46-5號1樓",22.985308,120.203931,4.9
+1037,1,本田影印,10037,25,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561,4.6
+1038,1,歐克影印店,10038,25,"710, Taiwan, Tainan City, Yongkang District, Dawan Rd, 1050號號",22.9989854,120.2523808,4.7
+1039,1,東鵬影印,10039,25,"No. 173號, Section 1, Erren Rd, Rende District, Tainan City, Taiwan 717",22.9208454,120.2247676,3.9
+1040,1,立地印刷社,10040,25,"No. 2號, Alley 11, Lane 2, Chongdewu St, East District, Tainan City, Taiwan 701",22.9755816,120.2266851,5.0
+1041,1,彩映印刷輸出中心,10041,25,"No. 331號, Section 2, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9816791,120.2302166,3.8
+1042,1,晉昌印刷(晉昌號),10042,25,"No. 90, Chongming 7th St, East District, Tainan City, Taiwan 701",22.9794651,120.2191317,4.8
+1043,1,履樂影印,10043,25,"No. 62號, Huaien St, East District, Tainan City, Taiwan 701",22.9895717,120.2178847,4.8
+1044,1,苑美彩色輸出中心,10044,25,"No. 35, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9983341,120.2495378,3.6
+1045,1,宏彩圖文輸出中心,10045,25,"No. 256號, Dong'an Rd, East District, Tainan City, Taiwan 701",22.9967066,120.2274698,5.0
+1046,1,嘉成影印,10046,25,"No. 471號, Section 3, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.971416,120.2433256,4.1
+1047,1,鼎雅印刷,10047,25,"No. 23號, Lane 148, Yule St, East District, Tainan City, Taiwan 701",22.9957402,120.2139076,4.4
+1048,1,金佰達輸出中心,10048,25,"No. 125號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.995261,120.2217166,3.5
+1049,1,立台彩色印刷企業股份有限公司,10049,25,"No. 31號, Lane 40, Section 1, Funong St, East District, Tainan City, Taiwan 701",22.9784414,120.2351823,4.6
+1050,1,快捷利數位影像科技有限公司,10050,25,"No. 470, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 70167",22.9733524,120.2182048,4.5
+1051,1,Yingyin Station,10051,25,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683,3.5
+1052,1,捷印站影印店,10052,25,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042,4.3
+1053,1,東南打字行,10053,25,"No. 18號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.99227,120.2062156,3.8
+1054,1,展晟全方位圖文輸出有限公司-(台南健康店),10054,25,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677,4.4
+1055,1,天德行股份有限公司,10055,25,"No. 3號, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.994325,120.2025749,4.9
+1056,1,豐生打字印刷社 欣鹿書房,10056,25,"701, Taiwan, Tainan City, East District, Dongrong St, 1-3號號",22.991042,120.21545,4.6
+1057,1,華彩大圖輸出廣告設計(東門店),10057,25,"No. 301, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9868256,120.2187234,3.8
+1058,1,南一複印有限公司,10058,25,"No. 302, Section 1, Fuqian Rd, West Central District, 台灣省 Taiwan 700",22.9902026,120.1990548,3.7
+1059,1,欣格數位印刷,10059,25,"No. 95號, Chongming 10th St, East District, Tainan City, Taiwan 701",22.9769053,120.2220898,4.6
+1060,1,盈利印刷,10060,25,"No. 825號 號, Chongshan Rd, East District, Tainan City, Taiwan 701",22.9672208,120.232118,3.4
+1061,1,元岡影印店,10061,2,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468,4.2
+1062,1,印象行影印&圖文輸出,10062,2,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706,4.6
+1063,1,飛揚影印店,10063,2,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894,4.3
+1064,1,捷印站影印店,10064,2,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042,4.3
+1065,1,乘漢影印行,10065,2,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092,3.6
+1066,1,聯吉文書有限公司,10066,2,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475,5.0
+1067,1,複製學院影印店-成大店,10067,2,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867,3.6
+1068,1,冠華數位影印中心 - 成大店,10068,2,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748,2.8
+1069,1,Yingyin Station,10069,2,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683,3.5
+1070,1,台南吉茂數位輸出影印印刷店,10070,2,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534,4.9
+1071,1,8點圖書文具生活廣場(領航者圖文百貨有限公司),10071,2,"No. 153號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0094908,120.2076167,4.4
+1072,1,展晟全方位圖文輸出有限公司-(台南健康店),10072,2,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677,4.4
+1073,1,本田影印,10073,2,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561,4.6
+1074,1,美捷馨影印店-臺南店,10074,2,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656,4.7
+1075,1,旋轉木馬燙金喜帖Love wins,10075,2,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648,4.9
+1076,1,經典數位印刷 台南站前店,10076,2,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859,4.9
+1077,1,大友數位影印,10077,2,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525,4.2
+1078,1,全丞數位印刷,10078,2,"No. 650號, Daxing St, North District, Tainan City, Taiwan 704",23.0074659,120.1782156,4.4
+1079,1,美文資料輸出中心,10079,2,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093,4.2
+1080,1,順天綜合印刷廠,10080,2,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234,4.1
+1081,1,昱慶特殊印刷股份有限公司,10081,2,"No. 2, Xinggong Rd, Yongkang District, 台灣省 Taiwan 710",23.0453892,120.2734588,4.4
+1082,1,IMIN Tainan,10082,2,"No. 11號, Lane 83, Nanning St, West Central District, Tainan City, Taiwan 700",22.9845959,120.1984979,4.5
+1083,1,"南台彩藝股份有限公司 NTI PRINTING CO., LTD.",10083,2,"No. 29號, Gongye 6th Rd, Annan District, Tainan City, Taiwan 709015",23.0387516,120.1381154,4.7
+1084,1,Shin Kong Mitsukoshi Tainan Zhongshan Store,10084,2,"700, Taiwan, Tainan City, West Central District, Zhongshan Rd, 162號GF樓",22.9954246,120.2099223,4.2
+1085,1,RT-Mart Tainan Store,10085,2,"No. 310號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0046614,120.2032966,4.2
+1086,1,Shin Kong Mitsukoshi Tainan Ximen Store,10086,2,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502,4.3
+1087,1,COSTCO Tainan Store,10087,2,"No. 8號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0100177,120.1936728,4.3
+1088,1,加州安全帽專賣店,10088,2,"No. 1號, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704",22.9998841,120.2012261,4.7
+1089,1,Shin Kong Mitsukoshi Tainan Fun Centre,10089,2,"No. 658-1號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9873348,120.1982835,4.5
+1090,1,原印文創股份有限公司,10090,2,"702, Taiwan, 台灣省台南市 南區健康路一段391巷9號4樓",22.9810411,120.1996352,5.0
+1091,1,印象行影印&圖文輸出,10091,3,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706,4.6
+1092,1,源豐影印,10092,3,"No. 61號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9922793,120.2071349,4.1
+1093,1,元岡影印店,10093,3,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468,4.2
+1094,1,神彩影像輸出,10094,3,"No. 188, Yule St, East District, Tainan City, Taiwan 701",22.9939847,120.2145907,4.6
+1095,1,元祥行,10095,3,"No. 253號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9893385,120.2027223,4.2
+1096,1,吉祥影印社,10096,3,"No. 55號, Yule St, East District, Tainan City, Taiwan 701",22.9954471,120.216406,4.3
+1097,1,馬雅影印,10097,3,"No. 137, Shengli Rd, East District, Tainan City, Taiwan 701",22.9950207,120.2178204,4.2
+1098,1,太學系列-壺冰影印社,10098,3,"No. 93號, Yule St, East District, Tainan City, Taiwan 701",22.9956414,120.2155633,4.6
+1099,1,繁星數位影印,10099,3,"701, Taiwan, Tainan City, East District, Shengli Rd, 93-1號copy2090789@gmail.com2樓",22.9921067,120.217699,4.2
+10100,1,汎美數位输出冲印中心 (FB Digital Enterprise),100100,3,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131,4.1
+10101,1,經典數位印刷 台南站前店,100101,3,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859,4.9
+10102,1,飛揚影印店,100102,3,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894,4.3
+10103,1,康華輸出設計中心(臨時公告請至臉書查詢）,100103,3,"No. 110-1號, Dongping Rd, East District, Tainan City, Taiwan 70160",22.995402,120.2305418,4.9
+10104,1,聯吉文書有限公司,100104,3,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475,5.0
+10105,1,創義印務設計庇護工場 Chongyi Sheltered Workshop,100105,3,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646,4.8
+10106,1,複製學院影印店-成大店,100106,3,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867,3.6
+10107,1,欣達企業(美佳美數位影印),100107,3,"No. 477, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9913035,120.2174167,4.1
+10108,1,忠盈行,100108,3,"No. 223號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874986,120.2167534,4.4
+10109,1,順天綜合印刷廠,100109,3,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234,4.1
+10110,1,享印設計輸出中心,100110,3,"700, Taiwan, Tainan City, West Central District, Nanmen Rd, 46-5號1樓",22.985308,120.203931,4.9
+10111,1,美捷馨影印店-臺南店,100111,3,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656,4.7
+10112,1,Panasonic,100112,3,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 198號YMCA隔壁",22.9964361,120.1936173,4.6
+10113,1,乘漢影印行,100113,3,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092,3.6
+10114,1,PO Line Copy,100114,3,"No. 97之1號, Yule St, East District, Tainan City, Taiwan 701",22.9956571,120.2154087,4.4
+10115,1,冠華數位影印中心 - 成大店,100115,3,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748,2.8
+10116,1,南一複印有限公司,100116,3,"No. 302, Section 1, Fuqian Rd, West Central District, 台灣省 Taiwan 700",22.9902026,120.1990548,3.7
+10117,1,台南吉茂數位輸出影印印刷店,100117,3,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534,4.9
+10118,1,全丞數位印刷,100118,3,"No. 650號, Daxing St, North District, Tainan City, Taiwan 704",23.0074659,120.1782156,4.4
+10119,1,金池塘影印店,100119,3,"No. 161, Shengli Rd, East District, 台灣省 Taiwan 701",22.9955743,120.2180739,4.4
+10120,1,美文資料輸出中心,100120,3,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093,4.2
+10121,1,高傳真印刷便利屋,100121,3,"No. 122號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9912391,120.1948741,5.0
+10122,1,展晟全方位圖文輸出有限公司-(台南健康店),100122,3,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677,4.4
+10123,1,天德行股份有限公司,100123,3,"No. 3號, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.994325,120.2025749,4.9
+10124,1,大友數位影印,100124,3,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525,4.2
+10125,1,佳格專業影印,100125,3,"No. 8號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9891028,120.2412574,4.0
+10126,1,宏達打字印刷有限公司,100126,3,"No. 91號, Xihe Rd, West Central District, Tainan City, Taiwan 700",23.0005288,120.1887954,4.3
+10127,1,柔梅影印社,100127,3,"701, Taiwan, Tainan City, East District, 大學路西段11號",22.9962144,120.2178764,4.4
+10128,1,台一影印,100128,3,"No. 131, Shengli Rd, East District, Tainan City, Taiwan 701",22.9949377,120.217855,3.0
+10129,1,益陞數位印刷,100129,3,"No. 348號, Guoping Rd, Anping District, Tainan City, Taiwan 708",22.9928289,120.1713958,4.5
+10130,1,鼎雅印刷,100130,3,"No. 23號, Lane 148, Yule St, East District, Tainan City, Taiwan 701",22.9957402,120.2139076,4.4
+10131,1,晉昌印刷(晉昌號),100131,3,"No. 90, Chongming 7th St, East District, Tainan City, Taiwan 701",22.9794651,120.2191317,4.8
+10132,1,捷印站影印店,100132,3,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042,4.3
+10133,1,東南打字行,100133,3,"No. 18號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.99227,120.2062156,3.8
+10134,1,玖愛印數位雲端印刷網,100134,3,"No. 66號, Dayong St, West Central District, Tainan City, Taiwan 70056",22.9899864,120.1932597,4.5
+10135,1,富辰創意印刷,100135,3,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494,4.1
+10136,1,旋轉木馬燙金喜帖Love wins,100136,3,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648,4.9
+10137,1,慈文印刷股份有限公司,100137,3,"No. 81號, Heshan St, West Central District, Tainan City, Taiwan 700",23.0019134,120.1900869,5.0
+10138,1,豐生打字印刷社 欣鹿書房,100138,3,"701, Taiwan, Tainan City, East District, Dongrong St, 1-3號號",22.991042,120.21545,4.6
+10139,1,華彩海報輸出印刷設計(成功店)-商業廣告設計 印刷 推薦 海報設計 大圖輸出 標籤貼紙 客製化數位輸出商品,100139,3,"No. 263號, Chenggong Rd, West Central District, Tainan City, Taiwan 70042",22.9992124,120.2021149,4.7
+10140,1,複製館影印店 南台二店,100140,3,"No. 18, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022419,120.223925,4.3
+10141,1,萬峰企業有限公司 標籤印刷工廠 貼紙印刷工廠 數位印刷工廠,100141,3,"No. 256號, Xinxing Rd, South District, Tainan City, Taiwan 702",22.9761889,120.1921582,5.0
+10142,1,合合樂網路合版‧輸出‧印刷中心（桂圓股份有限公司）,100142,3,"No. 308號, Wenxian 1st Rd, North District, Tainan City, Taiwan 704",23.0117963,120.1953979,3.8
+10143,1,履樂影印,100143,3,"No. 62號, Huaien St, East District, Tainan City, Taiwan 701",22.9895717,120.2178847,4.8
+10144,1,9x9 Stationery,100144,3,"70048, Taiwan, Tainan City, West Central District, Section 2, Ximen Rd, 120號1樓",22.9934984,120.1989863,4.4
+10145,1,崑城鎖店,100145,3,"No. 355, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0075271,120.1934598,4.3
+10146,1,金佰達輸出中心,100146,3,"No. 125號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.995261,120.2217166,3.5
+10147,1,昱盛自黏商標印刷,100147,3,"No. 109號, Lane 69, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0032653,120.1906231,5.0
+10148,1,宏彩圖文輸出中心,100148,3,"No. 256號, Dong'an Rd, East District, Tainan City, Taiwan 701",22.9967066,120.2274698,5.0
+10149,1,安平 慶平 影印店,100149,3,"708, Taiwan, Tainan City, Anping District, Qingping Rd, 557號1樓",22.9974192,120.1705221,3.1
+10150,1,洪印刷器材社,100150,3,"No. 81, Weimin St, West Central District, Tainan City, Taiwan 700",22.9929017,120.2094627,5.0
