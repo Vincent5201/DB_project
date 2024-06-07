@@ -22,7 +22,7 @@ def get_db_connection():
         return None
 
 # Read the CSV file
-csv_file_path = r'sorte_datas\house_finish.csv'
+csv_file_path = r'sorte_datas\restaurant_finish.csv'
 data = pd.read_csv(csv_file_path)
 
 # Establish the database connection
@@ -33,8 +33,8 @@ if connection:
     # Iterate over the rows in the DataFrame and insert into the database
     for index, row in data.iterrows():
         insert_query = """
-        INSERT INTO house (H_ID, Title, Price, Score, Location_id, Equipment_id, Housetype_id, Lanlord_id)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO restaurant (r_id,title,type,reviewsCount,score,location_ID)
+        VALUES (%s, %s, %s, %s, %s, %s)
         """
         cursor.execute(insert_query, tuple(row))
 
