@@ -68,6 +68,8 @@ const Selector = ({ properties, anotherprop }) => {
         <FloorSelector onFilterChange={handleFilterChange} />
         <ScoreSelector onFilterChange={handleFilterChange} />
         <EquipSelector onFilterChange={handleFilterChange} />
+        <AroundSelector onFilterChange={handleFilterChange} />
+        <LocationSelector onFilterChange={handleFilterChange} />
         <button className="ui button" onClick={fetchHouses}>
           搜尋
         </button>
