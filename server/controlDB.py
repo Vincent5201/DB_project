@@ -80,19 +80,23 @@ def get_houses():
                 e_id_str = ', '.join(map(str, E_id))
                 query += f" AND Equipment_ID IN ({e_id_str})"
     if len(rent):
+        low = 100000
+        high = 0
         if "5,000元以下" in rent:
-            high = 5000
+            low = min(low, 0)
+            high = max(high, 5000)
         if "5,000-9,000元" in rent:
-            high = 9000
-            low = 5000
+            low = min(low, 5000)
+            high = max(high, 9000)
         if "9,000-14,000元" in rent:
-            high = 14000
-            low = 9000
+            low = min(low, 9000)
+            high = max(high, 14000)
         if "14,000-20,000元" in rent:
-            high = 14000
-            low = 20000
+            low = min(low, 14000)
+            high = max(high, 20000)
         if "大於20,000元" in rent:
-            low = 20000
+            low = min(low, 20000)
+            high = max(high, 100000)
         query += f" AND Price > {low} AND Price < {high}"
     if len(rating):
         low = 5
