@@ -143,13 +143,13 @@ L_ID,Section,Street,Address,Lat,Lng
 142,3,民生路二段,中西區-民生路二段,22.9964383,120.1928398
 1001,25,,"No. 110-1號, Dongping Rd, East District, Tainan City, Taiwan 70160",22.995402,120.2305418
 1002,25,,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468
-1003,25,,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475
+1003,2,,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475
 1004,25,,"No. 137, Shengli Rd, East District, Tainan City, Taiwan 701",22.9950207,120.2178204
 1005,25,,"No. 188, Yule St, East District, Tainan City, Taiwan 701",22.9939847,120.2145907
 1006,25,,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894
 1007,25,,"No. 55號, Yule St, East District, Tainan City, Taiwan 701",22.9954471,120.216406
-1008,25,,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706
-1009,25,,"No. 61號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9922793,120.2071349
+1008,3,,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706
+1009,3,,"No. 61號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9922793,120.2071349
 10010,25,,"701, Taiwan, Tainan City, East District, Shengli Rd, 93-1號copy2090789@gmail.com2樓",22.9921067,120.217699
 10011,25,,"No. 93號, Yule St, East District, Tainan City, Taiwan 701",22.9956414,120.2155633
 10012,25,,"No. 8號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9891028,120.2412574
@@ -159,136 +159,136 @@ L_ID,Section,Street,Address,Lat,Lng
 10016,25,,"No. 223號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874986,120.2167534
 10017,25,,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656
 10018,25,,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748
-10019,25,,"No. 253號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9893385,120.2027223
-10020,25,,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131
+10019,3,,"No. 253號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9893385,120.2027223
+10020,2,,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131
 10021,25,,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092
-10022,25,,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859
+10022,3,,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859
 10023,25,,"No. 97之1號, Yule St, East District, Tainan City, Taiwan 701",22.9956571,120.2154087
 10024,25,,"701, Taiwan, Tainan City, East District, 大學路西段11號",22.9962144,120.2178764
-10025,25,,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646
+10025,1,,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646
 10026,25,,"No. 161, Shengli Rd, East District, 台灣省 Taiwan 701",22.9955743,120.2180739
 10027,25,,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525
-10028,25,,"No. 5號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984179,120.2503186
+10028,22,,"No. 5號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984179,120.2503186
 10029,25,,"701, Taiwan, Tainan City, East District, 大學路西段23號",22.9962746,120.2175855
-10030,25,,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494
+10030,1,,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494
 10031,25,,"No. 131, Shengli Rd, East District, Tainan City, Taiwan 701",22.9949377,120.217855
-10032,25,,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234
+10032,3,,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234
 10033,25,,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093
 10034,25,,"No. 88號, Dongping Rd, East District, Tainan City, Taiwan 701",22.9953791,120.2310697
-10035,25,,"No. 3號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984951,120.2504428
-10036,25,,"700, Taiwan, Tainan City, West Central District, Nanmen Rd, 46-5號1樓",22.985308,120.203931
-10037,25,,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561
-10038,25,,"710, Taiwan, Tainan City, Yongkang District, Dawan Rd, 1050號號",22.9989854,120.2523808
-10039,25,,"No. 173號, Section 1, Erren Rd, Rende District, Tainan City, Taiwan 717",22.9208454,120.2247676
+10035,22,,"No. 3號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9984951,120.2504428
+10036,3,,"700, Taiwan, Tainan City, West Central District, Nanmen Rd, 46-5號1樓",22.985308,120.203931
+10037,22,,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561
+10038,22,,"710, Taiwan, Tainan City, Yongkang District, Dawan Rd, 1050號號",22.9989854,120.2523808
+10039,31,,"No. 173號, Section 1, Erren Rd, Rende District, Tainan City, Taiwan 717",22.9208454,120.2247676
 10040,25,,"No. 2號, Alley 11, Lane 2, Chongdewu St, East District, Tainan City, Taiwan 701",22.9755816,120.2266851
 10041,25,,"No. 331號, Section 2, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9816791,120.2302166
 10042,25,,"No. 90, Chongming 7th St, East District, Tainan City, Taiwan 701",22.9794651,120.2191317
 10043,25,,"No. 62號, Huaien St, East District, Tainan City, Taiwan 701",22.9895717,120.2178847
-10044,25,,"No. 35, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9983341,120.2495378
+10044,22,,"No. 35, Fuxing Rd, Yongkang District, Tainan City, Taiwan 710",22.9983341,120.2495378
 10045,25,,"No. 256號, Dong'an Rd, East District, Tainan City, Taiwan 701",22.9967066,120.2274698
-10046,25,,"No. 471號, Section 3, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.971416,120.2433256
+10046,31,,"No. 471號, Section 3, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.971416,120.2433256
 10047,25,,"No. 23號, Lane 148, Yule St, East District, Tainan City, Taiwan 701",22.9957402,120.2139076
 10048,25,,"No. 125號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.995261,120.2217166
 10049,25,,"No. 31號, Lane 40, Section 1, Funong St, East District, Tainan City, Taiwan 701",22.9784414,120.2351823
 10050,25,,"No. 470, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 70167",22.9733524,120.2182048
-10051,25,,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683
-10052,25,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
-10053,25,,"No. 18號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.99227,120.2062156
-10054,25,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
-10055,25,,"No. 3號, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.994325,120.2025749
+10051,22,,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683
+10052,22,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
+10053,3,,"No. 18號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.99227,120.2062156
+10054,1,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
+10055,3,,"No. 3號, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.994325,120.2025749
 10056,25,,"701, Taiwan, Tainan City, East District, Dongrong St, 1-3號號",22.991042,120.21545
 10057,25,,"No. 301, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9868256,120.2187234
-10058,25,,"No. 302, Section 1, Fuqian Rd, West Central District, 台灣省 Taiwan 700",22.9902026,120.1990548
+10058,3,,"No. 302, Section 1, Fuqian Rd, West Central District, 台灣省 Taiwan 700",22.9902026,120.1990548
 10059,25,,"No. 95號, Chongming 10th St, East District, Tainan City, Taiwan 701",22.9769053,120.2220898
 10060,25,,"No. 825號 號, Chongshan Rd, East District, Tainan City, Taiwan 701",22.9672208,120.232118
-10061,2,,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468
-10062,2,,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706
-10063,2,,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894
-10064,2,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
-10065,2,,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092
+10061,25,,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468
+10062,3,,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706
+10063,25,,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894
+10064,22,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
+10065,25,,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092
 10066,2,,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475
-10067,2,,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867
-10068,2,,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748
-10069,2,,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683
-10070,2,,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534
+10067,25,,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867
+10068,25,,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748
+10069,22,,"No. 947號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9990071,120.2533683
+10070,25,,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534
 10071,2,,"No. 153號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0094908,120.2076167
-10072,2,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
-10073,2,,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561
-10074,2,,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656
-10075,2,,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648
-10076,2,,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859
-10077,2,,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525
+10072,1,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
+10073,22,,"710, Taiwan, Tainan City, Yongkang District",22.9989966,120.252561
+10074,25,,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656
+10075,1,,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648
+10076,3,,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859
+10077,25,,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525
 10078,2,,"No. 650號, Daxing St, North District, Tainan City, Taiwan 704",23.0074659,120.1782156
-10079,2,,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093
-10080,2,,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234
-10081,2,,"No. 2, Xinggong Rd, Yongkang District, 台灣省 Taiwan 710",23.0453892,120.2734588
-10082,2,,"No. 11號, Lane 83, Nanning St, West Central District, Tainan City, Taiwan 700",22.9845959,120.1984979
-10083,2,,"No. 29號, Gongye 6th Rd, Annan District, Tainan City, Taiwan 709015",23.0387516,120.1381154
-10084,2,,"700, Taiwan, Tainan City, West Central District, Zhongshan Rd, 162號GF樓",22.9954246,120.2099223
+10079,25,,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093
+10080,3,,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234
+10081,22,,"No. 2, Xinggong Rd, Yongkang District, 台灣省 Taiwan 710",23.0453892,120.2734588
+10082,3,,"No. 11號, Lane 83, Nanning St, West Central District, Tainan City, Taiwan 700",22.9845959,120.1984979
+10083,12,,"No. 29號, Gongye 6th Rd, Annan District, Tainan City, Taiwan 709015",23.0387516,120.1381154
+10084,3,,"700, Taiwan, Tainan City, West Central District, Zhongshan Rd, 162號GF樓",22.9954246,120.2099223
 10085,2,,"No. 310號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0046614,120.2032966
-10086,2,,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502
+10086,3,,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502
 10087,2,,"No. 8號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0100177,120.1936728
 10088,2,,"No. 1號, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704",22.9998841,120.2012261
-10089,2,,"No. 658-1號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9873348,120.1982835
+10089,3,,"No. 658-1號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9873348,120.1982835
 10090,2,,"702, Taiwan, 台灣省台南市 南區健康路一段391巷9號4樓",22.9810411,120.1996352
 10091,3,,"No. 192, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9858235,120.2053706
 10092,3,,"No. 61號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9922793,120.2071349
-10093,3,,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468
-10094,3,,"No. 188, Yule St, East District, Tainan City, Taiwan 701",22.9939847,120.2145907
+10093,25,,"No. 129號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9948946,120.2178468
+10094,25,,"No. 188, Yule St, East District, Tainan City, Taiwan 701",22.9939847,120.2145907
 10095,3,,"No. 253號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9893385,120.2027223
-10096,3,,"No. 55號, Yule St, East District, Tainan City, Taiwan 701",22.9954471,120.216406
-10097,3,,"No. 137, Shengli Rd, East District, Tainan City, Taiwan 701",22.9950207,120.2178204
-10098,3,,"No. 93號, Yule St, East District, Tainan City, Taiwan 701",22.9956414,120.2155633
-10099,3,,"701, Taiwan, Tainan City, East District, Shengli Rd, 93-1號copy2090789@gmail.com2樓",22.9921067,120.217699
-100100,3,,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131
+10096,25,,"No. 55號, Yule St, East District, Tainan City, Taiwan 701",22.9954471,120.216406
+10097,25,,"No. 137, Shengli Rd, East District, Tainan City, Taiwan 701",22.9950207,120.2178204
+10098,25,,"No. 93號, Yule St, East District, Tainan City, Taiwan 701",22.9956414,120.2155633
+10099,25,,"701, Taiwan, Tainan City, East District, Shengli Rd, 93-1號copy2090789@gmail.com2樓",22.9921067,120.217699
+100100,2,,"No. 226, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991801,120.203131
 100101,3,,"No. 27號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9974924,120.2095859
-100102,3,,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894
-100103,3,,"No. 110-1號, Dongping Rd, East District, Tainan City, Taiwan 70160",22.995402,120.2305418
-100104,3,,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475
-100105,3,,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646
-100106,3,,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867
-100107,3,,"No. 477, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9913035,120.2174167
-100108,3,,"No. 223號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874986,120.2167534
+100102,25,,"No. 20, Yule St, East District, Tainan City, Taiwan 701",22.9955376,120.2174894
+100103,25,,"No. 110-1號, Dongping Rd, East District, Tainan City, Taiwan 70160",22.995402,120.2305418
+100104,2,,"704, Taiwan, Tainan City, North District, 小東路187號",23.0002854,120.2274475
+100105,1,,"No. 108, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9800769,120.2123646
+100106,25,,"No. 173號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9958074,120.2180867
+100107,25,,"No. 477, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9913035,120.2174167
+100108,25,,"No. 223號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874986,120.2167534
 100109,3,,"No. 2號, Lane 52, Kaishan Rd, West Central District, Tainan City, Taiwan 700",22.9908285,120.2061234
 100110,3,,"700, Taiwan, Tainan City, West Central District, Nanmen Rd, 46-5號1樓",22.985308,120.203931
-100111,3,,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656
+100111,25,,"No. 6號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9875722,120.2176656
 100112,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 198號YMCA隔壁",22.9964361,120.1936173
-100113,3,,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092
-100114,3,,"No. 97之1號, Yule St, East District, Tainan City, Taiwan 701",22.9956571,120.2154087
-100115,3,,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748
+100113,25,,"No. 181號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9960389,120.2180092
+100114,25,,"No. 97之1號, Yule St, East District, Tainan City, Taiwan 701",22.9956571,120.2154087
+100115,25,,"No. 167號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957086,120.2179748
 100116,3,,"No. 302, Section 1, Fuqian Rd, West Central District, 台灣省 Taiwan 700",22.9902026,120.1990548
-100117,3,,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534
-100118,3,,"No. 650號, Daxing St, North District, Tainan City, Taiwan 704",23.0074659,120.1782156
-100119,3,,"No. 161, Shengli Rd, East District, 台灣省 Taiwan 701",22.9955743,120.2180739
-100120,3,,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093
+100117,25,,"No. 500號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736688,120.2236534
+100118,2,,"No. 650號, Daxing St, North District, Tainan City, Taiwan 704",23.0074659,120.1782156
+100119,25,,"No. 161, Shengli Rd, East District, 台灣省 Taiwan 701",22.9955743,120.2180739
+100120,25,,"No. 57號, Lide 8th Rd, East District, Tainan City, Taiwan 701",22.9769887,120.2155093
 100121,3,,"No. 122號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9912391,120.1948741
-100122,3,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
+100122,1,,"No. 253, Section 2, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9815343,120.1902677
 100123,3,,"No. 3號, Lane 152, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.994325,120.2025749
-100124,3,,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525
-100125,3,,"No. 8號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9891028,120.2412574
+100124,25,,"70146, Taiwan, Tainan City, East District, 大學路西段21號",22.9962646,120.2176525
+100125,25,,"No. 8號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9891028,120.2412574
 100126,3,,"No. 91號, Xihe Rd, West Central District, Tainan City, Taiwan 700",23.0005288,120.1887954
-100127,3,,"701, Taiwan, Tainan City, East District, 大學路西段11號",22.9962144,120.2178764
-100128,3,,"No. 131, Shengli Rd, East District, Tainan City, Taiwan 701",22.9949377,120.217855
+100127,25,,"701, Taiwan, Tainan City, East District, 大學路西段11號",22.9962144,120.2178764
+100128,25,,"No. 131, Shengli Rd, East District, Tainan City, Taiwan 701",22.9949377,120.217855
 100129,3,,"No. 348號, Guoping Rd, Anping District, Tainan City, Taiwan 708",22.9928289,120.1713958
-100130,3,,"No. 23號, Lane 148, Yule St, East District, Tainan City, Taiwan 701",22.9957402,120.2139076
-100131,3,,"No. 90, Chongming 7th St, East District, Tainan City, Taiwan 701",22.9794651,120.2191317
-100132,3,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
+100130,25,,"No. 23號, Lane 148, Yule St, East District, Tainan City, Taiwan 701",22.9957402,120.2139076
+100131,25,,"No. 90, Chongming 7th St, East District, Tainan City, Taiwan 701",22.9794651,120.2191317
+100132,22,,"No. 12號, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022423,120.224042
 100133,3,,"No. 18號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.99227,120.2062156
 100134,3,,"No. 66號, Dayong St, West Central District, Tainan City, Taiwan 70056",22.9899864,120.1932597
-100135,3,,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494
-100136,3,,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648
+100135,1,,"No. 30, Guomin Rd, South District, Tainan City, Taiwan 702",22.9675537,120.2146494
+100136,1,,"No. 39號, Lane 484, Section 1, Jinhua Rd, South District, Tainan City, Taiwan 702",22.972569,120.1917648
 100137,3,,"No. 81號, Heshan St, West Central District, Tainan City, Taiwan 700",23.0019134,120.1900869
-100138,3,,"701, Taiwan, Tainan City, East District, Dongrong St, 1-3號號",22.991042,120.21545
+100138,25,,"701, Taiwan, Tainan City, East District, Dongrong St, 1-3號號",22.991042,120.21545
 100139,3,,"No. 263號, Chenggong Rd, West Central District, Tainan City, Taiwan 70042",22.9992124,120.2021149
-100140,3,,"No. 18, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022419,120.223925
-100141,3,,"No. 256號, Xinxing Rd, South District, Tainan City, Taiwan 702",22.9761889,120.1921582
-100142,3,,"No. 308號, Wenxian 1st Rd, North District, Tainan City, Taiwan 704",23.0117963,120.1953979
-100143,3,,"No. 62號, Huaien St, East District, Tainan City, Taiwan 701",22.9895717,120.2178847
+100140,22,,"No. 18, Nantai St, Yongkang District, Tainan City, Taiwan 710",23.022419,120.223925
+100141,1,,"No. 256號, Xinxing Rd, South District, Tainan City, Taiwan 702",22.9761889,120.1921582
+100142,2,,"No. 308號, Wenxian 1st Rd, North District, Tainan City, Taiwan 704",23.0117963,120.1953979
+100143,25,,"No. 62號, Huaien St, East District, Tainan City, Taiwan 701",22.9895717,120.2178847
 100144,3,,"70048, Taiwan, Tainan City, West Central District, Section 2, Ximen Rd, 120號1樓",22.9934984,120.1989863
-100145,3,,"No. 355, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0075271,120.1934598
-100146,3,,"No. 125號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.995261,120.2217166
+100145,2,,"No. 355, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0075271,120.1934598
+100146,25,,"No. 125號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.995261,120.2217166
 100147,3,,"No. 109號, Lane 69, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0032653,120.1906231
-100148,3,,"No. 256號, Dong'an Rd, East District, Tainan City, Taiwan 701",22.9967066,120.2274698
+100148,25,,"No. 256號, Dong'an Rd, East District, Tainan City, Taiwan 701",22.9967066,120.2274698
 100149,3,,"708, Taiwan, Tainan City, Anping District, Qingping Rd, 557號1樓",22.9974192,120.1705221
 100150,3,,"No. 81, Weimin St, West Central District, Tainan City, Taiwan 700",22.9929017,120.2094627
 3001,11,,"""七股區鹽埕里鹽埕69號""","""23.15375""","""120.10398"""
@@ -727,103 +727,103 @@ L_ID,Section,Street,Address,Lat,Lng
 300434,30,,"""康樂路56號""","""23.31955""","""120.26859"""
 300435,30,,"""南門路47號西側""","""23.31523""","""120.26743"""
 300436,30,,"""武廟路1號(南側停車場)""","""23.32010""","""120.26492"""
-4001,25,,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358
-4002,25,,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859
-4003,25,,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141
-4004,25,,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487
+4001,3,,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358
+4002,3,,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859
+4003,3,,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141
+4004,3,,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487
 4005,25,,"No. 188號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9890814,120.2240204
-4006,25,,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069
-4007,25,,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665
-4008,25,,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622
-4009,25,,"No. 191號, Section 1, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9881984,120.1999626
+4006,3,,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069
+4007,3,,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665
+4008,3,,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622
+4009,3,,"No. 191號, Section 1, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9881984,120.1999626
 40010,25,,"1、2樓, No. 39號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701020",22.9936558,120.2215537
 40011,25,,"No. 84號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9869887,120.2231252
-40012,25,,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075
-40013,25,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111
-40014,25,,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398
+40012,3,,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075
+40013,3,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111
+40014,3,,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398
 40015,25,,"全棟, No. 83號, Dedong St, East District, Tainan City, Taiwan 701",22.961782,120.2296387
 40016,25,,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",22.9995393,120.2151075
 40017,25,,"701, Taiwan, Tainan City, East District, Dong'an Rd, 291號293號1樓",22.9975866,120.2271248
 40018,25,,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355
-40019,25,,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374
-40020,25,,"No. 150號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9948988,120.1950902
-40021,25,,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263
-40022,25,,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461
-40023,25,,"710, Taiwan, Tainan City, Yongkang District, Lane 203, Zhonghuayi Rd, 1號1號",23.0040454,120.2336733
-40024,25,,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774
+40019,2,,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374
+40020,3,,"No. 150號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9948988,120.1950902
+40021,3,,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263
+40022,3,,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461
+40023,22,,"710, Taiwan, Tainan City, Yongkang District, Lane 203, Zhonghuayi Rd, 1號1號",23.0040454,120.2336733
+40024,3,,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774
 40025,25,,"No. 1號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 701",22.9948105,120.2167921
 40026,25,,"No. 128號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9795967,120.2193838
 40027,25,,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909
 40028,25,,"701, Taiwan, Tainan City, East District, Section 1, Zhonghua E Rd, 366號3樓",22.9911239,120.232852
 40029,25,,"701, Taiwan, Tainan City, East District, Renhe Rd, 126號1樓",22.9709381,120.2332039
-40030,25,,"No. 951號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9989089,120.2529112
-40031,25,,"No. 346號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9814928,120.1999922
+40030,22,,"No. 951號, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",22.9989089,120.2529112
+40031,3,,"No. 346號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9814928,120.1999922
 40032,25,,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709
 40033,25,,"No. 184號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9819764,120.2161906
 40034,25,,"No. 12號, Changrong Rd Section 3, East District, Tainan City, Taiwan 701",22.9924931,120.2217582
 40035,25,,"No. 737號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9681213,120.2276029
 40036,25,,"701, Taiwan, Tainan City, East District, Alley 24, Lane 192, Section 2, Linsen Rd, 5號7號",22.9892749,120.2253005
 40037,25,,"No. 168號, Section 3, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9782325,120.2330273
-40038,25,,"704, Taiwan, Tainan City, North District, Gongyuan Rd, 1072-1號3號號 2",23.0184332,120.2159187
+40038,2,,"704, Taiwan, Tainan City, North District, Gongyuan Rd, 1072-1號3號號 2",23.0184332,120.2159187
 40039,25,,"No. 90號, Zhuangjing Rd, East District, Tainan City, Taiwan 701",22.9947445,120.2330208
-40040,25,,"No. 694號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0084968,120.2102091
+40040,2,,"No. 694號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0084968,120.2102091
 40041,25,,"701, Taiwan, Tainan City, East District, 小東路256號1樓",22.9987852,120.2308485
 40042,25,,"701, Taiwan, Tainan City, East District, Chongshan Rd, 569號571號",22.9726655,120.2300799
 40043,25,,"219號, No. 217號, Guangming St, East District, Tainan City, Taiwan 701",22.9955329,120.2288265
 40044,25,,"No. 379號, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.973587,120.2214633
-40045,25,,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395
+40045,3,,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395
 40046,25,,"No. 236號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9856788,120.2188651
 40047,25,,"1、2樓, No. 118號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9959267,120.2183002
-40048,25,,"No. 95-3號, Section 2, Datong Rd, South District, Tainan City, Taiwan 701",22.9786506,120.2134769
+40048,1,,"No. 95-3號, Section 2, Datong Rd, South District, Tainan City, Taiwan 701",22.9786506,120.2134769
 40049,25,,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518
-40050,25,,"700029, Taiwan, Tainan City, West Central District, Section 1, Jiankang Rd, ９０號１樓No",22.9813835,120.2095851
+40050,3,,"700029, Taiwan, Tainan City, West Central District, Section 1, Jiankang Rd, ９０號１樓No",22.9813835,120.2095851
 40051,25,,"No. 362號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9864865,120.2186613
-40052,25,,"No. 112號, Zhangbei St, North District, Tainan City, Taiwan 704",23.0023236,120.2046325
-40053,25,,"No. 131號, Gongyuan N Rd, North District, Tainan City, Taiwan 704",23.0043736,120.2104493
+40052,2,,"No. 112號, Zhangbei St, North District, Tainan City, Taiwan 704",23.0023236,120.2046325
+40053,2,,"No. 131號, Gongyuan N Rd, North District, Tainan City, Taiwan 704",23.0043736,120.2104493
 40054,25,,"No. 471-3號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9747857,120.2264804
 40055,25,,"No. 320號, Yunong Rd, East District, Tainan City, Taiwan 701",22.9867371,120.2292024
-40056,25,,"No. 31號, No. 31, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.000028,120.2119247
+40056,2,,"No. 31號, No. 31, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.000028,120.2119247
 40057,25,,"No. 1號, Yule St, East District, Tainan City, Taiwan 701",22.9953419,120.2179136
 40058,25,,"No. 812號, Section 2, Yonghua Rd, Anping District, Tainan City, Taiwan 708",22.9915434,120.1691728
 40059,25,,"No. 37號, Section 2, Ziyou Rd, East District, Tainan City, Taiwan 701",22.9710833,120.2374447
 40060,25,,"No. 16號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9898152,120.2127775
-40061,2,,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141
-40062,2,,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358
-40063,2,,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859
-40064,2,,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487
-40065,2,,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069
-40066,2,,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665
-40067,2,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111
-40068,2,,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398
-40069,2,,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 26號 28號1樓",22.9949018,120.1983992
-40070,2,,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774
-40071,2,,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622
-40072,2,,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075
+40061,3,,"No. 197之199號, You'ai St, West Central District, Tainan City, Taiwan 700",22.9918299,120.1975141
+40062,3,,"No. 135號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9928181,120.1944358
+40063,3,,"No. 53號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9943237,120.2102859
+40064,3,,"No. 190號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9826407,120.2058487
+40065,3,,"No. 56號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9864013,120.2019069
+40066,3,,"1樓, No. 65號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9918774,120.200665
+40067,3,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 245號1樓",22.9861432,120.210111
+40068,3,,"No. 257號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9961194,120.2041398
+40069,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Minsheng Rd, 26號 28號1樓",22.9949018,120.1983992
+40070,3,,"No. 109號, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9940459,120.2031774
+40071,3,,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622
+40072,3,,"No. 207號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9967197,120.2112075
 40073,2,,"No. 31號, No. 31, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.000028,120.2119247
 40074,2,,"704, Taiwan, Tainan City, North District, Shengli Rd, 192號194號",23.0039579,120.2188361
 40075,2,,"No. 181號, Changrong Rd Section 4, North District, Tainan City, Taiwan 704",23.0066757,120.2213329
 40076,2,,"No. 360號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0030297,120.2024659
 40077,2,,"704, Taiwan, Tainan City, North District, Nanyuan St, 102號號1+2樓",23.0078482,120.2254318
-40078,2,,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461
-40079,2,,"No. 277號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9999182,120.1926025
+40078,3,,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461
+40079,3,,"No. 277號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9999182,120.1926025
 40080,2,,"文, No. 333號, Section 3, Hewei Rd, North District, Tainan City, Taiwan 704",23.0096786,120.1958725
-40081,2,,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355
-40082,2,,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909
-40083,2,,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263
+40081,25,,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355
+40082,25,,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909
+40083,3,,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263
 40084,2,,"No. 59號, Changrong Rd Section 4, North District, Tainan City, Taiwan 704",23.0041854,120.2224485
 40085,2,,"No. 812號, Section 2, Yonghua Rd, Anping District, Tainan City, Taiwan 708",22.9915434,120.1691728
 40086,2,,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374
 40087,2,,"No. 2號, Section 3, Beimen Rd, North District, Tainan City, Taiwan 704",23.0128944,120.2171706
-40088,2,,"No. 84號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9869887,120.2231252
-40089,2,,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518
-40090,2,,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709
-40091,2,,"1、2樓, No. 118號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9959267,120.2183002
-40092,2,,"717, Taiwan, Tainan City, Rende District, 中洲路1巷220號",22.9056872,120.2649305
-40093,2,,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395
+40088,25,,"No. 84號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9869887,120.2231252
+40089,25,,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518
+40090,25,,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709
+40091,25,,"1、2樓, No. 118號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9959267,120.2183002
+40092,31,,"717, Taiwan, Tainan City, Rende District, 中洲路1巷220號",22.9056872,120.2649305
+40093,3,,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395
 40094,2,,"No. 310號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0046614,120.2032966
 40095,2,,"No. 433號, Yude Rd, North District, Tainan City, Taiwan 704",23.0137746,120.2064619
 40096,2,,"No. 694號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0084968,120.2102091
-40097,2,,"No. 28號, Dongciao 1st Rd, Yongkang District, Tainan City, Taiwan 710",23.0170065,120.2352551
+40097,22,,"No. 28號, Dongciao 1st Rd, Yongkang District, Tainan City, Taiwan 710",23.0170065,120.2352551
 40098,2,,"No. 132號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0087807,120.207584
 40099,2,,"704, Taiwan, Tainan City, North District, Gongyuan Rd, 1072-1號3號號 2",23.0184332,120.2159187
 400100,2,,"No. 501, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0106553,120.22506
@@ -834,16 +834,16 @@ L_ID,Section,Street,Address,Lat,Lng
 400105,2,,"No. 85、87號, Section 3, Zhongyi Rd, North District, Tainan City, Taiwan 70443",23.0006434,120.2056539
 400106,2,,"No. 103號, Nanyuan St, North District, Tainan City, Taiwan 704",23.0079597,120.2255813
 400107,2,,"No. 307號, Junping Rd, Anping District, Tainan City, Taiwan 708",22.989489,120.1640629
-400108,2,,"No. 314號, Zhongzheng N Rd, Yongkang District, Tainan City, Taiwan 710",23.0416501,120.2476537
+400108,22,,"No. 314號, Zhongzheng N Rd, Yongkang District, Tainan City, Taiwan 710",23.0416501,120.2476537
 400109,2,,"No. 40號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.0068117,120.2065006
-400110,2,,"No. 16號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",22.9883308,120.1873398
-400111,2,,"No. 184號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9964702,120.2113543
+400110,3,,"No. 16號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",22.9883308,120.1873398
+400111,3,,"No. 184號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9964702,120.2113543
 400112,2,,"No. 167, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.0175631,120.2084963
-400113,2,,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502
+400113,3,,"No. 658號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9869358,120.1982502
 400114,2,,"No. 265號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0072808,120.199582
-400115,2,,"No. 428, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9993866,120.2013885
+400115,3,,"No. 428, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9993866,120.2013885
 400116,2,,"701, Taiwan, Tainan City, 崇成里崇明路561號 1樓",22.9709634,120.2258306
-400117,2,,"1樓, No. 187號, Yufeng St, East District, Tainan City, Taiwan 701",22.988452,120.2272925
+400117,25,,"1樓, No. 187號, Yufeng St, East District, Tainan City, Taiwan 701",22.988452,120.2272925
 400118,2,,"No. 248號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022396,120.2050084
 400119,2,,"No. 1號, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704",22.9998841,120.2012261
 400120,2,,"No. 5號, Section 4, Ximen Road, North District, Tainan City, Taiwan 704",23.006253,120.2058625
@@ -863,12 +863,12 @@ L_ID,Section,Street,Address,Lat,Lng
 400134,3,,"No. 277號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9999182,120.1926025
 400135,3,,"No. 331號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9967121,120.2026461
 400136,3,,"No. 150號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9948988,120.1950902
-400137,3,,"No. 1號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 701",22.9948105,120.2167921
-400138,3,,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374
+400137,25,,"No. 1號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 701",22.9948105,120.2167921
+400138,2,,"No. 212號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9991915,120.203374
 400139,3,,"1樓, No. 223號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9947797,120.1948622
 400140,3,,"700029, Taiwan, Tainan City, West Central District, Section 1, Jiankang Rd, ９０號１樓No",22.9813835,120.2095851
 400141,3,,"No. 375、377號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9973489,120.189416
-400142,3,,"No. 118號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9985229,120.2050524
+400142,2,,"No. 118號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9985229,120.2050524
 400143,3,,"1.2樓, No. 88號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9906736,120.1927552
 400144,3,,"No. 178號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9914348,120.1936993
 400145,3,,"No. 294號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9971751,120.1911486
@@ -881,44 +881,44 @@ L_ID,Section,Street,Address,Lat,Lng
 400152,3,,"No. 126號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9940467,120.200905
 400153,3,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, No. 3",22.9884929,120.2111743
 400154,3,,"1樓, No. 248號, Section 1, Yonghua Rd, West Central District, Tainan City, Taiwan 700",22.9885795,120.1905395
-400155,3,,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709
+400155,25,,"701, Taiwan, Tainan City, East District, Section 1, Beimen Rd, 310號312號",22.9963561,120.2120709
 400156,3,,"No. 580號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9861844,120.1976886
 400157,3,,"1樓, No. 229號, Nanmen Rd, West Central District, Tainan City, Taiwan 700",22.9837151,120.2041263
 400158,3,,"No. 144號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891136,120.2073923
 400159,3,,"B2, No. 162號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9954795,120.2099473
-400160,3,,"No. 210號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9971413,120.2128989
-400161,3,,"No. 315號, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0067268,120.1934576
+400160,25,,"No. 210號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9971413,120.2128989
+400161,2,,"No. 315號, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0067268,120.1934576
 400162,3,,"No. 36號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",22.9928605,120.1870365
 400163,3,,"No. 218號, Section 1, Datong Rd, West Central District, Tainan City, Taiwan 700",22.9824421,120.2112791
-400164,3,,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909
+400164,25,,"No. 12號, Section 2, Beimen Rd, East District, Tainan City, Taiwan 701",22.9977929,120.2123909
 400165,3,,"No. 277號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9919601,120.1897106
-400166,3,,"702, Taiwan, Tainan City, South District, Section 1, Ximen Rd, 553號1樓",22.9838112,120.1974262
+400166,1,,"702, Taiwan, Tainan City, South District, Section 1, Ximen Rd, 553號1樓",22.9838112,120.1974262
 400167,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Ximen Rd, 389號9樓",22.9986924,120.2004222
-400168,3,,"No. 2號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0005759,120.1989765
-400169,3,,"No. 586號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0023571,120.1951054
-400170,3,,"No. 16號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9898152,120.2127775
+400168,2,,"No. 2號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0005759,120.1989765
+400169,2,,"No. 586號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0023571,120.1951054
+400170,25,,"No. 16號, Qianfeng Rd, East District, Tainan City, Taiwan 701",22.9898152,120.2127775
 400171,3,,"之13, No. 76號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9950809,120.2081208
-400172,3,,"No. 67號, Lane 95, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.006913,120.1913308
-400173,3,,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355
-400174,3,,"No. 140號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9986949,120.2046775
-400175,3,,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",22.9995393,120.2151075
+400172,2,,"No. 67號, Lane 95, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.006913,120.1913308
+400173,25,,"1樓2樓, No. 53號大學路西段 East District, Tainan City, Taiwan 701",22.9963236,120.2169355
+400174,2,,"No. 140號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9986949,120.2046775
+400175,25,,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",22.9995393,120.2151075
 400176,3,,"No. 10號, Humei St, West Central District, Tainan City, Taiwan 700",22.9992659,120.1801675
 400177,3,,"No. 166號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9813951,120.207352
-400178,3,,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518
+400178,25,,"No. 116, Shengli Rd, East District, Tainan City, Taiwan 701",22.9957146,120.2182518
 400179,3,,"No. 134號, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9917635,120.2092671
 400180,3,,"700, Taiwan, Tainan City, West Central District, Wusheng Rd, 47號49號",23.0053565,120.1922764
 5001,25,,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874
-5002,25,,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924
-5003,25,,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039
+5002,2,,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924
+5003,22,,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039
 5004,25,,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725
-5005,25,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
-5006,25,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
+5005,22,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
+5006,1,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
 5007,25,,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303
 5008,25,,"701, Taiwan, Tainan City, East District",22.9972554,120.2250295
 5009,25,,"No. 255, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9829623,120.2425259
-50010,25,,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045
-50011,25,,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.965706,120.209966
-50012,25,,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692
+50010,1,,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045
+50011,1,,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.965706,120.209966
+50012,3,,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692
 50013,25,,"No. 250號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9913922,120.2247529
 50014,25,,"701, Taiwan, Tainan City, East District, Chongshan 4th St, 56號號",22.9745794,120.2300747
 50015,25,,"No. 311號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9834484,120.2181705
@@ -926,143 +926,143 @@ L_ID,Section,Street,Address,Lat,Lng
 50017,25,,"Taiwan, Tainan City, East District, 701台南市東區",22.9988652,120.225174
 50018,25,,"701, Taiwan, Tainan City, East District",22.9964906,120.2195431
 50019,25,,"701, Taiwan, Tainan City, East District, Dasyue Rd, 1號成功大學光復校區",23.0003294,120.2161599
-50020,25,,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199
+50020,3,,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199
 50021,25,,"No. 229, Yuhe 5th St, East District, Tainan City, Taiwan 701",22.9861776,120.2467239
 50022,25,,"No. 95號, Yuhe 2nd St, East District, Tainan City, Taiwan 701",22.9859668,120.2403567
 50023,25,,"No. 22, Chongxue Rd, East District, Tainan City, Taiwan 701",22.9778323,120.2216113
-50024,25,,"No. 90, Tiyu Rd, South District, Tainan City, Taiwan 702",22.976236,120.206164
-50025,25,,"704, Taiwan, Tainan City, North District, 小東路307巷96弄17號",23.0004049,120.2321992
-50026,25,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519
-50027,25,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
-50028,25,,"Dalin Rd, South District, Tainan City, Taiwan 702",22.9760733,120.2124283
+50024,1,,"No. 90, Tiyu Rd, South District, Tainan City, Taiwan 702",22.976236,120.206164
+50025,2,,"704, Taiwan, Tainan City, North District, 小東路307巷96弄17號",23.0004049,120.2321992
+50026,3,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519
+50027,1,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
+50028,1,,"Dalin Rd, South District, Tainan City, Taiwan 702",22.9760733,120.2124283
 50029,25,,"701, Taiwan, Tainan City, East District, 崇德七街33-45號",22.9752143,120.2279434
 50030,25,,"No. 25, Yuhua 3rd St, East District, Tainan City, Taiwan 701",22.9787394,120.2464959
-50031,25,,"No. 9, Lane 559, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0013429,120.2278423
+50031,2,,"No. 9, Lane 559, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0013429,120.2278423
 50032,25,,"701, Taiwan, Tainan City, East District, Lane 175, Guangming St, 26號號旁",22.9971766,120.2290367
 50033,25,,"No. 21, Yuhe 5th St, East District, Tainan City, Taiwan 701",22.9884094,120.2465546
 50034,25,,"701, Taiwan, Tainan City, East District, 701",22.9669758,120.2232828
 50035,25,,"701, Taiwan, Tainan City, East District",22.9752017,120.2321578
-50036,25,,"No. 66, Kainan St, North District, Tainan City, Taiwan 704",23.0066883,120.2240274
+50036,2,,"No. 66, Kainan St, North District, Tainan City, Taiwan 704",23.0066883,120.2240274
 50037,25,,"Lane 121, Section 2, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9976495,120.2302008
-50038,25,,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516
-50039,25,,"No. 33, Lane 482, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9727591,120.2136533
+50038,1,,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516
+50039,1,,"No. 33, Lane 482, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9727591,120.2136533
 50040,25,,"No. 68, Yuxin 5th St, East District, Tainan City, Taiwan 701",22.9813674,120.2461496
-50041,25,,"Lane 218, Baosheng E Rd, Rende District, Tainan City, Taiwan 717",22.9569258,120.2324789
-50042,25,,"No. 15, Lane 333, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0086813,120.2196232
-50043,25,,"No. 44號, Lane 647, Xiaodong Rd, Yongkang District, Tainan City, Taiwan 710",23.0000889,120.2387729
-50044,25,,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9662194,120.2097722
+50041,31,,"Lane 218, Baosheng E Rd, Rende District, Tainan City, Taiwan 717",22.9569258,120.2324789
+50042,2,,"No. 15, Lane 333, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0086813,120.2196232
+50043,22,,"No. 44號, Lane 647, Xiaodong Rd, Yongkang District, Tainan City, Taiwan 710",23.0000889,120.2387729
+50044,1,,"No. 186號, Lane 750, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9662194,120.2097722
 50045,25,,"701, Taiwan, Tainan City, East District",22.964115,120.2374609
 50046,25,,"No. 476號, Yuzhong Rd, East District, Tainan City, Taiwan 701",22.9803204,120.2416093
-50047,25,,"704, Taiwan, Tainan City, North District, 704 台灣 燕 潭",23.001552,120.212167
+50047,2,,"704, Taiwan, Tainan City, North District, 704 台灣 燕 潭",23.001552,120.212167
 50048,25,,"701, Taiwan, Tainan City, East District",22.9765003,120.2331566
-50049,25,,"702台灣台南市南區健康路, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.980915,120.210566
+50049,1,,"702台灣台南市南區健康路, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.980915,120.210566
 50050,25,,"No. 150號, Dongcheng St, East District, Tainan City, Taiwan 701",22.9800618,120.2362837
-50051,25,,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429
+50051,2,,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429
 50052,25,,"No. 86號, Wenhua 1st St, East District, Tainan City, Taiwan 701",22.9778578,120.2315583
 50053,25,,"Lide 7th Rd, East District, Tainan City, Taiwan 701",22.9761431,120.2155134
-50054,25,,"No. 6號, Alley 22, Lane 226, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9908215,120.2106578
-50055,25,,"No. 482巷, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9736823,120.2099384
-50056,25,,"704, Taiwan, Tainan City, North District",23.0014483,120.2119299
-50057,25,,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127
-50058,25,,"No. 62, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.9358456,120.2240562
+50054,3,,"No. 6號, Alley 22, Lane 226, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9908215,120.2106578
+50055,1,,"No. 482巷, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9736823,120.2099384
+50056,2,,"704, Taiwan, Tainan City, North District",23.0014483,120.2119299
+50057,3,,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127
+50058,31,,"No. 62, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 717",22.9358456,120.2240562
 50059,25,,"Chongming 24th St, East District, Tainan City, Taiwan 701",22.966425,120.2260729
 50060,25,,"No. 215號, Yuxiao Rd, East District, Tainan City, Taiwan 701",22.982978,120.243612
 50061,2,,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924
-50062,2,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
-50063,2,,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725
+50062,22,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
+50063,25,,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725
 50064,2,,"No. 139-153, Wencheng 1st Rd, North District, Tainan City, Taiwan 704",23.013791,120.2047624
 50065,2,,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429
-50066,2,,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303
-50067,2,,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692
+50066,25,,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303
+50067,3,,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692
 50068,2,,"No. 20, Section 1, Lixian Rd, North District, Tainan City, Taiwan 704",23.0099894,120.2053467
 50069,2,,"704, Taiwan, Tainan City, North District",23.0066463,120.2012639
 50070,2,,"No. 23, Lane 650, Wencheng Rd, North District, Tainan City, Taiwan 704",23.0124548,120.1980612
-50071,2,,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039
-50072,2,,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199
-50073,2,,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874
+50071,22,,"No. 100號, Xingguo St, Yongkang District, Tainan City, Taiwan 710",23.002754,120.244039
+50072,3,,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199
+50073,25,,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874
 50074,2,,"704, Taiwan, Tainan City, North District, 育德一街",23.0159919,120.2050041
-50075,2,,"701, Taiwan, Tainan City, East District",22.9972554,120.2250295
+50075,25,,"701, Taiwan, Tainan City, East District",22.9972554,120.2250295
 50076,2,,"No. 488-500, Yude Rd, North District, Tainan City, Taiwan 704",23.0140974,120.2072794
 50077,2,,"Alley 49, Lane 985, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0187658,120.1987814
 50078,2,,"No. 301, Yucheng Rd, North District, Tainan City, Taiwan 704",23.020449,120.2055288
 50079,2,,"No. 472號, Section 1, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.015696,120.18927
 50080,2,,"704, Taiwan, Tainan City, North District",23.0033439,120.199481
-50081,2,,"701, Taiwan, Tainan City, East District, Dasyue Rd, 1號成功大學光復校區",23.0003294,120.2161599
-50082,2,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
+50081,25,,"701, Taiwan, Tainan City, East District, Dasyue Rd, 1號成功大學光復校區",23.0003294,120.2161599
+50082,1,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
 50083,2,,"No. 156, Shijian St, North District, Tainan City, Taiwan 704",23.0133624,120.219618
 50084,2,,"704, Taiwan, Tainan City, North District, 小東路307巷96弄17號",23.0004049,120.2321992
-50085,2,,"Guangxian St, West Central District, Tainan City, Taiwan 700",23.0047947,120.1894504
+50085,3,,"Guangxian St, West Central District, Tainan City, Taiwan 700",23.0047947,120.1894504
 50086,2,,"No. 9, Lane 559, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0013429,120.2278423
-50087,2,,"No. 249, Section 5, Fuan Rd, Annan District, Tainan City, Taiwan 709",23.0206842,120.1941643
-50088,2,,"Taiwan, Tainan City, East District, 701台南市東區",22.9988652,120.225174
+50087,12,,"No. 249, Section 5, Fuan Rd, Annan District, Tainan City, Taiwan 709",23.0206842,120.1941643
+50088,25,,"Taiwan, Tainan City, East District, 701台南市東區",22.9988652,120.225174
 50089,2,,"No. 28, Lane 370, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0045043,120.2023895
 50090,2,,"No. 250號, Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9938758,120.1571958
 50091,2,,"Gongyuan N Rd, North District, Tainan City, Taiwan 704",23.0046496,120.207364
 50092,2,,"No. 57號, Lane 194, Section 2, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.019092,120.203074
 50093,2,,"No. 11, Lane 200, Section 4, Ximen Rd, North District, Tainan City, Taiwan 704",23.0103499,120.208995
-50094,2,,"No. 14號, Lane 42, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0014122,120.1815368
+50094,3,,"No. 14號, Lane 42, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0014122,120.1815368
 50095,2,,"No. 68, Alley 7, Lane 63, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0063889,120.2160683
-50096,2,,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127
+50096,3,,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127
 50097,2,,"704, Taiwan, Tainan City, North District, 文賢三街",23.0167072,120.197858
 50098,2,,"Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9953611,120.1621471
 50099,2,,"Fuping Rd, Anping District, Tainan City, Taiwan 708",22.9875804,120.1719107
 500100,2,,"No. 10, Lane 809, Yudeer Rd, North District, Tainan City, Taiwan 704",23.0197748,120.2008631
 500101,2,,"No. 1號, Daxing St, North District, Tainan City, Taiwan 704",23.0119176,120.193712
 500102,2,,"No. 23, Alley 22, Lane 80, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0192184,120.2109891
-500103,2,,"700, Taiwan, Tainan City, West Central District",23.0048329,120.1856777
+500103,3,,"700, Taiwan, Tainan City, West Central District",23.0048329,120.1856777
 500104,2,,"No. 19, Lane 25, Section 2, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.0176388,120.1942384
 500105,2,,"704, Taiwan, Tainan City, North District, 704 台灣 燕 潭",23.001552,120.212167
 500106,2,,"No. 15, Lane 333, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0086813,120.2196232
 500107,2,,"No. 368-390, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0196113,120.2028027
 500108,2,,"No. 66, Kainan St, North District, Tainan City, Taiwan 704",23.0066883,120.2240274
 500109,2,,"No. 25號, Lane 300, Wenxianyi Rd, North District, Tainan City, Taiwan 704",23.0113766,120.1967028
-500110,2,,"No. 12, Lane 283, Zhonghuaer Rd, Yongkang District, Tainan City, Taiwan 710",23.0074401,120.23288
+500110,22,,"No. 12, Lane 283, Zhonghuaer Rd, Yongkang District, Tainan City, Taiwan 710",23.0074401,120.23288
 500111,2,,"No. 78號, Lane 192, Daxing St, North District, Tainan City, Taiwan 704",23.0123704,120.1881874
-500112,2,,"701, Taiwan, Tainan City, East District",22.9964906,120.2195431
+500112,25,,"701, Taiwan, Tainan City, East District",22.9964906,120.2195431
 500113,2,,"No. 58-64, Lane 128, Beicheng Rd, North District, Tainan City, Taiwan 704",23.0209198,120.2098538
 500114,2,,"704, Taiwan, Tainan City, North District",23.0014483,120.2119299
-500115,2,,"No. 163-165, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0042478,120.181561
+500115,3,,"No. 163-165, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0042478,120.181561
 500116,2,,"No. 53, Lane 80, Beiyuan St, North District, Tainan City, Taiwan 704",23.0127421,120.2242109
 500117,2,,"No. 751, Wencheng Rd, North District, Tainan City, Taiwan 704",23.0125606,120.195962
-500118,2,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519
-500119,2,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
+500118,3,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519
+500119,1,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
 500120,2,,"No. 340, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.0205292,120.2063801
 500121,3,,"No. 6, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9925951,120.2050199
-500122,3,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
+500122,1,,"No. 383, Section 2, Jinhua Rd, South District, Tainan City, Taiwan 702",22.9861513,120.1932148
 500123,3,,"Lane 84, Section 1, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9866091,120.2035692
 500124,3,,"700, Taiwan, Tainan City, West Central District",22.99519,120.191127
-500125,3,,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924
-500126,3,,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874
+500125,2,,"No. 89號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0022317,120.2115924
+500126,25,,"701, Taiwan, Tainan City, East District",22.9719929,120.2225874
 500127,3,,"Guangxian St, West Central District, Tainan City, Taiwan 700",23.0047947,120.1894504
-500128,3,,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045
-500129,3,,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303
+500128,1,,"No. 257, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 702",22.9797734,120.2052045
+500129,25,,"Qingnian Rd, East District, Tainan City, Taiwan 701",22.9914796,120.2145303
 500130,3,,"Lane 109, Xixianyi St, West Central District, Tainan City, Taiwan 700",23.0021338,120.1775175
 500131,3,,"700, Taiwan, Tainan City, West Central District",23.0048329,120.1856777
 500132,3,,"708, Taiwan, Tainan City, Anping District",22.997428,120.1757359
 500133,3,,"No. 370, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9926436,120.1877808
 500134,3,,"No. 6, Anbei Rd, Anping District, Tainan City, Taiwan 708",22.9988397,120.1681548
-500135,3,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
+500135,1,,"No. 10, Tiyu Rd, South District, Tainan City, Taiwan 702",22.9759334,120.2098503
 500136,3,,"700, Taiwan, Tainan City, West Central District, Section 1, Fuqian Rd, 21號85 巷",22.9880699,120.209519
-500137,3,,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516
+500137,1,,"702, Taiwan, Tainan City, South District, 健康路二段247巷40號",22.9804285,120.1900516
 500138,3,,"Section 4, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9992766,120.1842042
 500139,3,,"700, Taiwan, Tainan City, West Central District",22.9886026,120.1991761
-500140,3,,"號, No. 285, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9863239,120.1940517
+500140,1,,"號, No. 285, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9863239,120.1940517
 500141,3,,"Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9953611,120.1621471
 500142,3,,"No. 34號, Heyi Rd, West Central District, Tainan City, Taiwan 700",22.9885307,120.1990909
 500143,3,,"No. 250號, Anyi Rd, Anping District, Tainan City, Taiwan 708",22.9938758,120.1571958
 500144,3,,"708, Taiwan, Tainan City, Anping District, Qingping Rd, 35號文平路",22.996463,120.180003
 500145,3,,"No. 22, Alley 3, Lane 1, Section 2, Zhonghua W Rd, Anping District, Tainan City, Taiwan 708",22.9863884,120.1858451
 500146,3,,"No. 14號, Lane 42, Humei 1st St, West Central District, Tainan City, Taiwan 700",23.0014122,120.1815368
-500147,3,,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429
+500147,2,,"No. 406號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0037832,120.2010429
 500148,3,,"Huanhe St, West Central District, Tainan City, Taiwan 700",22.9941441,120.1921383
-500149,3,,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725
+500149,25,,"701, Taiwan, Tainan City, East District, 小東路",23.0011694,120.2257725
 500150,3,,"No. 6號, Alley 22, Lane 226, Qingnian Rd, West Central District, Tainan City, Taiwan 700",22.9908215,120.2106578
-500151,3,,"704, Taiwan, Tainan City, North District",23.0061181,120.1822824
-500152,3,,"704, Taiwan, Tainan City, North District",23.0066463,120.2012639
-500153,3,,"704, Taiwan, Tainan City, North District",23.0033439,120.199481
+500151,2,,"704, Taiwan, Tainan City, North District",23.0061181,120.1822824
+500152,2,,"704, Taiwan, Tainan City, North District",23.0066463,120.2012639
+500153,2,,"704, Taiwan, Tainan City, North District",23.0033439,120.199481
 500154,3,,"700, Taiwan, Tainan City, West Central District, 700",23.0004077,120.1933744
-500155,3,,"No. 311號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9834484,120.2181705
-500156,3,,"No. 20, Lane 21, Wenxianyi Rd, North District, Tainan City, Taiwan 704",23.0039094,120.195548
+500155,25,,"No. 311號, Section 1, Linsen Rd, East District, Tainan City, Taiwan 701",22.9834484,120.2181705
+500156,2,,"No. 20, Lane 21, Wenxianyi Rd, North District, Tainan City, Taiwan 704",23.0039094,120.195548
 500157,3,,"Jianping Rd, Anping District, Tainan City, Taiwan 708",22.99156,120.1826689
 500158,3,,"708, Taiwan, Tainan City, Anping District",22.9894604,120.1858716
 500159,3,,"Yonghua 2nd St, Anping District, Tainan City, Taiwan 708",22.9851371,120.184266
@@ -1072,19 +1072,19 @@ L_ID,Section,Street,Address,Lat,Lng
 500163,3,,"Humei 3rd St, West Central District, Tainan City, Taiwan 700",23.002756,120.1829973
 500164,3,,"No. 127號, Gongyuan Rd, West Central District, Tainan City, Taiwan 700",22.997314,120.2063526
 500165,3,,"No. 71-1號, Wuying St, West Central District, Tainan City, Taiwan 700",22.9890606,120.1900584
-500166,3,,"702, Taiwan, Tainan City, South District, Section 1, Zhonghua W Rd, 和建南路口",22.985488,120.1861317
-500167,3,,"702, Taiwan, Tainan City, South District, 702",22.9795694,120.2065457
+500166,1,,"702, Taiwan, Tainan City, South District, Section 1, Zhonghua W Rd, 和建南路口",22.985488,120.1861317
+500167,1,,"702, Taiwan, Tainan City, South District, 702",22.9795694,120.2065457
 500168,3,,"700, Taiwan, Tainan City, West Central District, 東門圓環",22.9889027,120.2113935
 500169,3,,"Fuping Rd, Anping District, Tainan City, Taiwan 708",22.9875804,120.1719107
 500170,3,,"Gwangju Rd, Anping District, Tainan City, Taiwan 708",22.9898824,120.1589496
-500171,3,,"No. 376號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0075753,120.1873159
+500171,2,,"No. 376號, Section 4, Hewei Rd, North District, Tainan City, Taiwan 704",23.0075753,120.1873159
 500172,3,,"No. 132號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.998783,120.196478
 500173,3,,"No. 102, Huanhe St, West Central District, Tainan City, Taiwan 700",22.9954512,120.1924611
 500174,3,,"No. 26, Fuqian 4th St, Anping District, Tainan City, Taiwan 708",22.994011,120.1853623
 500175,3,,"No. 237號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9915682,120.1908055
-500176,3,,"No. 275號, Section 1, Yonghua Rd, South District, Tainan City, Taiwan 702",22.9881831,120.1895283
-500177,3,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
-500178,3,,"No. 81, Lane 293, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9923432,120.2139395
+500176,1,,"No. 275號, Section 1, Yonghua Rd, South District, Tainan City, Taiwan 702",22.9881831,120.1895283
+500177,22,,"710, Taiwan, Tainan City, Yongkang District, 小東路553號",22.996063,120.2363541
+500178,25,,"No. 81, Lane 293, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9923432,120.2139395
 500179,3,,"700, Taiwan, Tainan City, West Central District, 700",23.0005582,120.1880152
 500180,3,,"No. 66號, Wenxiang St, West Central District, Tainan City, Taiwan 700",23.0012518,120.1881411
 6001,25,,臺南市東區大學路１號（光復校區內，近大學路西段校門口）,22.9977075,120.2144365
@@ -1125,9 +1125,9 @@ L_ID,Section,Street,Address,Lat,Lng
 70018,25,,"No. 182號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701037",22.9845369,120.2182541
 70019,25,,"No. 205, Chongming Rd, East District, Tainan City, Taiwan 701",22.9778603,120.2199471
 70020,25,,"No. 139-2號, Chongxue Rd, East District, Tainan City, Taiwan 701",22.9794907,120.2227453
-70021,25,,"700, Taiwan, Tainan City, West Central District, 郡王里南門路179-5號",22.9862359,120.204389
+70021,3,,"700, Taiwan, Tainan City, West Central District, 郡王里南門路179-5號",22.9862359,120.204389
 70022,25,,"701, Taiwan, Tainan City, East District, Section 2, Datong Rd, 253號台灣 號",22.9752036,120.2142794
-70023,25,,"No. 600號, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",23.0110926,120.2165352
+70023,2,,"No. 600號, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",23.0110926,120.2165352
 70024,25,,"No. 46號, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9801869,120.2283614
 70025,25,,"No. 510, Chongming Rd, East District, Tainan City, Taiwan 701",22.9735278,120.2237922
 70026,25,,"No. 195號, Chongxue Rd, East District, Tainan City, Taiwan 701",22.9804998,120.2237191
@@ -1145,7 +1145,7 @@ L_ID,Section,Street,Address,Lat,Lng
 70038,25,,"No. 434, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9816292,120.2285186
 70039,25,,"No. 57, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9891387,120.2133326
 70040,25,,"No. 243號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9873706,120.2176108
-70041,25,,"704, Taiwan, Tainan City, North District, Section 3, Linsen Rd, 165號2樓",23.0057494,120.2245408
+70041,2,,"704, Taiwan, Tainan City, North District, Section 3, Linsen Rd, 165號2樓",23.0057494,120.2245408
 70042,25,,"No. 76-8號, Renhe Rd, East District, Tainan City, Taiwan 701",22.9752517,120.230758
 70043,25,,"No. 7, Chongming Rd, East District, Tainan City, Taiwan 70147",22.981893,120.216066
 70044,25,,"No. 137號, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9782021,120.2270349
@@ -1160,18 +1160,18 @@ L_ID,Section,Street,Address,Lat,Lng
 70053,25,,"No. 37號, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9865012,120.219804
 70054,25,,"No. 343號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9758294,120.2219494
 70055,25,,"No. 502號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9736168,120.2236861
-70056,25,,"No. 31號, Zhongshan S Rd, Yongkang District, Tainan City, Taiwan 710",23.0118834,120.2267958
+70056,22,,"No. 31號, Zhongshan S Rd, Yongkang District, Tainan City, Taiwan 710",23.0118834,120.2267958
 70057,25,,"No. 12號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 70165",22.9858735,120.2227803
 70058,25,,"No. 89-1, Qingdong St, East District, Tainan City, Taiwan 701",22.9883569,120.216133
 70059,25,,"No. 20號, Chongdao Rd, East District, Tainan City, Taiwan 701",22.9720134,120.2262581
 70060,25,,"No. 55號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701",22.9868565,120.2226146
 70061,2,,"704, Taiwan, Tainan City, North District, 小東路35號",23.0015949,120.2177627
 70062,2,,"No. 138號, Shengli Rd, North District, Tainan City, Taiwan 704",23.002347,120.2193717
-70063,2,,"No. 125號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9960706,120.2088778
-70064,2,,"No. 670號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9687059,120.2268128
+70063,3,,"No. 125號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9960706,120.2088778
+70064,25,,"No. 670號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9687059,120.2268128
 70065,2,,"No. 600號, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",23.0110926,120.2165352
-70066,2,,"No. 66號, Section 2, Zhanghe Rd, Annan District, Tainan City, Taiwan 709",23.0650839,120.2231768
-70067,2,,"No. 57號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9891387,120.2133326
+70066,12,,"No. 66號, Section 2, Zhanghe Rd, Annan District, Tainan City, Taiwan 709",23.0650839,120.2231768
+70067,25,,"No. 57號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9891387,120.2133326
 70068,2,,"No. 375, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0057594,120.2102736
 70069,2,,"No. 315-1號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0035883,120.2100355
 70070,2,,"No. 600, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0125771,120.2007784
@@ -1181,51 +1181,51 @@ L_ID,Section,Street,Address,Lat,Lng
 70074,2,,"704, Taiwan, Tainan City, North District, Section 3, Ximen Rd, 159號13F-2",23.003814,120.2040313
 70075,2,,"712, Taiwan, Tainan City, Xinhua District, 那拔里牧場72號",23.0627523,120.3366037
 70076,2,,"No. 41, Xihua St, North District, Tainan City, Taiwan 725",22.9986137,120.2102061
-70077,2,,"No. 132號, Section 1, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9947258,120.2314131
-70078,2,,"700, Taiwan, Tainan City, West Central District, 郡王里南門路179-5號",22.9862359,120.204389
+70077,25,,"No. 132號, Section 1, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9947258,120.2314131
+70078,3,,"700, Taiwan, Tainan City, West Central District, 郡王里南門路179-5號",22.9862359,120.204389
 70079,2,,"No. 210號, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.018268,120.2081148
-70080,2,,"No. 10, Section 1, Beimen Rd, East District, Tainan City, Taiwan 701",22.9897365,120.2116249
-70081,2,,"No. 1326號, Section 2, Yongda Rd, Yongkang District, Tainan City, Taiwan 710",23.0222028,120.2614909
+70080,25,,"No. 10, Section 1, Beimen Rd, East District, Tainan City, Taiwan 701",22.9897365,120.2116249
+70081,22,,"No. 1326號, Section 2, Yongda Rd, Yongkang District, Tainan City, Taiwan 710",23.0222028,120.2614909
 70082,2,,"No. 286號, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.008545,120.22257
 70083,2,,"704, Taiwan, Tainan City, North District, Section 4, Ximen Road, 262號2樓",23.0119636,120.209072
 70084,2,,"No. 151號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.003398,120.1980383
-70085,2,,"710, Taiwan, Tainan City, Yongkang District, Dongqiao 7th Rd, 371號1樓",23.025039,120.2350809
-70086,2,,"701, Taiwan, Tainan City, East District",22.9892373,120.2134637
+70085,22,,"710, Taiwan, Tainan City, Yongkang District, Dongqiao 7th Rd, 371號1樓",23.025039,120.2350809
+70086,25,,"701, Taiwan, Tainan City, East District",22.9892373,120.2134637
 70087,2,,"No. 70號, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9983269,120.2065869
 70088,2,,"No. 73號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.002926,120.1968106
 70089,2,,"No. 37, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",22.9982494,120.2122084
-70090,2,,"No. 443號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",23.0009851,120.1968473
+70090,3,,"No. 443號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",23.0009851,120.1968473
 70091,2,,"744, Taiwan, Tainan City, Xinshi District, Nanke 3rd Rd, 7號1樓",23.098859,120.2841499
-70092,2,,"No. 169, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9980535,120.2063234
+70092,3,,"No. 169, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9980535,120.2063234
 70093,2,,"No. 101號, Section 2, Zhonghua N Rd, North District, Tainan City, Taiwan 704",23.0197003,120.1983363
 70094,2,,"No. 418, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0106986,120.2255476
-70095,2,,"No. 901號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.020866,120.2220927
+70095,22,,"No. 901號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.020866,120.2220927
 70096,2,,"No. 599-4號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0143822,120.2126777
 70097,2,,"No. 376號, Gongyuan S Rd, North District, Tainan City, Taiwan 704",23.0032852,120.2015332
-70098,2,,"No. 427號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 71051",22.9967794,120.2399853
+70098,22,,"No. 427號, Fuxing Rd, Yongkang District, Tainan City, Taiwan 71051",22.9967794,120.2399853
 70099,2,,"No. 27號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0025117,120.195822
-700100,2,,"No. 901號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.0203921,120.2218028
+700100,22,,"No. 901號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.0203921,120.2218028
 700101,2,,"No. 68, Changrong Rd Section 4, North District, Tainan City, Taiwan 704",23.0045667,120.2227186
 700102,2,,"No. 15號, Lane 485, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.010617,120.224262
 700103,2,,"No. 18, Xihua St, North District, Tainan City, Taiwan 704",22.9986975,120.2105525
-700104,2,,"No. 267號, Section 2, Anhe Rd, Annan District, Tainan City, Taiwan 709",23.0424602,120.2160862
-700105,2,,"No. 15號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9825512,120.2158863
-700106,2,,"No. 434, Qingnian Rd, East District, Tainan City, Taiwan 70144",22.9910385,120.216906
+700104,12,,"No. 267號, Section 2, Anhe Rd, Annan District, Tainan City, Taiwan 709",23.0424602,120.2160862
+700105,25,,"No. 15號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9825512,120.2158863
+700106,25,,"No. 434, Qingnian Rd, East District, Tainan City, Taiwan 70144",22.9910385,120.216906
 700107,2,,"No. 479, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0102377,120.2244822
-700108,2,,"No. 370號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9815296,120.1993064
-700109,2,,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",23.001632,120.2206652
-700110,2,,"No. 777號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.01835,120.225951
+700108,3,,"No. 370號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9815296,120.1993064
+700109,25,,"No. 1號, Dasyue Rd, East District, Tainan City, Taiwan 701",23.001632,120.2206652
+700110,22,,"No. 777號, Zhonghua Rd, Yongkang District, Tainan City, Taiwan 710",23.01835,120.225951
 700111,2,,"No. 155號, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0036754,120.2184378
 700112,2,,"No. 138號, Shengli Rd, North District, Tainan City, Taiwan 704",23.0021058,120.219057
-700113,2,,"No. 539號, Yuzhong Rd, Rende District, Tainan City, Taiwan 717",22.9766612,120.2419539
+700113,31,,"No. 539號, Yuzhong Rd, Rende District, Tainan City, Taiwan 717",22.9766612,120.2419539
 700114,2,,"No. 703號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0166741,120.2145077
 700115,2,,"No. 338, Section 3, Linsen Rd, North District, Tainan City, Taiwan 704",23.0088772,120.2232923
 700116,2,,"No. 513號, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0107862,120.2252383
-700117,2,,"No. 30號, Zhongzheng N Rd, Yongkang District, Tainan City, Taiwan 710",23.0412439,120.2383897
+700117,22,,"No. 30號, Zhongzheng N Rd, Yongkang District, Tainan City, Taiwan 710",23.0412439,120.2383897
 700118,2,,"No. 375之12號, Gongyuan Rd, North District, Tainan City, Taiwan 704",23.0061683,120.2101291
 700119,2,,"No. 108號, Section 1, Beian Rd, North District, Tainan City, Taiwan 704",23.0168428,120.2101009
-700120,2,,"No. 218號, Chongshan Rd, East District, Tainan City, Taiwan 70169",22.9782826,120.2261649
-700121,3,,"No. 20, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0022059,120.1957714
+700120,25,,"No. 218號, Chongshan Rd, East District, Tainan City, Taiwan 70169",22.9782826,120.2261649
+700121,2,,"No. 20, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0022059,120.1957714
 700122,3,,"700, Taiwan, Tainan City, West Central District, 郡王里南門路179-5號",22.9862359,120.204389
 700123,3,,"No. 443號, Chenggong Rd, West Central District, Tainan City, Taiwan 700",23.0009851,120.1968473
 700124,3,,"No. 22號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9950261,120.1988024
@@ -1233,25 +1233,25 @@ L_ID,Section,Street,Address,Lat,Lng
 700126,3,,"No. 193號, Section 1, Lin'an Rd, West Central District, Tainan City, Taiwan 700",23.0009444,120.1926404
 700127,3,,"No. 324, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.9936556,120.195111
 700128,3,,"No. 316號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9973024,120.1906148
-700129,3,,"No. 14號, Section 5, Jinhua Rd, North District, Tainan City, Taiwan 704",23.0019403,120.1963881
-700130,3,,"No. 608號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0027417,120.194682
+700129,2,,"No. 14號, Section 5, Jinhua Rd, North District, Tainan City, Taiwan 704",23.0019403,120.1963881
+700130,2,,"No. 608號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0027417,120.194682
 700131,3,,"No. 125號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9960706,120.2088778
 700132,3,,"No. 370號, Section 1, Jiankang Rd, West Central District, Tainan City, Taiwan 700",22.9815296,120.1993064
-700133,3,,"No. 611號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 702",22.9853319,120.19744
-700134,3,,"No. 442號, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865344,120.1961859
+700133,1,,"No. 611號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 702",22.9853319,120.19744
+700134,1,,"No. 442號, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865344,120.1961859
 700135,3,,"No, No. 14, Fucian 1st Street 9 Ln, West Central District, Tainan City, Taiwan 700",22.9931399,120.187812
 700136,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Zhongyi Rd, 205號一樓",22.9974156,120.2043775
 700137,3,,"Alley 12, Lane 9, Fuqianyi St, West Central District, Tainan City, Taiwan 700",22.9932103,120.1879638
 700138,3,,"No. 230號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.991856,120.1920024
-700139,3,,"No. 600號, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",23.0110926,120.2165352
+700139,2,,"No. 600號, Section 2, Beimen Rd, North District, Tainan City, Taiwan 704",23.0110926,120.2165352
 700140,3,,"No. 190號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.996374,120.1938618
 700141,3,,"No. 670號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9889708,120.197739
 700142,3,,"700, Taiwan, Tainan City, West Central District, Huanhe St, 86號1樓",22.9947361,120.19266
 700143,3,,"No. 3號, Lane 100, Bao'an Rd, West Central District, Tainan City, Taiwan 700",22.9905423,120.1950067
 700144,3,,"No. 198號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9995444,120.1944685
-700145,3,,"No. 15號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9825512,120.2158863
+700145,25,,"No. 15號, Section 1, Changrong Rd, East District, Tainan City, Taiwan 701",22.9825512,120.2158863
 700146,3,,"No. 127, Section 2, Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9944829,120.203299
-700147,3,,"No. 7-2號, Xialin Rd, South District, Tainan City, Taiwan 702",22.9850871,120.1951737
+700147,1,,"No. 7-2號, Xialin Rd, South District, Tainan City, Taiwan 702",22.9850871,120.1951737
 700148,3,,"No. 165號, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9948946,120.2029267
 700149,3,,"No. 25號 號, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700",22.9907594,120.2003801
 700150,3,,"No. 122, Kangle St, West Central District, Tainan City, Taiwan 700",22.9941953,120.1949042
@@ -1264,10 +1264,10 @@ L_ID,Section,Street,Address,Lat,Lng
 700157,3,,"No. 312號, Section 2, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9923754,120.1891071
 700158,3,,"700, Taiwan, 台灣省台南市 中西區金華路三段90號",22.9907619,120.1927566
 700159,3,,"No. 108號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.9985782,120.1970948
-700160,3,,"No. 20號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0022059,120.1957714
+700160,2,,"No. 20號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.0022059,120.1957714
 700161,3,,"No. 169, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9980535,120.2063234
 700162,3,,"No. 52號, Zhongshan Rd, West Central District, Tainan City, Taiwan 70043",22.9933514,120.206741
-700163,3,,"No. 132號, Section 1, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9947258,120.2314131
+700163,25,,"No. 132號, Section 1, Dongguang Rd, East District, Tainan City, Taiwan 701",22.9947258,120.2314131
 700164,3,,"No. 162號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.9927965,120.1989443
 700165,3,,"700, Taiwan, Tainan City, West Central District, Heyi Rd, 60號1、2樓",22.9885654,120.1983514
 700166,3,,"No. 391號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9973698,120.1887029
@@ -1275,134 +1275,134 @@ L_ID,Section,Street,Address,Lat,Lng
 700168,3,,"70051, Taiwan, Tainan City, West Central District, Heyi Rd, 62號1-4樓",22.9885689,120.1982928
 700169,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Hai'an Rd, 401號2樓",23.0004599,120.1984451
 700170,3,,"2樓, No. 662號, Section 1, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9886331,120.1979108
-700171,3,,"No. 442號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0009614,120.1978197
+700171,2,,"No. 442號, Chenggong Rd, North District, Tainan City, Taiwan 704",23.0009614,120.1978197
 700172,3,,"No. 383號, Section 2, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9973378,120.188909
 700173,3,,"No. 396號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9987824,120.2008536
-700174,3,,"No. 697號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 702",22.9872819,120.1973758
-700175,3,,"No. 218號, Chongshan Rd, East District, Tainan City, Taiwan 70169",22.9782826,120.2261649
+700174,1,,"No. 697號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 702",22.9872819,120.1973758
+700175,25,,"No. 218號, Chongshan Rd, East District, Tainan City, Taiwan 70169",22.9782826,120.2261649
 700176,3,,"No. 111號, Dayong St, West Central District, Tainan City, Taiwan 70056",22.9898186,120.1927748
 700177,3,,"No. 171, Chenggong Rd, West Central District, Tainan City, Taiwan 700",22.9981071,120.2062014
-700178,3,,"No. 138號, Shengli Rd, North District, Tainan City, Taiwan 704",23.002347,120.2193717
+700178,2,,"No. 138號, Shengli Rd, North District, Tainan City, Taiwan 704",23.002347,120.2193717
 700179,3,,"700, Taiwan, Tainan City, West Central District, Section 3, Jinhua Rd, 167號3樓",22.9927341,120.192872
-700180,3,,"No. 670號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9687059,120.2268128
+700180,25,,"No. 670號, Chongde Rd, East District, Tainan City, Taiwan 701",22.9687059,120.2268128
 8001,25,,"No. 56號, Chongren St, East District, Tainan City, Taiwan 701",22.9843016,120.2227662
 8002,25,,"號 No. 1, Dongrong St, East District, Tainan City, Taiwan 701",22.9910419,120.21545
-8003,25,,"No. 36號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9932054,120.2063646
-8004,25,,"No. 236號, Section 1, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9928149,120.2073513
-8005,25,,"No. 41號, Dalin Rd, South District, Tainan City, Taiwan 702",22.9757596,120.2129361
+8003,3,,"No. 36號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9932054,120.2063646
+8004,3,,"No. 236號, Section 1, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9928149,120.2073513
+8005,1,,"No. 41號, Dalin Rd, South District, Tainan City, Taiwan 702",22.9757596,120.2129361
 8006,25,,"70143, Taiwan, Tainan City, East District, Section 1, Changrong Rd, 127號1樓",22.9836151,120.2175178
-8007,25,,"No. 30號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9931994,120.2062739
-8008,25,,"No. 32號, You'ai E St, West Central District, Tainan City, Taiwan 70041",22.9915257,120.2064848
-8009,25,,"No. 12-6號, Lane 57, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.993942,120.2103347
-80010,25,,"No. 6號, Lane 143, Weimin St, West Central District, Tainan City, Taiwan 700008",22.9933463,120.2071571
+8007,3,,"No. 30號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9931994,120.2062739
+8008,3,,"No. 32號, You'ai E St, West Central District, Tainan City, Taiwan 70041",22.9915257,120.2064848
+8009,3,,"No. 12-6號, Lane 57, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.993942,120.2103347
+80010,3,,"No. 6號, Lane 143, Weimin St, West Central District, Tainan City, Taiwan 700008",22.9933463,120.2071571
 80011,25,,"701, Taiwan, Tainan City, East District, 東寧路西段27號",22.9923401,120.2167862
 80012,25,,"No. 186號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9874303,120.2159665
 80013,25,,"No. 430號, Chongshan Rd, East District, Tainan City, Taiwan 701",22.9738805,120.2290872
-80014,25,,"710, Taiwan, Tainan City, Yongkang District, Lane 239, Zhongxiao Rd, 25號25, Lane 239, Zhongxiao Road, Yongkang District, Tainan CityNo",23.0049156,120.2391418
-80015,25,,"No. 12-1號, Xinghua St, West Central District, Tainan City, Taiwan 700",22.9920734,120.2106568
+80014,22,,"710, Taiwan, Tainan City, Yongkang District, Lane 239, Zhongxiao Rd, 25號25, Lane 239, Zhongxiao Road, Yongkang District, Tainan CityNo",23.0049156,120.2391418
+80015,3,,"No. 12-1號, Xinghua St, West Central District, Tainan City, Taiwan 700",22.9920734,120.2106568
 80016,25,,"No. 57號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9903569,120.2174504
 80017,25,,"No. 209號, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9847771,120.2247802
-80018,25,,"No. 17號, Fulian Rd, West Central District, Tainan City, Taiwan 700",22.9819092,120.2095603
+80018,3,,"No. 17號, Fulian Rd, West Central District, Tainan City, Taiwan 700",22.9819092,120.2095603
 80019,25,,"701, Taiwan, Tainan City, East District, 裕農路621巷41弄7-4號",22.9902206,120.2352852
-80020,25,,"No. 14號, Lane 406, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9746842,120.2136339
+80020,1,,"No. 14號, Lane 406, Section 2, Datong Rd, South District, Tainan City, Taiwan 702",22.9746842,120.2136339
 80021,25,,"No. 96號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 70145",22.9945312,120.213402
 80022,25,,"No. 416-2號, Qingnian Rd, East District, Tainan City, Taiwan 701",22.9908853,120.2164935
 80023,25,,"No. 125號, Qingdong St, East District, Tainan City, Taiwan 701",22.9899395,120.2163071
 80024,25,,"No. 100號, Section 2, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9847998,120.232342
 80025,25,,"No. 11號, Lane 365, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9826542,120.2279426
-80026,25,,"No. 2號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 70048",22.9928837,120.2045573
-80027,25,,"No. 1-3, Lane 423, Xiaodong Rd, North District, Tainan City, Taiwan 704",22.998996,120.2325028
-80028,25,,"No. 67號, Alley 71, Lane 942, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",23.0004501,120.2544981
-80029,25,,"No. 46號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9859549,120.2019733
+80026,3,,"No. 2號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 70048",22.9928837,120.2045573
+80027,2,,"No. 1-3, Lane 423, Xiaodong Rd, North District, Tainan City, Taiwan 704",22.998996,120.2325028
+80028,22,,"No. 67號, Alley 71, Lane 942, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",23.0004501,120.2544981
+80029,3,,"No. 46號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9859549,120.2019733
 80030,25,,"No. 2號, Alley 43, Lane 336, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.975161,120.2206963
 80031,25,,"No. 468號, Dongning Rd, East District, Tainan City, Taiwan 70165",22.9893207,120.2296259
 80032,25,,"No. 14號, Lane 18, Daxue Rd, East District, Tainan City, Taiwan 70146",22.9949576,120.220829
 80033,25,,"701, Taiwan, Tainan City, East District, Lane 73, Section 2, Zhonghua E Rd, 7號1F",22.9870615,120.2339007
-80034,25,,"No. 2號, Zhongxiao 1st Road, Yongkang District, Tainan City, Taiwan 710",23.0001768,120.2460636
+80034,22,,"No. 2號, Zhongxiao 1st Road, Yongkang District, Tainan City, Taiwan 710",23.0001768,120.2460636
 80035,25,,"No. 301號, Qingnian Rd, East District, Tainan City, Taiwan 701",22.991461,120.2140097
-80036,25,,"700, Taiwan, Tainan City, West Central District, Fulian Rd, 28號2樓",22.9826724,120.2099477
-80037,25,,"號1樓 No. 63之2成功路, West Central District, Tainan City, Taiwan 700",22.9976643,120.2088405
+80036,3,,"700, Taiwan, Tainan City, West Central District, Fulian Rd, 28號2樓",22.9826724,120.2099477
+80037,3,,"號1樓 No. 63之2成功路, West Central District, Tainan City, Taiwan 700",22.9976643,120.2088405
 80038,25,,"No. ６號, Lide 11th Rd, East District, Tainan City, Taiwan 70152",22.9780833,120.2140482
-80039,25,,"No. 20號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.992444,120.203575
+80039,3,,"No. 20號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.992444,120.203575
 80040,25,,"No. 18號, Lane 377, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9725534,120.2217008
 80041,25,,"No. 227號, Section 2, Dongmen Rd, East District, Tainan City, Taiwan 701",22.9844616,120.2251718
 80042,25,,"No. 57-6號, Renhe Rd, East District, Tainan City, Taiwan 701",22.9754802,120.2308159
-80043,25,,"No. 69號, Xihua S St, West Central District, Tainan City, Taiwan 700",22.9947111,120.209464
+80043,3,,"No. 69號, Xihua S St, West Central District, Tainan City, Taiwan 700",22.9947111,120.209464
 80044,25,,"No. 107號, Fudong St, East District, Tainan City, Taiwan 701",22.9859609,120.2175953
 80045,25,,"No. 98號, Dongrong St, East District, Tainan City, Taiwan 701",22.988492,120.2150417
-80046,25,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 31號3樓",22.991221,120.206199
+80046,3,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 31號3樓",22.991221,120.206199
 80047,25,,"701, Taiwan, Tainan City, East District, 東寧路西段13號1樓",22.9922679,120.217346
 80048,25,,"No. 71號, Lane 380, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.9751808,120.2193983
 80049,25,,"No. 3號, Lane 399, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.973253,120.220551
 80050,25,,"701, Taiwan, Tainan City, East District, Chongshan Rd, 380號號",22.9751082,120.2287732
 80051,25,,"No. 73號, Dongping Rd, East District, Tainan City, Taiwan 701",22.9949079,120.231722
-80052,25,,"700, Taiwan, Tainan City, West Central District, Xinghua St, 25號2樓",22.9924416,120.2105845
+80052,3,,"700, Taiwan, Tainan City, West Central District, Xinghua St, 25號2樓",22.9924416,120.2105845
 80053,25,,"No. 38, Lane 3, Chongdesi St, East District, Tainan City, Taiwan 701",22.9772816,120.224033
 80054,25,,"No. 191號, Chongshan Rd, East District, Tainan City, Taiwan 701",22.9806279,120.2235292
 80055,25,,"No. 24, Chongming Rd, East District, Tainan City, Taiwan 701",22.9814931,120.2162193
-80056,25,,"700, Taiwan, Tainan City, West Central District, Chenggong Rd, 63號之1",22.9975291,120.2087802
+80056,3,,"700, Taiwan, Tainan City, West Central District, Chenggong Rd, 63號之1",22.9975291,120.2087802
 80057,25,,"No. 441號, Chongming Rd, East District, Tainan City, Taiwan 701",22.9732632,120.2243616
-80058,25,,"700, Taiwan, Tainan City, West Central District, Section 2, Minzu Rd, 141號2樓",22.9948002,120.2074768
+80058,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Minzu Rd, 141號2樓",22.9948002,120.2074768
 80059,25,,"No. 22號, Lane 87, Rongyu St, East District, Tainan City, Taiwan 701",22.9752295,120.2176399
-80060,25,,"No. 194號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891264,120.2055173
+80060,3,,"No. 194號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891264,120.2055173
 80061,2,,"No. 1號, Alley 6, Lane 148, Kaiyuan Rd, North District, Tainan City, Taiwan 704",23.0064086,120.2194789
 80062,2,,"No. 185號, Dongfeng Rd, North District, Tainan City, Taiwan 704",23.0034939,120.2195615
-80063,2,,"No. 36號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9932054,120.2063646
-80064,2,,"No. 43號, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0051731,120.19238
-80065,2,,"號 No. 1, Dongrong St, East District, Tainan City, Taiwan 701",22.9910419,120.21545
+80063,3,,"No. 36號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9932054,120.2063646
+80064,3,,"No. 43號, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0051731,120.19238
+80065,25,,"號 No. 1, Dongrong St, East District, Tainan City, Taiwan 701",22.9910419,120.21545
 80066,2,,"No. 170號, Wenxian 1st Rd, North District, Tainan City, Taiwan 704011",23.0105808,120.1955223
-80067,2,,"No. 30號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9931994,120.2062739
+80067,3,,"No. 30號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9931994,120.2062739
 80068,2,,"No. 10號, Lane 546, Wenxian Rd, North District, Tainan City, Taiwan 704",23.0074809,120.1944005
-80069,2,,"70143, Taiwan, Tainan City, East District, Section 1, Changrong Rd, 127號1樓",22.9836151,120.2175178
-80070,2,,"No. 6號, Lane 143, Weimin St, West Central District, Tainan City, Taiwan 700008",22.9933463,120.2071571
-80071,2,,"No. 149號, Section 1, Beimen Rd, West Central District, Tainan City, Taiwan 700",22.9956159,120.2117054
-80072,2,,"701, Taiwan, Tainan City, East District, 東寧路西段27號",22.9923401,120.2167862
-80073,2,,"No. 57號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9903569,120.2174504
-80074,2,,"No. 17號, Lane 477, Xiaodong Rd, Yongkang District, Tainan City, Taiwan 710",22.9993658,120.2352482
-80075,2,,"號1樓, No. 428, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865319,120.1964704
-80076,2,,"No. 12-6號, Lane 57, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.993942,120.2103347
-80077,2,,"701, Taiwan, Tainan City, East District, 裕農路621巷41弄7-4號",22.9902206,120.2352852
-80078,2,,"No. 12, Lane 155, Section 1, Hai'an Rd, West Central District, Tainan City, Taiwan 700",22.9915162,120.1952804
+80069,25,,"70143, Taiwan, Tainan City, East District, Section 1, Changrong Rd, 127號1樓",22.9836151,120.2175178
+80070,3,,"No. 6號, Lane 143, Weimin St, West Central District, Tainan City, Taiwan 700008",22.9933463,120.2071571
+80071,3,,"No. 149號, Section 1, Beimen Rd, West Central District, Tainan City, Taiwan 700",22.9956159,120.2117054
+80072,25,,"701, Taiwan, Tainan City, East District, 東寧路西段27號",22.9923401,120.2167862
+80073,25,,"No. 57號, Shengli Rd, East District, Tainan City, Taiwan 701",22.9903569,120.2174504
+80074,22,,"No. 17號, Lane 477, Xiaodong Rd, Yongkang District, Tainan City, Taiwan 710",22.9993658,120.2352482
+80075,1,,"號1樓, No. 428, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865319,120.1964704
+80076,3,,"No. 12-6號, Lane 57, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.993942,120.2103347
+80077,25,,"701, Taiwan, Tainan City, East District, 裕農路621巷41弄7-4號",22.9902206,120.2352852
+80078,3,,"No. 12, Lane 155, Section 1, Hai'an Rd, West Central District, Tainan City, Taiwan 700",22.9915162,120.1952804
 80079,2,,"No. 2號, Alley 1, Lane 40, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9983439,120.2081192
-80080,2,,"No. 715號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0031226,120.1867121
-80081,2,,"No. 236號, Section 1, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9928149,120.2073513
-80082,2,,"No. 32號, You'ai E St, West Central District, Tainan City, Taiwan 70041",22.9915257,120.2064848
-80083,2,,"No. 46號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9859549,120.2019733
-80084,2,,"No. 69號, Xihua S St, West Central District, Tainan City, Taiwan 700",22.9947111,120.209464
-80085,2,,"No. 20號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.992444,120.203575
+80080,3,,"No. 715號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0031226,120.1867121
+80081,3,,"No. 236號, Section 1, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9928149,120.2073513
+80082,3,,"No. 32號, You'ai E St, West Central District, Tainan City, Taiwan 70041",22.9915257,120.2064848
+80083,3,,"No. 46號, Section 1 Zhongyi Rd, West Central District, Tainan City, Taiwan 700",22.9859549,120.2019733
+80084,3,,"No. 69號, Xihua S St, West Central District, Tainan City, Taiwan 700",22.9947111,120.209464
+80085,3,,"No. 20號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.992444,120.203575
 80086,2,,"No. 153號, Section 2, Hewei Rd, North District, Tainan City, Taiwan 704",23.0119531,120.2070907
 80087,2,,"No. 14號, Lane 330, Section 4, Ximen Rd, North District, Tainan City, Taiwan 704",23.0133659,120.2099347
-80088,2,,"No. 606號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0045061,120.1869489
-80089,2,,"No. 14號, Lane 18, Daxue Rd, East District, Tainan City, Taiwan 70146",22.9949576,120.220829
-80090,2,,"No. 67號, Alley 71, Lane 942, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",23.0004501,120.2544981
-80091,2,,"No. 363號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9994076,120.1967355
-80092,2,,"700, Taiwan, Tainan City, West Central District, Section 3, Minquan Rd, 184號1樓",22.9975688,120.195441
-80093,2,,"No. 62號, Section 1, Lin'an Rd, West Central District, Tainan City, Taiwan 700",22.9989816,120.1906769
-80094,2,,"700, Taiwan, Tainan City, West Central District, Xinghua St, 25號2樓",22.9924416,120.2105845
-80095,2,,"701, Taiwan, Tainan City, East District, Lane 73, Section 2, Zhonghua E Rd, 7號1F",22.9870615,120.2339007
-80096,2,,"No. 39號2, Lane 259, Section 2, Hai'an Rd, West Central District, Tainan City, Taiwan 700",22.9981559,120.1966666
-80097,2,,"No. 233號, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 70042",22.9953995,120.2014047
-80098,2,,"No. 421號, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 70263",22.9812358,120.1986671
-80099,2,,"701, Taiwan, Tainan City, East District, 東寧路西段13號1樓",22.9922679,120.217346
+80088,3,,"No. 606號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0045061,120.1869489
+80089,25,,"No. 14號, Lane 18, Daxue Rd, East District, Tainan City, Taiwan 70146",22.9949576,120.220829
+80090,22,,"No. 67號, Alley 71, Lane 942, Dawan Rd, Yongkang District, Tainan City, Taiwan 710",23.0004501,120.2544981
+80091,3,,"No. 363號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9994076,120.1967355
+80092,3,,"700, Taiwan, Tainan City, West Central District, Section 3, Minquan Rd, 184號1樓",22.9975688,120.195441
+80093,3,,"No. 62號, Section 1, Lin'an Rd, West Central District, Tainan City, Taiwan 700",22.9989816,120.1906769
+80094,3,,"700, Taiwan, Tainan City, West Central District, Xinghua St, 25號2樓",22.9924416,120.2105845
+80095,25,,"701, Taiwan, Tainan City, East District, Lane 73, Section 2, Zhonghua E Rd, 7號1F",22.9870615,120.2339007
+80096,3,,"No. 39號2, Lane 259, Section 2, Hai'an Rd, West Central District, Tainan City, Taiwan 700",22.9981559,120.1966666
+80097,3,,"No. 233號, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 70042",22.9953995,120.2014047
+80098,1,,"No. 421號, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 70263",22.9812358,120.1986671
+80099,25,,"701, Taiwan, Tainan City, East District, 東寧路西段13號1樓",22.9922679,120.217346
 800100,2,,"No. 886號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",23.0178216,120.2003679
-800101,2,,"No. 10號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9908314,120.1981815
-800102,2,,"No. 98號, Dongrong St, East District, Tainan City, Taiwan 701",22.988492,120.2150417
-800103,2,,"No. 96號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 70145",22.9945312,120.213402
-800104,2,,"No. 3號, Lane 72, Fuwei St, West Central District, Tainan City, Taiwan 700",22.9841545,120.1982433
-800105,2,,"No. 393號, Section 3, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9987959,120.1887931
-800106,2,,"No. ６號, Lide 11th Rd, East District, Tainan City, Taiwan 70152",22.9780833,120.2140482
+800101,3,,"No. 10號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9908314,120.1981815
+800102,25,,"No. 98號, Dongrong St, East District, Tainan City, Taiwan 701",22.988492,120.2150417
+800103,25,,"No. 96號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 70145",22.9945312,120.213402
+800104,3,,"No. 3號, Lane 72, Fuwei St, West Central District, Tainan City, Taiwan 700",22.9841545,120.1982433
+800105,3,,"No. 393號, Section 3, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9987959,120.1887931
+800106,25,,"No. ６號, Lide 11th Rd, East District, Tainan City, Taiwan 70152",22.9780833,120.2140482
 800107,2,,"No. 1-3, Lane 423, Xiaodong Rd, North District, Tainan City, Taiwan 704",22.998996,120.2325028
-800108,2,,"710, Taiwan, Tainan City, Yongkang District, Dongciao 1st Rd, 142號1樓",23.017773,120.2346319
-800109,2,,"No. 18號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9886767,120.192254
-800110,2,,"No. 107號, Fudong St, East District, Tainan City, Taiwan 701",22.9859609,120.2175953
-800111,2,,"No. 401號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 70249",22.9799327,120.1974895
-800112,2,,"No. 672號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0063606,120.1865737
-800113,2,,"No. 38號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9892729,120.1923928
-800114,2,,"700, Taiwan, Tainan City, West Central District, Section 2, Minzu Rd, 141號2樓",22.9948002,120.2074768
+800108,22,,"710, Taiwan, Tainan City, Yongkang District, Dongciao 1st Rd, 142號1樓",23.017773,120.2346319
+800109,3,,"No. 18號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9886767,120.192254
+800110,25,,"No. 107號, Fudong St, East District, Tainan City, Taiwan 701",22.9859609,120.2175953
+800111,1,,"No. 401號, Section 1, Ximen Rd, South District, Tainan City, Taiwan 70249",22.9799327,120.1974895
+800112,3,,"No. 672號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0063606,120.1865737
+800113,3,,"No. 38號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9892729,120.1923928
+800114,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Minzu Rd, 141號2樓",22.9948002,120.2074768
 800115,2,,"No. 42-3號, Beiyuan St, North District, Tainan City, Taiwan 704",23.01149,120.2231674
-800116,2,,"700, Taiwan, Tainan City, West Central District, Chenggong Rd, 63號之1",22.9975291,120.2087802
-800117,2,,"No. 3號, Lane 399, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.973253,120.220551
-800118,2,,"No. 194號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891264,120.2055173
+800116,3,,"700, Taiwan, Tainan City, West Central District, Chenggong Rd, 63號之1",22.9975291,120.2087802
+800117,25,,"No. 3號, Lane 399, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",22.973253,120.220551
+800118,3,,"No. 194號, Section 1, Fuqian Rd, West Central District, Tainan City, Taiwan 700",22.9891264,120.2055173
 800119,2,,"No. 71號, Xihua St, North District, Tainan City, Taiwan 704033",22.9999791,120.2105887
 800120,2,,"No. 20號, Jiankang 3rd St, Anping District, Tainan City, Taiwan 708",22.9855528,120.168085
 800121,3,,"No. 25號, Lane 148, Yonghuayi St, West Central District, Tainan City, Taiwan 700",22.9916089,120.1898762
@@ -1411,7 +1411,7 @@ L_ID,Section,Street,Address,Lat,Lng
 800124,3,,"No. 606號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0045061,120.1869489
 800125,3,,"No. 20號, Jhongjheng Rd, West Central District, Tainan City, Taiwan 700",22.992444,120.203575
 800126,3,,"No. 32號, You'ai E St, West Central District, Tainan City, Taiwan 70041",22.9915257,120.2064848
-800127,3,,"號 No. 1, Dongrong St, East District, Tainan City, Taiwan 701",22.9910419,120.21545
+800127,25,,"號 No. 1, Dongrong St, East District, Tainan City, Taiwan 701",22.9910419,120.21545
 800128,3,,"No. 464號, Section 3, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9990886,120.1872169
 800129,3,,"No. 30號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9931994,120.2062739
 800130,3,,"No. 62號, Section 1, Lin'an Rd, West Central District, Tainan City, Taiwan 700",22.9989816,120.1906769
@@ -1424,7 +1424,7 @@ L_ID,Section,Street,Address,Lat,Lng
 800137,3,,"No. 43號, Wusheng Rd, West Central District, Tainan City, Taiwan 700",23.0051731,120.19238
 800138,3,,"No. 39號2, Lane 259, Section 2, Hai'an Rd, West Central District, Tainan City, Taiwan 700",22.9981559,120.1966666
 800139,3,,"700, Taiwan, Tainan City, West Central District, Kaishan Rd, 31號3樓",22.991221,120.206199
-800140,3,,"No. 2號, Alley 1, Lane 40, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9983439,120.2081192
+800140,2,,"No. 2號, Alley 1, Lane 40, Chenggong Rd, North District, Tainan City, Taiwan 704",22.9983439,120.2081192
 800141,3,,"No. 227號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9948922,120.1934924
 800142,3,,"700, Taiwan, Tainan City, West Central District, Section 2, Minzu Rd, 141號2樓",22.9948002,120.2074768
 800143,3,,"No. 12-6號, Lane 57, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",22.993942,120.2103347
@@ -1432,26 +1432,26 @@ L_ID,Section,Street,Address,Lat,Lng
 800145,3,,"No. 2號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 70048",22.9928837,120.2045573
 800146,3,,"No. 178號, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9953388,120.2023706
 800147,3,,"700, Taiwan, Tainan City, West Central District, Section 3, Minquan Rd, 184號1樓",22.9975688,120.195441
-800148,3,,"No. 421號, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 70263",22.9812358,120.1986671
-800149,3,,"No. 96號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 70145",22.9945312,120.213402
+800148,1,,"No. 421號, Section 1, Jiankang Rd, South District, Tainan City, Taiwan 70263",22.9812358,120.1986671
+800149,25,,"No. 96號, Section 1, Minzu Rd, East District, Tainan City, Taiwan 70145",22.9945312,120.213402
 800150,3,,"No. 363號, Kangle St, West Central District, Tainan City, Taiwan 700",22.9994076,120.1967355
 800151,3,,"No. 233號, Section 2, Minquan Rd, West Central District, Tainan City, Taiwan 70042",22.9953995,120.2014047
 800152,3,,"No. 10號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9908314,120.1981815
 800153,3,,"No. 18號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9886767,120.192254
-800154,3,,"號1樓, No. 428, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865319,120.1964704
+800154,1,,"號1樓, No. 428, Section 2, Shulin St, South District, Tainan City, Taiwan 702",22.9865319,120.1964704
 800155,3,,"No. 672號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0063606,120.1865737
 800156,3,,"No. 217號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700",22.9950571,120.199081
 800157,3,,"700, Taiwan, Tainan City, West Central District, Chenggong Rd, 63號之1",22.9975291,120.2087802
 800158,3,,"No. 68號, Section 2, Shulin St, West Central District, Tainan City, Taiwan 700",22.9862403,120.2093734
 800159,3,,"No. 209號, Section 1, Minsheng Rd, West Central District, Tainan City, Taiwan 700",22.9942741,120.1995174
-800160,3,,"No. 98號, Dongrong St, East District, Tainan City, Taiwan 701",22.988492,120.2150417
+800160,25,,"No. 98號, Dongrong St, East District, Tainan City, Taiwan 701",22.988492,120.2150417
 800161,3,,"No. 393號, Section 3, Minquan Rd, West Central District, Tainan City, Taiwan 700",22.9987959,120.1887931
-800162,3,,"No. 145號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.003387,120.1980097
+800162,2,,"No. 145號, Section 2, Lin'an Rd, North District, Tainan City, Taiwan 704",23.003387,120.1980097
 800163,3,,"No. 77號, Section 1, Yongfu Rd, West Central District, Tainan City, Taiwan 700019",22.9834707,120.1999355
 800164,3,,"No. 201號, Zhongshan Rd, West Central District, Tainan City, Taiwan 700",22.9966799,120.2110992
 800165,3,,"No. 38號, Section 3, Jinhua Rd, West Central District, Tainan City, Taiwan 700",22.9892729,120.1923928
 800166,3,,"No. 715號, Section 2, Zhonghua W Rd, West Central District, Tainan City, Taiwan 700",23.0031226,120.1867121
-800167,3,,"701, Taiwan, Tainan City, East District, Qianfeng Rd, 81號一樓",22.991751,120.2128352
+800167,25,,"701, Taiwan, Tainan City, East District, Qianfeng Rd, 81號一樓",22.991751,120.2128352
 800168,3,,"700, Taiwan, Tainan City, West Central District, Xinghua St, 25號2樓",22.9924416,120.2105845
 800169,3,,"No. 97號, Wufei St, West Central District, Tainan City, Taiwan 700",22.9823886,120.2084184
 800170,3,,"700, Taiwan, Tainan City, West Central District, Section 1, Minsheng Rd, 10號1樓之1",22.9930327,120.204435
