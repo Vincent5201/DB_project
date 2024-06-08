@@ -168,9 +168,6 @@ const EquipSelector = ({ onFilterChange }) => {
           <input type="checkbox" name="洗衣機" onChange={handleChange} /> 洗衣機
         </label>
         <label>
-          <input type="checkbox" name="熱水器" onChange={handleChange} /> 熱水器
-        </label>
-        <label>
           <input type="checkbox" name="廚房" onChange={handleChange} /> 廚房
         </label>
         <label>

@@ -55,6 +55,31 @@ def get_houses():
                 l_id_str = ', '.join(map(str, L_id))
                 query += f" AND Location_ID IN ({l_id_str})"
 
+    if len(equipment):
+        equipment_map = {
+            '冷氣': 'AC',
+            '電視': 'TV',
+            '冰箱': 'Refrigerator',
+            '洗衣機': 'Washing_Machine',
+            '廚房': 'Kitchen',
+            '網路': 'Internet',
+            '沙發': 'Sofa',
+            '衣櫃': 'Balcony',
+            '電梯': 'Elevator',
+            '停車位': 'Parking_Space'
+        }
+        equipment_names = [equipment_map[loc] for loc in equipment if loc in equipment_map]
+        if equipment_names:
+            query_e = f"SELECT E_ID FROM equipment WHERE 1=1"
+            for equ in equipment_names:
+                query_e += f" AND {equ}=1"
+            cursor.execute(query_e)
+            Eids = cursor.fetchall()
+            E_id = [row['E_ID'] for row in Eids]  
+            if E_id:
+                e_id_str = ', '.join(map(str, E_id))
+                query += f" AND Equipment_ID IN ({e_id_str})"
+
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
