@@ -54,14 +54,6 @@ def get_houses():
                 l_id_str = ', '.join(map(str, L_id))
                 query += f" AND Location_ID IN ({l_id_str})"
 
-        location_str = ', '.join(map(str, tgt))
-        query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
-        cursor.execute(query_s, [])
-        L_id = cursor.fetchall()
-        L_id = [row[0] for row in L_id]
-        l_id_str = ', '.join(map(str, L_id))
-        query += f" AND Location_ID IN ({l_id_str})"
-
     cursor.execute(query, [])
     houses = cursor.fetchall()
 
