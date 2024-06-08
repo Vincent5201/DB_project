@@ -36,26 +36,26 @@ def get_houses():
 
     cursor = connection.cursor(dictionary=True)
     query = "SELECT * FROM house WHERE 1=1"
+    params = []
 
     if len(location):
-        tgt = []
-        if '東區' in location:
-            tgt.append(25)
-        if '北區' in location:
-            tgt.append(2)
-        if '中西區' in location:
-            tgt.append(3)
-        if tgt: 
-            location_str = ', '.join(map(str, tgt))
+        location_map = {
+            '東區': 25,
+            '北區': 2,
+            '中西區': 3
+        }
+        location_ids = [location_map[loc] for loc in location if loc in location_map]
+        if location_ids:
+            location_str = ', '.join(map(str, location_ids))
             query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
             cursor.execute(query_s)
             Lids = cursor.fetchall()
-            L_id = [row[0] for row in Lids]
-            if L_id: 
+            L_id = [row['L_ID'] for row in Lids]  # Ensure to use 'L_ID' as dictionary key
+            if L_id:
                 l_id_str = ', '.join(map(str, L_id))
                 query += f" AND Location_ID IN ({l_id_str})"
 
-    cursor.execute(query, [])
+    cursor.execute(query, params)
     houses = cursor.fetchall()
 
     cursor.close()
