@@ -45,7 +45,7 @@ def get_houses():
             tgt.append(2)
         if '中西區' in location:
             tgt.append(3)
-        location_str = ', '.join(map(str, location))
+        location_str = ', '.join(map(str, tgt))
         query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
         cursor.execute(query_s, [])
         L_id = cursor.fetchall()
