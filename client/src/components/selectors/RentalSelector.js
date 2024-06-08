@@ -64,7 +64,7 @@
 
 import React from "react";
 
-const RentFilter = ({ onFilterChange }) => {
+const RentalSelector = ({ onFilterChange }) => {
   const handleChange = (e) => {
     const { name, checked } = e.target;
     onFilterChange("rent", name, checked);
@@ -99,4 +99,4 @@ const RentFilter = ({ onFilterChange }) => {
   );
 };
 
-export default RentFilter;
+export default RentalSelector;

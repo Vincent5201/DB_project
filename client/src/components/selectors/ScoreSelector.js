@@ -64,7 +64,7 @@
 
 import React from "react";
 
-const RatingFilter = ({ onFilterChange }) => {
+const ScoreSelector = ({ onFilterChange }) => {
   const handleChange = (e) => {
     const { name, checked } = e.target;
     onFilterChange("rating", name, checked);
@@ -94,4 +94,4 @@ const RatingFilter = ({ onFilterChange }) => {
   );
 };
 
-export default RatingFilter;
+export default ScoreSelector;

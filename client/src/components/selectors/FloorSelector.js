@@ -63,7 +63,7 @@
 // export default FloorSelector;
 import React from "react";
 
-const FloorFilter = ({ onFilterChange }) => {
+const FloorSelector = ({ onFilterChange }) => {
   const handleChange = (e) => {
     const { name, checked } = e.target;
     onFilterChange("floor", name, checked);
@@ -97,4 +97,4 @@ const FloorFilter = ({ onFilterChange }) => {
   );
 };
 
-export default FloorFilter;
+export default FloorSelector;

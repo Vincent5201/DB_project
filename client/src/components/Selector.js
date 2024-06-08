@@ -7,14 +7,9 @@ import ScoreSelector from "./selectors/ScoreSelector";
 import EquipSelector from "./selectors/EquipSelector";
 import AroundSelector from "./selectors/AroundSelector";
 import LocationSelector from "./selectors/LocationSelector";
-import { Button } from "semantic-ui-react";
 import { useState, useEffect } from "react";
-// -----------------------------
-// import CORS from "flask_cors";
-// app = Flask(__name__);
-// CORS(app);
-// -------------------------------
-const Selector = ({ properties, anotherprop }) => {
+
+const Selector = () => {
   const [filters, setFilters] = useState({
     location: [],
     rent: [],
@@ -29,7 +24,7 @@ const Selector = ({ properties, anotherprop }) => {
 
     Object.keys(filters).forEach((category) => {
       filters[category].forEach((value) => {
-        query.append(category.toLowerCase(), value);
+        query.append(category, value);
       });
     });
 
@@ -59,7 +54,6 @@ const Selector = ({ properties, anotherprop }) => {
     fetchHouses();
   }, [filters]);
 
-  console.log(houses);
   return (
     <section>
       <div className="filter-container">
@@ -95,19 +89,3 @@ const Selector = ({ properties, anotherprop }) => {
 };
 
 export default Selector;
-
-//{
-/* 
-// <div
-//        classNameNameName=" classNameNamename not  classNameName!!!"
-//       style={{ backgroundColor: "paleturquoise" }}
-//     >
-//       <h1>There are too many ways to express a function....</h1>
-
-//       {friends.map((friend) => {
-//         return <p>{friend}</p>;
-//       })}
-//       <h2>I'm a component from Donotlookatme component</h2>
-      
-    // </div> */
-//}

@@ -54,7 +54,7 @@
 // export default SectionSelector;
 import React from "react";
 
-const LocationFilter = ({ onFilterChange }) => {
+const SectionSelector = ({ onFilterChange }) => {
   const handleChange = (e) => {
     const { name, checked } = e.target;
     onFilterChange("location", name, checked);
@@ -78,4 +78,4 @@ const LocationFilter = ({ onFilterChange }) => {
   );
 };
 
-export default LocationFilter;
+export default SectionSelector;

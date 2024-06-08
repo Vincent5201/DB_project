@@ -2,9 +2,6 @@ import mysql.connector
 from mysql.connector import errorcode
 from flask import Flask, jsonify, request
 
-from dbqueries import *
-
-
 app = Flask(__name__)
 
 def get_db_connection():
@@ -24,42 +21,48 @@ def get_db_connection():
         else:
             print(err)
         return None
-    
-@app.route('/api/housesystem', methods=['GET'])
 
+@app.route('/api/housesystem', methods=['GET'])
 def get_houses():
-    # H id hasn't used
-    title= request.args.get("Title")
-    price = request.args.get('Price')
-    score = request.args.get('Score')
-    location = request.args.get('Location_id')
-    equipment = request.args.get('Equipment_id')
-    housetype = request.args.get('Housetype_id')
-    landlord = request.args.get('Lanlord_id')
+    location = request.args.getlist('location')
+    rent = request.args.getlist('rent')
+    floor = request.args.getlist('floor')
+    rating = request.args.getlist('rating')
+    equipment = request.args.getlist('equipment')
 
     connection = get_db_connection()
     if connection is None:
         return jsonify({"error": "Database connection failed"}), 500
 
     cursor = connection.cursor(dictionary=True)
-    
-    query = "SELECT * FROM house WHERE 1=1"
+    query = "SELECT * FROM house WHERE "
     params = []
 
     if location:
-        query += " AND Location = %s"
-        params.append(location)
-    if price:
-        query += " AND Price >= %s"
-        params.append(price)
-    if score:
-        query += " AND Score >= %s"
-        params.append(score)
-
+        query += " AND Location_ID IN (%s)" % ','.join(['%s'] * len(location))
+        params.extend(location)
+    if rent:
+        for r in rent:
+            if '以上' in r:
+                min_rent = int(r.replace('以上', ''))
+                query += " AND Price >= %s"
+                params.append(min_rent)
+            else:
+                min_rent, max_rent = map(int, r.split('-'))
+                query += " AND Price BETWEEN %s AND %s"
+                params.extend([min_rent, max_rent])
+    if floor:
+        query += " AND Floor IN (%s)" % ','.join(['%s'] * len(floor))
+        params.extend(floor)
+    if rating:
+        for r in rating:
+            min_score, max_score = map(float, r.split('-'))
+            query += " AND Score BETWEEN %s AND %s"
+            params.extend([min_score, max_score])
     if equipment:
-            query += " AND Equipment >=%s"
-            params.append(equipment)
-
+        for equip in equipment:
+            query += " AND FIND_IN_SET(%s, Equipment)"
+            params.append(equip)
 
     cursor.execute(query, params)
     houses = cursor.fetchall()
@@ -67,5 +70,6 @@ def get_houses():
     connection.close()
 
     return jsonify(houses)
+
 if __name__ == '__main__':
     app.run(debug=True)

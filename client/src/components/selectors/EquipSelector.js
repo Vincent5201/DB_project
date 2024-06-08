@@ -145,7 +145,7 @@
 
 import React from "react";
 
-const EquipmentFilter = ({ onFilterChange }) => {
+const EquipSelector = ({ onFilterChange }) => {
   const handleChange = (e) => {
     const { name, checked } = e.target;
     onFilterChange("equipment", name, checked);
@@ -193,4 +193,4 @@ const EquipmentFilter = ({ onFilterChange }) => {
   );
 };
 
-export default EquipmentFilter;
+export default EquipSelector;
