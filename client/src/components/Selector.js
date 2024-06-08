@@ -79,6 +79,7 @@ const Selector = () => {
               <p>Score: {house.Score}</p>
               <p>Location: {house.Location_id}</p>
               <p>Equipment: {house.Equipment_id}</p>
+              <p>House_type: {house.Housetype_id}</p>
               {/* Add more fields as needed */}
             </li>
           ))}
