@@ -35,37 +35,27 @@ def get_houses():
         return jsonify({"error": "Database connection failed"}), 500
 
     cursor = connection.cursor(dictionary=True)
-    query = "SELECT * FROM house WHERE "
-    params = []
+    query = "SELECT * FROM house WHERE 1=1"
 
-    if location:
-        query += " AND Location_ID IN (%s)" % ','.join(['%s'] * len(location))
-        params.extend(location)
-    if rent:
-        for r in rent:
-            if '以上' in r:
-                min_rent = int(r.replace('以上', ''))
-                query += " AND Price >= %s"
-                params.append(min_rent)
-            else:
-                min_rent, max_rent = map(int, r.split('-'))
-                query += " AND Price BETWEEN %s AND %s"
-                params.extend([min_rent, max_rent])
-    if floor:
-        query += " AND Floor IN (%s)" % ','.join(['%s'] * len(floor))
-        params.extend(floor)
-    if rating:
-        for r in rating:
-            min_score, max_score = map(float, r.split('-'))
-            query += " AND Score BETWEEN %s AND %s"
-            params.extend([min_score, max_score])
-    if equipment:
-        for equip in equipment:
-            query += " AND FIND_IN_SET(%s, Equipment)"
-            params.append(equip)
+    if len(location):
+        tgt = []
+        if '東區' in location:
+            tgt.append(25)
+        if '北區' in location:
+            tgt.append(2)
+        if '中西區' in location:
+            tgt.append(3)
+        location_str = ', '.join(map(str, location))
+        query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
+        cursor.execute(query_s, [])
+        L_id = cursor.fetchall()
+        L_id = [row[0] for row in L_id]
+        l_id_str = ', '.join(map(str, L_id))
+        query += f" AND Location_ID IN ({l_id_str})"
 
-    cursor.execute(query, params)
+    cursor.execute(query, [])
     houses = cursor.fetchall()
+
     cursor.close()
     connection.close()
 

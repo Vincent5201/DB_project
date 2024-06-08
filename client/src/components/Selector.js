@@ -27,7 +27,7 @@ const Selector = () => {
         query.append(category, value);
       });
     });
-
+  
     fetch(`/api/housesystem?${query.toString()}`)
       .then((response) => response.json())
       .then((data) => setHouses(data))
@@ -78,7 +78,6 @@ const Selector = () => {
               <p>Price: {house.Price}</p>
               <p>Score: {house.Score}</p>
               <p>Location: {house.Location}</p>
-              <p>Equipment: {house.Equipment}</p>
               {/* Add more fields as needed */}
             </li>
           ))}
