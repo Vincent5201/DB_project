@@ -58,8 +58,9 @@ def get_houses():
 
     cursor.close()
     connection.close()
-
-    return jsonify(houses)
+    houses_json = [{'H_ID': row[0], 'Title': row[1], 'Price': row[2], 
+                    'Score': row[3], 'Equipment_ID': row[4], 'Locatin_ID': row[5]} for row in houses]
+    return jsonify(houses_json)
 
 if __name__ == '__main__':
     app.run(debug=True)
