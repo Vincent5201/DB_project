@@ -22,7 +22,7 @@ def get_db_connection():
         return None
 
 # Read the CSV file
-csv_file_path = r'sorte_datas\location_all.csv'
+csv_file_path = r'sorte_datas\store_type.csv'
 data = pd.read_csv(csv_file_path)
 
 # Establish the database connection
@@ -33,8 +33,8 @@ if connection:
     # Iterate over the rows in the DataFrame and insert into the database
     for index, row in data.iterrows():
         insert_query = """
-        INSERT INTO location (L_ID,Section,Street,Address,Lat,Lng)
-        VALUES (%s,%s,%s,%s,%s,%s)
+        INSERT INTO store_type (st_id,st_name)
+        VALUES (%s,%s)
         """
         cursor.execute(insert_query, tuple(row))
 
