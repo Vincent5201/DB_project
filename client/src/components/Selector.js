@@ -77,7 +77,7 @@ const Selector = () => {
               <h2>{house.Title}</h2>
               <p>Price: {house.Price}</p>
               <p>Score: {house.Score}</p>
-              <p>Location: {house.Location}</p>
+              <p>Location: {house.Location_ID}</p>
               {/* Add more fields as needed */}
             </li>
           ))}
