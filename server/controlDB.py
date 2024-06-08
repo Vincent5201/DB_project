@@ -79,6 +79,54 @@ def get_houses():
             if E_id:
                 e_id_str = ', '.join(map(str, E_id))
                 query += f" AND Equipment_ID IN ({e_id_str})"
+    if len(rent):
+        if "5,000元以下" in rent:
+            high = 5000
+        if "5,000-9,000元" in rent:
+            high = 9000
+            low = 5000
+        if "9,000-14,000元" in rent:
+            high = 14000
+            low = 9000
+        if "14,000-20,000元" in rent:
+            high = 14000
+            low = 20000
+        if "大於20,000元" in rent:
+            low = 20000
+        query += f" AND Price > {low} AND Price < {high}"
+    if len(rating):
+        low = 5
+        high = 0
+        for r in rating:
+            low = min(low, int(r[0]))
+            high = max(high, int(r[2]))
+        query += f" AND Score > {low} AND Score < {high}"
+    if len(floor):
+        low = 100
+        high = 1
+        if "一樓" in rent:
+            low = min(low, 1)
+            high = max(high, 1)
+        if "二三樓" in rent:
+            low = min(low, 2)
+            high = max(high, 3)
+        if "四六樓" in rent:
+            low = min(low, 4)
+            high = max(high, 6)
+        if "七九樓" in rent:
+            low = min(low, 7)
+            high = max(high, 9)
+        if "十樓以上" in rent:
+            low = min(low, 10)
+            high = max(high, 10)
+        query_ht = f"SELECT HT_ID FROM house_type WHERE Floor_destination < {high} AND Floor_destination > {low}"
+        cursor.execute(query_ht)
+        HTids = cursor.fetchall()
+        HT_id = [row['HT_ID'] for row in HTids]  
+        if HT_id:
+            ht_id_str = ', '.join(map(str, HT_id))
+            query += f" AND Housetype_ID IN ({ht_id_str})"
+
 
     cursor.execute(query, params)
     houses = cursor.fetchall()

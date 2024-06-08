@@ -72,7 +72,7 @@ const RentalSelector = ({ onFilterChange }) => {
 
   return (
     <div className="filter-group">
-      <h2>租金</h2>
+      <h2>租金(單選或不選)</h2>
       <div className="filter-options">
         <label>
           <input type="checkbox" name="5000以下" onChange={handleChange} />{" "}

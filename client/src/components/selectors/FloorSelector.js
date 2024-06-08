@@ -85,8 +85,8 @@ const FloorSelector = ({ onFilterChange }) => {
           四~六樓
         </label>
         <label>
-          <input type="checkbox" name="六九樓" onChange={handleChange} />{" "}
-          六~九樓
+          <input type="checkbox" name="七九樓" onChange={handleChange} />{" "}
+          七~九樓
         </label>
         <label>
           <input type="checkbox" name="十樓以上" onChange={handleChange} />{" "}
