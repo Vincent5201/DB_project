@@ -1,7 +1,7 @@
 import csv
 import mysql
 import mysql.connector
-
+from flask import Flask, jsonify, request
 
 def createTable(cursor, query):
     '''
@@ -63,11 +63,9 @@ def send():
     query = "SELECT * FROM house WHERE H_ID IN (1,2,3)"
     cursor.execute(query, [])
     houses = cursor.fetchall()
-    tgt = [row[0] for row in houses]
+    houses_json = [{'H_ID': row[0], 'Title': row[1], 'Price': row[2]} for row in houses]
     
-    l_id_str = ', '.join(map(str, tgt))
-    query += f" AND Location_ID IN ({l_id_str})"
-    print(query)
+    print()
     #createTable(cursor, query)
     #insertData(cursor, connection, query, data)
     #insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//house_finish.csv", "house")
