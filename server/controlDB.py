@@ -36,26 +36,38 @@ def get_houses():
 
     cursor = connection.cursor(dictionary=True)
     query = "SELECT * FROM house WHERE 1=1"
-    params = []
 
     if len(location):
-        location_ids = []
+        tgt = []
         if '東區' in location:
-            location_ids.append(25)
+            tgt.append(25)
         if '北區' in location:
-            location_ids.append(2)
+            tgt.append(2)
         if '中西區' in location:
-            location_ids.append(3)
-        
-        location_str = ', '.join(map(str, location_ids))
-        query += f" AND Location_ID IN ({location_str})"
+            tgt.append(3)
+        if tgt: 
+            location_str = ', '.join(map(str, tgt))
+            query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
+            cursor.execute(query_s)
+            L_id = [row[0] for row in cursor.fetchall()]
+            if L_id: 
+                l_id_str = ', '.join(map(str, L_id))
+                query += f" AND Location_ID IN ({l_id_str})"
 
-    cursor.execute(query, params)
+        location_str = ', '.join(map(str, tgt))
+        query_s = f"SELECT L_ID FROM location WHERE Section IN ({location_str})"
+        cursor.execute(query_s, [])
+        L_id = cursor.fetchall()
+        L_id = [row[0] for row in L_id]
+        l_id_str = ', '.join(map(str, L_id))
+        query += f" AND Location_ID IN ({l_id_str})"
+
+    cursor.execute(query, [])
     houses = cursor.fetchall()
 
     cursor.close()
     connection.close()
-
+    
     return jsonify(houses)
 
 if __name__ == '__main__':

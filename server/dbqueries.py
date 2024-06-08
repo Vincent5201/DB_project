@@ -63,9 +63,10 @@ def send():
     query = "SELECT * FROM house WHERE H_ID IN (1,2,3)"
     cursor.execute(query, [])
     houses = cursor.fetchall()
-    houses_json = [{'H_ID': row[0], 'Title': row[1], 'Price': row[2]} for row in houses]
-    
-    print()
+    #houses_json = [{'H_ID': row[0], 'Title': row[1], 'Price': row[2]} for row in houses]
+    houses = [row for row in houses]
+    houses_str = ', '.join(map(str, houses))
+    print(houses)
     #createTable(cursor, query)
     #insertData(cursor, connection, query, data)
     #insertCSVfile(cursor, connection, "D://codes//DB_project//sorte_datas//house_finish.csv", "house")
