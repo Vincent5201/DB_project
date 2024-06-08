@@ -44,7 +44,6 @@ def get_houses():
     cursor = connection.cursor(dictionary=True)
     
     query = "SELECT * FROM house WHERE 1=1"
-    """"""
     params = []
 
     if location:
@@ -68,6 +67,5 @@ def get_houses():
     connection.close()
 
     return jsonify(houses)
-
 if __name__ == '__main__':
     app.run(debug=True)
