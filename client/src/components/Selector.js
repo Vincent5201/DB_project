@@ -68,7 +68,13 @@ const Selector = () => {
           搜尋
         </button>
       </div>
-
+      <table>
+        <tr>
+            <td>盒子1</td>
+            <td>盒子2</td>
+            <td>盒子3</td>
+        </tr>
+    </table>
       <div className="item-list">
         <h2>結果</h2>
         <ul>
@@ -111,16 +117,76 @@ const Selector = () => {
                 {house.arounds &&
                   house.arounds.restaurant.map((res, index) => (
                     <li key={index}>
-                      {res.Title} - {res.Distance}m
+                      {res.Title} - {res.Distance}km
                     </li>
                   ))}
               </ul>
               <ul style={{ padding: "8px" }}>
-                附近店家：
+                附近影印店：
                 <li>
                   {house.arounds.ty1.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}m
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近ubike：
+                <li>
+                  {house.arounds.ty3.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近便利商店：
+                <li>
+                  {house.arounds.ty4.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近公園：
+                <li>
+                  {house.arounds.ty5.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近ATM：
+                <li>
+                  {house.arounds.ty6.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近診所：
+                <li>
+                  {house.arounds.ty7.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              <ul style={{ padding: "8px" }}>
+                附近理髮店：
+                <li>
+                  {house.arounds.ty8.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}km
                     </li>
                   ))}
                 </li>
