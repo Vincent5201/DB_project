@@ -106,8 +106,8 @@ const Selector = () => {
               </ul>
 
               <p>評分: {house.Score}</p>
-              <ul>
-                Around:
+              <ul style={{ padding: "8px" }}>
+                附近食物區:
                 {house.arounds &&
                   house.arounds.restaurant.map((res, index) => (
                     <li key={index}>
@@ -115,7 +115,17 @@ const Selector = () => {
                     </li>
                   ))}
               </ul>
-              {console.log(house)}
+              <ul style={{ padding: "8px" }}>
+                附近店家：
+                <li>
+                  {house.arounds.ty1.map((res, index) => (
+                    <li key={index}>
+                      {res.Sname}：{res.Distance}m
+                    </li>
+                  ))}
+                </li>
+              </ul>
+              {/* {console.log(house)} */}
             </li>
           ))}
         </ul>

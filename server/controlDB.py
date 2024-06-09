@@ -155,7 +155,7 @@ def get_houses():
         
         query_as = f"""
             SELECT Sname, Distance FROM L_distance, store
-            WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type=1
+            WHERE L_ID1={house['Location_id']} AND L_ID2=location_id AND Stype=1
             ORDER BY Distance ASC
         """
         cursor.execute(query_as)
@@ -165,7 +165,7 @@ def get_houses():
         for i in range(3,9):
             query_as = f"""
             SELECT SName, Distance FROM L_distance, store
-            WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type={i}
+            WHERE L_ID1={house['Location_id']} AND L_ID2=location_id AND Stype={i}
             ORDER BY Distance ASC
             """
             cursor.execute(query_as)
