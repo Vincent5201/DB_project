@@ -97,14 +97,14 @@ def get_houses():
         if "大於20,000元" in rent:
             low = min(low, 20000)
             high = max(high, 100000)
-        query += f" AND Price > {low} AND Price < {high}"
+        query += f" AND Price >= {low} AND Price <= {high}"
     if len(rating):
         low = 5
         high = 0
         for r in rating:
             low = min(low, int(r[0]))
             high = max(high, int(r[2]))
-        query += f" AND Score > {low} AND Score < {high}"
+        query += f" AND Score >= {low} AND Score <= {high}"
     if len(floor):
         low = 100
         high = 1
@@ -123,7 +123,7 @@ def get_houses():
         if "十樓以上" in rent:
             low = min(low, 10)
             high = max(high, 10)
-        query_ht = f"SELECT HT_ID FROM house_type WHERE Floor_destination < {high} AND Floor_destination > {low}"
+        query_ht = f"SELECT HT_ID FROM house_type WHERE Floor_destination <= {high} AND Floor_destination >= {low}"
         cursor.execute(query_ht)
         HTids = cursor.fetchall()
         HT_id = [row['HT_ID'] for row in HTids]  
