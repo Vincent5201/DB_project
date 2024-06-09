@@ -58,15 +58,13 @@ def send():
         database="dbproject"
     )
     print("Connection successful!")
-    cursor = connection.cursor()
+    cursor = connection.cursor(dictionary=True)
 
     query = "SELECT * FROM house WHERE H_ID IN (1,2,3)"
     cursor.execute(query)
     houses = cursor.fetchall()
-    print(houses)
-    houses = [row[0] for row in houses]
-    #houses_json = [{'H_ID': row[0], 'Title': row[1], 'Price': row[2]} for row in houses]
-    houses_str = ', '.join(map(str, houses))
+    H_ids = [row['H_ID'] for row in houses]  
+    print(H_ids)
     
     #createTable(cursor, query)
     #insertData(cursor, connection, query, data)

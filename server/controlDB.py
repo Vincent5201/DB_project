@@ -138,9 +138,13 @@ def get_houses():
         else:
             query += f" AND Housetype_ID=0"
 
-
     cursor.execute(query, params)
     houses = cursor.fetchall()
+
+    HT_ids = [row['Housetype_ID'] for row in houses]  
+    L_ids = [row['Location_ID'] for row in houses]  
+    E_ids = [row['Equipment_ID'] for row in houses]  
+
 
     cursor.close()
     connection.close()
