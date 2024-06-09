@@ -60,11 +60,13 @@ def send():
     print("Connection successful!")
     cursor = connection.cursor(dictionary=True)
 
-    query = "SELECT * FROM house WHERE H_ID IN (1,2,3)"
+    query = "SELECT * FROM house WHERE H_ID IN (1)"
     cursor.execute(query)
     houses = cursor.fetchall()
-    H_ids = [row['H_ID'] for row in houses]  
-    print(H_ids)
+    tmp = [{"1":1, "2":2}]
+    houses[0]['Location_ID'] = tmp
+    
+    print(houses[0])
     
     #createTable(cursor, query)
     #insertData(cursor, connection, query, data)
