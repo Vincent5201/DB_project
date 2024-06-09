@@ -141,58 +141,68 @@ def get_houses():
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
-    HT_ids = [row['Housetype_id'] for row in houses]  
-    L_ids = [row['Location_id'] for row in houses]  
-    E_ids = [row['Equipment_id'] for row in houses]  
-
-
-
-
 
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
             SELECT Title,Distance FROM L_distance,restaurant 
-            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_ID
             ORDER BY Distance ASC
         """
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:3]
         arounds["restaurant"] = around_res
-
-        query_as = f"""
-            SELECT Name,Distance FROM L_distance,stores 
-            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id AND type=1
-            ORDER BY Distance ASC
-        """
-        cursor.execute(query_as)
-        around_s1 = cursor.fetchall()[:3]
-        arounds["ty1"] = around_s1
-
-        for i in range(3,9):
-            query_as = f"""
-            SELECT Name,Distance FROM L_distance,stores 
-            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id AND type={i}
-            ORDER BY Distance ASC
-            """
-            cursor.execute(query_as)
-            around_s = cursor.fetchall()[:3]
-            arounds[f"ty{i}"] = around_s
         houses[x]["arounds"] = arounds
+        
+
+
+   
+
+        
+        # query_as = f"""
+        #     SELECT Sname,Distance FROM L_distance,store
+        #     WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type=1
+        #     ORDER BY Distance ASC
+        # """
+        # cursor.execute(query_as)
+        
+        # around_s1 = cursor.fetchall()[:3]
+        # arounds["ty1"] = around_s1
+
+        # for i in range(3,9):
+        #     query_as = f"""
+        #     SELECT Name,Distance FROM L_distance,store
+        #     WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type={i}
+        #     ORDER BY Distance ASC
+        #     """
+        #     cursor.execute(query_as)
+        #     around_s = cursor.fetchall()[:3]
+        #     arounds[f"ty{i}"] = around_s
+        # houses[x]["arounds"] = arounds
 
 
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
-
-
     for i,id in enumerate(HT_ids):
         new_query=f"SELECT * FROM house_type WHERE HT_Id={id}"
         cursor.execute(new_query)
         data= cursor.fetchall()
         houses[i]["HT_id"] = data
 
+    for i,id in enumerate(L_ids):
+        new_query=f"SELECT * FROM location WHERE L_id={id}"
+        cursor.execute(new_query)
+        data= cursor.fetchall()
+        houses[i]["L_id"] = data
 
+    for i,id in enumerate(E_ids):
+        new_query=f"SELECT * FROM equipment WHERE E_id={id}"
+        cursor.execute(new_query)
+        data= cursor.fetchall()
+        houses[i]["E_id"] = data
+
+        
     cursor.close()
     connection.close()
     

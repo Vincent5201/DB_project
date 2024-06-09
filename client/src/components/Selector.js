@@ -76,11 +76,37 @@ const Selector = () => {
             <li key={house.H_ID}>
               <h2>{house.Title}</h2>
               <p>Price: {house.Price}</p>
-              <p>House_type: 臥室{house.HT_id[0]["Bedrooms"]}間</p>
-              <p>Equipment: {house.Equipment_id}</p>
-              <p>Score: {house.Score}</p>
-              <p>Location: {house.Location_id}</p>
-              {console.log()}
+              <ul>
+                House_type:
+                <li> 臥室：{house.HT_id[0]["Bedrooms"]}間</li>
+                <li>面積：{house.HT_id[0]["Area"]}坪</li>
+                <li>客廳：{house.HT_id[0]["Living_rooms"]}間</li>
+                <li>
+                  樓層{house.HT_id[0]["floor_all"]}之
+                  {house.HT_id[0]["floor_destination"]}樓
+                </li>
+              </ul>
+
+              <p></p>
+
+              <ul>
+                <li>地址：{house.L_id[0]["Address"]}</li>
+              </ul>
+
+              <ul>
+                Equipment:
+                <li> 沙發：{house.E_id[0]["Sofa"]}個</li>
+                <li>冰箱：{house.E_id[0]["Refrigerator"]}坪</li>
+                <li>電視：{house.E_id[0]["TV"]}台</li>
+                <li>冷氣：{house.E_id[0]["AC"]}台</li>
+                <li>網路：{house.E_id[0]["Internet"] === 1 ? "有" : "無"}</li>
+                <li>陽台：{house.E_id[0]["Balcony"]}間</li>
+                <li>電梯：{house.E_id[0]["Elevator"] === 1 ? "有" : "無"}</li>
+                <li>停車場：{house.E_id[0]["Elevator"] === 1 ? "有" : "無"}</li>
+              </ul>
+
+              <p>評分: {house.Score}</p>
+              {console.log(house)}
             </li>
           ))}
         </ul>
