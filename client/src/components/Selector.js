@@ -106,6 +106,15 @@ const Selector = () => {
               </ul>
 
               <p>評分: {house.Score}</p>
+              <ul>
+                Around:
+                {house.arounds &&
+                  house.arounds.restaurant.map((res, index) => (
+                    <li key={index}>
+                      {res.Title} - {res.Distance}m
+                    </li>
+                  ))}
+              </ul>
               {console.log(house)}
             </li>
           ))}
