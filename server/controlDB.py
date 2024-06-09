@@ -152,34 +152,27 @@ def get_houses():
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:3]
         arounds["restaurant"] = around_res
+        
+        query_as = f"""
+            SELECT Sname, Distance FROM L_distance, store
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type=1
+            ORDER BY Distance ASC
+        """
+        cursor.execute(query_as)
+        around_s1 = cursor.fetchall()[:3]
+        arounds["ty1"] = around_s1
+
+        for i in range(3,9):
+            query_as = f"""
+            SELECT SName, Distance FROM L_distance, store
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type={i}
+            ORDER BY Distance ASC
+            """
+            cursor.execute(query_as)
+            around_s = cursor.fetchall()[:3]
+            arounds[f"ty{i}"] = around_s
+
         houses[x]["arounds"] = arounds
-        
-
-
-   
-
-        
-        # query_as = f"""
-        #     SELECT Sname,Distance FROM L_distance,store
-        #     WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type=1
-        #     ORDER BY Distance ASC
-        # """
-        # cursor.execute(query_as)
-        
-        # around_s1 = cursor.fetchall()[:3]
-        # arounds["ty1"] = around_s1
-
-        # for i in range(3,9):
-        #     query_as = f"""
-        #     SELECT Name,Distance FROM L_distance,store
-        #     WHERE L_ID1={house['Location_id']} AND L_ID2=Slocation_id AND type={i}
-        #     ORDER BY Distance ASC
-        #     """
-        #     cursor.execute(query_as)
-        #     around_s = cursor.fetchall()[:3]
-        #     arounds[f"ty{i}"] = around_s
-        # houses[x]["arounds"] = arounds
-
 
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
