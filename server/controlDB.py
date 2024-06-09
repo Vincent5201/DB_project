@@ -54,6 +54,8 @@ def get_houses():
             if L_id:
                 l_id_str = ', '.join(map(str, L_id))
                 query += f" AND Location_ID IN ({l_id_str})"
+            else:
+                query += f" AND Location_ID=0"
 
     if len(equipment):
         equipment_map = {
@@ -79,6 +81,8 @@ def get_houses():
             if E_id:
                 e_id_str = ', '.join(map(str, E_id))
                 query += f" AND Equipment_ID IN ({e_id_str})"
+            else:
+                query += f" AND Equipment_ID=0"
     if len(rent):
         low = 100000
         high = 0
@@ -131,6 +135,8 @@ def get_houses():
         if HT_id:
             ht_id_str = ', '.join(map(str, HT_id))
             query += f" AND Housetype_ID IN ({ht_id_str})"
+        else:
+            query += f" AND Housetype_ID=0"
 
 
     cursor.execute(query, params)
