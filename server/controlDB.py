@@ -82,19 +82,20 @@ def get_houses():
     if len(rent):
         low = 100000
         high = 0
-        if "5,000元以下" in rent:
+        print(rent)
+        if "5000以下" in rent:
             low = min(low, 0)
             high = max(high, 5000)
-        if "5,000-9,000元" in rent:
+        if "5000-9000" in rent:
             low = min(low, 5000)
             high = max(high, 9000)
-        if "9,000-14,000元" in rent:
+        if "9000-14000" in rent:
             low = min(low, 9000)
             high = max(high, 14000)
-        if "14,000-20,000元" in rent:
+        if "14000-20000" in rent:
             low = min(low, 14000)
             high = max(high, 20000)
-        if "大於20,000元" in rent:
+        if "20000以上" in rent:
             low = min(low, 20000)
             high = max(high, 100000)
         query += f" AND Price >= {low} AND Price <= {high}"
@@ -108,19 +109,19 @@ def get_houses():
     if len(floor):
         low = 100
         high = 1
-        if "一樓" in rent:
+        if "一樓" in floor:
             low = min(low, 1)
             high = max(high, 1)
-        if "二三樓" in rent:
+        if "二三樓" in floor:
             low = min(low, 2)
             high = max(high, 3)
-        if "四六樓" in rent:
+        if "四六樓" in floor:
             low = min(low, 4)
             high = max(high, 6)
-        if "七九樓" in rent:
+        if "七九樓" in floor:
             low = min(low, 7)
             high = max(high, 9)
-        if "十樓以上" in rent:
+        if "十樓以上" in floor:
             low = min(low, 10)
             high = max(high, 10)
         query_ht = f"SELECT HT_ID FROM house_type WHERE Floor_destination <= {high} AND Floor_destination >= {low}"

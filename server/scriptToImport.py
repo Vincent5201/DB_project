@@ -22,9 +22,17 @@ def get_db_connection():
         return None
 
 # Read the CSV file
-csv_file_path = r'sorte_datas\store_type.csv'
+csv_file_path = r'sorte_datas\restaurant_finish.csv'
 data = pd.read_csv(csv_file_path)
 
+data = data.fillna({
+    'R_ID': 0,  # Assuming R_ID is a numeric field, replace NaN with 0
+    'Title': '',  # Assuming Title is a text field, replace NaN with an empty string
+    'Type': 0,  # Assuming Type is a numeric field, replace NaN with an empty string
+    'ReviewsCount': 0,  # Assuming ReviewsCount is a numeric field, replace NaN with 0
+    'Score': 0,  # Assuming Score is a numeric field, replace NaN with 0
+    'Location_ID': 0  # Assuming Location_ID is a numeric field, replace NaN with 0
+})
 # Establish the database connection
 connection = get_db_connection()
 if connection:
@@ -33,8 +41,8 @@ if connection:
     # Iterate over the rows in the DataFrame and insert into the database
     for index, row in data.iterrows():
         insert_query = """
-        INSERT INTO store_type (st_id,st_name)
-        VALUES (%s,%s)
+        INSERT INTO restaurant (R_ID,Title,Type,ReviewsCount,Score,Location_ID)
+        VALUES (%s,%s,%s,%s,%s,%s)
         """
         cursor.execute(insert_query, tuple(row))
 
