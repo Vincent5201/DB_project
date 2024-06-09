@@ -141,6 +141,46 @@ def get_houses():
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
+    HT_ids = [row['Housetype_id'] for row in houses]  
+    L_ids = [row['Location_id'] for row in houses]  
+    E_ids = [row['Equipment_id'] for row in houses]  
+
+
+
+
+
+    for x, house in enumerate(houses):
+        arounds = {}
+        query_ar = f"""
+            SELECT Title,Distance FROM L_distance,restaurant 
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id
+            ORDER BY Distance ASC
+        """
+        cursor.execute(query_ar)
+        around_res = cursor.fetchall()[:3]
+        arounds["restaurant"] = around_res
+
+        query_as = f"""
+            SELECT Name,Distance FROM L_distance,stores 
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id AND type=1
+            ORDER BY Distance ASC
+        """
+        cursor.execute(query_as)
+        around_s1 = cursor.fetchall()[:3]
+        arounds["ty1"] = around_s1
+
+        for i in range(3,9):
+            query_as = f"""
+            SELECT Name,Distance FROM L_distance,stores 
+            WHERE L_ID1={house['Location_id']} AND L_ID2=Location_id AND type={i}
+            ORDER BY Distance ASC
+            """
+            cursor.execute(query_as)
+            around_s = cursor.fetchall()[:3]
+            arounds[f"ty{i}"] = around_s
+        houses[x]["arounds"] = arounds
+
+
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  

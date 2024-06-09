@@ -40,15 +40,6 @@ function AroundSelector() {
         <label>
           <input
             type="checkbox"
-            name="t2"
-            checked={aroundChecked.t2}
-            onChange={handleAroundChange}
-          />{" "}
-          垃圾車
-        </label>
-        <label>
-          <input
-            type="checkbox"
             name="t3"
             checked={aroundChecked.t3}
             onChange={handleAroundChange}
