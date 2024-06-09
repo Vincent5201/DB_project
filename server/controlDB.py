@@ -141,9 +141,16 @@ def get_houses():
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
-    HT_ids = [row['Housetype_ID'] for row in houses]  
-    L_ids = [row['Location_ID'] for row in houses]  
-    E_ids = [row['Equipment_ID'] for row in houses]  
+    HT_ids = [row['H_id'] for row in houses]  
+    L_ids = [row['Location_id'] for row in houses]  
+    E_ids = [row['Equipment_id'] for row in houses]  
+
+
+    for i,id in enumerate(HT_ids):
+        new_query=f"SELECT * FROM house_type WHERE HT_Id={id}"
+        cursor.execute(new_query)
+        data= cursor.fetchall()
+        houses[i]["HT_id"] = data
 
 
     cursor.close()
