@@ -22,7 +22,7 @@ def get_db_connection():
         return None
 
 # Read the CSV file
-csv_file_path = r'sorte_datas\restaurant_finish.csv'
+csv_file_path = r'sorte_datas\L_distance.csv'
 data = pd.read_csv(csv_file_path)
 
 data = data.fillna({
@@ -41,8 +41,8 @@ if connection:
     # Iterate over the rows in the DataFrame and insert into the database
     for index, row in data.iterrows():
         insert_query = """
-        INSERT INTO restaurant (R_ID,Title,Type,ReviewsCount,Score,Location_ID)
-        VALUES (%s,%s,%s,%s,%s,%s)
+        INSERT INTO l_distance (D_ID,L_ID1,L_ID2,Distance)
+        VALUES (%s,%s,%s,%s)
         """
         cursor.execute(insert_query, tuple(row))
 

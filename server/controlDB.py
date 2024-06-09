@@ -145,7 +145,7 @@ def get_houses():
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
-            SELECT Title,Distance FROM L_distance,restaurant 
+            SELECT Title, Distance FROM L_distance, restaurant 
             WHERE L_ID1={house['Location_id']} AND L_ID2=Location_ID
             ORDER BY Distance ASC
         """
