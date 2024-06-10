@@ -2,6 +2,7 @@ import mysql.connector
 from mysql.connector import errorcode
 from flask import Flask, jsonify, request
 import random
+import pandas as pd
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import create_engine, text
 from sqlalchemy.pool import QueuePool
@@ -156,15 +157,18 @@ def get_houses():
         d_limit = 100
     cont = False
     select = []
+    res_type = pd.read_csv("..//sorted_datas//restaurants_type.csv")
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
-            SELECT Title, Distance FROM L_distance, restaurant 
+            SELECT Title, Distance, Score, Type FROM L_distance, restaurant 
             WHERE L_ID1={house['Location_id']} AND L_ID2=Location_ID
             ORDER BY Distance ASC
         """
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:5]
+        for j, res in enumerate(around_res):
+            around_res[j]["Type"] = res_type.loc[res["Type"]-1]
         arounds["restaurant"] = around_res
         if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue
