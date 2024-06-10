@@ -1,95 +1,38 @@
 import { useState } from "react";
 
-function AroundSelector() {
-  const [aroundChecked, setAroundChecked] = useState({
-    t1: false,
-    t2: false,
-    t3: false,
-    t4: false,
-    t5: false,
-    t6: false,
-    t7: false,
-    t8: false,
-  });
-  const handleAroundChange = (event) => {
-    const { name, checked } = event.target;
-    setAroundChecked((prevState) => ({
-      ...prevState,
-      [name]: checked,
-    }));
-  };
-  const [selectedDistance, setSelectedDistance] = useState("3");
+const AroundSelector = ({ onFilterChange }) => {
 
-  const handleSelectChange = (event) => {
-    setSelectedDistance(event.target.value);
-  };
-
+    const handleChange = (e) => {
+        const { name, checked } = e.target;
+        onFilterChange("around", name, checked);
+    };
   return (
     <div className="filter-group">
       <h2>生活機能(租屋處附近一定有什麼?)</h2>
       <div className="filter-options">
         <label>
-          <input
-            type="checkbox"
-            name="t1"
-            checked={aroundChecked.t1}
-            onChange={handleAroundChange}
-          />{" "}
-          影印店
+        <input type="checkbox" name="t0" onChange={handleChange} /> 餐廳
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t3"
-            checked={aroundChecked.t3}
-            onChange={handleAroundChange}
-          />{" "}
-          Ubike
+        <input type="checkbox" name="t1" onChange={handleChange} /> 影印店
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t4"
-            checked={aroundChecked.t4}
-            onChange={handleAroundChange}
-          />{" "}
-          便利商店
+        <input type="checkbox" name="t3" onChange={handleChange} /> Ubike
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t5"
-            checked={aroundChecked.t5}
-            onChange={handleAroundChange}
-          />{" "}
-          公園
+        <input type="checkbox" name="t4" onChange={handleChange} /> 便利商店
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t6"
-            checked={aroundChecked.t6}
-            onChange={handleAroundChange}
-          />{" "}
-          ATM
+        <input type="checkbox" name="t5" onChange={handleChange} /> 公園
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t7"
-            checked={aroundChecked.t7}
-            onChange={handleAroundChange}
-          />{" "}
-          診所
+        <input type="checkbox" name="t6" onChange={handleChange} /> ATM
         </label>
         <label>
-          <input
-            type="checkbox"
-            name="t8"
-            checked={aroundChecked.t8}
-            onChange={handleAroundChange}
-          />{" "}
-          理髮店
+        <input type="checkbox" name="t7" onChange={handleChange} /> 診所
+        </label>
+        <label>
+        <input type="checkbox" name="t8" onChange={handleChange} /> 理髮店
         </label>
       </div>
     </div>

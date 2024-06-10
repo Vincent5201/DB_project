@@ -29,6 +29,8 @@ def get_houses():
     floor = request.args.getlist('floor')
     rating = request.args.getlist('rating')
     equipment = request.args.getlist('equipment')
+    around_store = request.args.getlist('around')
+    around_d = request.args.getlist('around_d')
 
     connection = get_db_connection()
     if connection is None:
@@ -141,7 +143,7 @@ def get_houses():
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
-
+    count = 0
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
@@ -152,7 +154,9 @@ def get_houses():
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:3]
         arounds["restaurant"] = around_res
-        
+        if "t0" in around_store and around_res[0]['Distance'] > around_d[0]:
+            continue
+
         query_as = f"""
             SELECT Sname, Distance FROM L_distance, store
             WHERE L_ID1={house['Location_id']} AND L_ID2=location_id AND Stype=1
@@ -161,6 +165,8 @@ def get_houses():
         cursor.execute(query_as)
         around_s1 = cursor.fetchall()[:3]
         arounds["ty1"] = around_s1
+        if "t1" in around_store and around_s1[0]['Distance'] > around_d[0]:
+            continue
 
         for i in range(3,9):
             query_as = f"""
@@ -171,9 +177,13 @@ def get_houses():
             cursor.execute(query_as)
             around_s = cursor.fetchall()[:3]
             arounds[f"ty{i}"] = around_s
-
+            if f"t{i}" in around_store and around_s[0]['Distance'] > around_d[0]:
+                continue
+        count += 1
         houses[x]["arounds"] = arounds
-
+        if count == 3:
+            break
+ 
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
@@ -194,7 +204,6 @@ def get_houses():
         cursor.execute(new_query)
         data= cursor.fetchall()
         houses[i]["E_id"] = data
-
         
     cursor.close()
     connection.close()

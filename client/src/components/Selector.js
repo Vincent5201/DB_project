@@ -16,9 +16,16 @@ const Selector = () => {
     floor: [],
     rating: [],
     equipment: [],
+    around: [],
+    around_d: [],
   });
+  
   const [houses, setHouses] = useState([]);
-
+  const [inputValue, setInputValue] = useState('');
+  const handleChange = (event) => {
+    setInputValue(event.target.value);
+    filters.around_d = [event.target.value];
+  };
   const fetchHouses = () => {
     let query = new URLSearchParams();
 
@@ -63,7 +70,8 @@ const Selector = () => {
         <ScoreSelector onFilterChange={handleFilterChange} />
         <EquipSelector onFilterChange={handleFilterChange} />
         <AroundSelector onFilterChange={handleFilterChange} />
-        <LocationSelector onFilterChange={handleFilterChange} />
+        <input type="text" id="inputField" value={inputValue}
+            onChange={handleChange} /> 距離限制
         <button className="ui button" onClick={fetchHouses}>
           搜尋
         </button>
@@ -73,6 +81,11 @@ const Selector = () => {
             <td>盒子1</td>
             <td>盒子2</td>
             <td>盒子3</td>
+        </tr>
+        <tr>
+            <td>盒子4</td>
+            <td>盒子5</td>
+            <td>盒子6</td>
         </tr>
     </table>
       <div className="item-list">
