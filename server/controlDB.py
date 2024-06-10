@@ -89,7 +89,6 @@ def get_houses():
     if len(rent):
         low = 100000
         high = 0
-        print(rent)
         if "5000以下" in rent:
             low = min(low, 0)
             high = max(high, 5000)
@@ -146,6 +145,11 @@ def get_houses():
 
     random.shuffle(houses)
     count = 0
+    d_limit = 100
+    try:
+        d_limit = float(around_d[0])
+    except:
+        d_limit = 100
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
@@ -154,9 +158,9 @@ def get_houses():
             ORDER BY Distance ASC
         """
         cursor.execute(query_ar)
-        around_res = cursor.fetchall()[:3]
+        around_res = cursor.fetchall()[:5]
         arounds["restaurant"] = around_res
-        if "t0" in around_store and around_res[0]['Distance'] > around_d[0]:
+        if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue
 
         query_as = f"""
@@ -165,9 +169,9 @@ def get_houses():
             ORDER BY Distance ASC
         """
         cursor.execute(query_as)
-        around_s1 = cursor.fetchall()[:3]
+        around_s1 = cursor.fetchall()[:2]
         arounds["ty1"] = around_s1
-        if "t1" in around_store and around_s1[0]['Distance'] > around_d[0]:
+        if "t1" in around_store and around_s1[0]['Distance'] > d_limit:
             continue
 
         for i in range(3,9):
@@ -177,9 +181,9 @@ def get_houses():
             ORDER BY Distance ASC
             """
             cursor.execute(query_as)
-            around_s = cursor.fetchall()[:3]
+            around_s = cursor.fetchall()[:2]
             arounds[f"ty{i}"] = around_s
-            if f"t{i}" in around_store and around_s[0]['Distance'] > around_d[0]:
+            if f"t{i}" in around_store and around_s[0]['Distance'] > d_limit:
                 continue
         count += 1
         houses[x]["arounds"] = arounds
