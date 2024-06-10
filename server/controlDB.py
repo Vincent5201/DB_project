@@ -200,7 +200,7 @@ def get_houses():
         if count == 3:
             break
     houses = [ houses[h] for h in select]
-    HT_ids = [row['H_id'] for row in houses]  
+    HT_ids = [row['Housetype_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
     for i,id in enumerate(HT_ids):
