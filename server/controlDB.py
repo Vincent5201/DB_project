@@ -1,6 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
 from flask import Flask, jsonify, request
+import random
 
 app = Flask(__name__)
 
@@ -143,6 +144,7 @@ def get_houses():
     cursor.execute(query, params)
     houses = cursor.fetchall()
 
+    random.shuffle(houses)
     count = 0
     for x, house in enumerate(houses):
         arounds = {}
