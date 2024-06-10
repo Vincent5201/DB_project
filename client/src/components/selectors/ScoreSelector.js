@@ -75,19 +75,19 @@ const ScoreSelector = ({ onFilterChange }) => {
       <h2>評價</h2>
       <div className="filter-options">
         <label>
-          <input type="checkbox" name="0-1" onChange={handleChange} /> 0~1
-        </label>
-        <label>
-          <input type="checkbox" name="1-2" onChange={handleChange} /> 1~2
-        </label>
-        <label>
-          <input type="checkbox" name="2-3" onChange={handleChange} /> 2~3
+          <input type="checkbox" name="0-2" onChange={handleChange} /> 0~2
         </label>
         <label>
           <input type="checkbox" name="3-4" onChange={handleChange} /> 3~4
         </label>
         <label>
-          <input type="checkbox" name="4-5" onChange={handleChange} /> 4~5
+          <input type="checkbox" name="5-6" onChange={handleChange} /> 5~6
+        </label>
+        <label>
+          <input type="checkbox" name="7-8" onChange={handleChange} /> 7~8
+        </label>
+        <label>
+          <input type="checkbox" name="9-10" onChange={handleChange} /> 9~10
         </label>
       </div>
     </div>

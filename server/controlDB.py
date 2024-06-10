@@ -106,7 +106,7 @@ def get_houses():
             high = max(high, 100000)
         query += f" AND Price >= {low} AND Price <= {high}"
     if len(rating):
-        low = 5
+        low = 10
         high = 0
         for r in rating:
             low = min(low, int(r[0]))
@@ -142,7 +142,6 @@ def get_houses():
 
     cursor.execute(query, params)
     houses = cursor.fetchall()
-
     random.shuffle(houses)
     count = 0
     d_limit = 100
@@ -162,6 +161,7 @@ def get_houses():
         arounds["restaurant"] = around_res
         if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue
+        
 
         query_as = f"""
             SELECT Sname, Distance FROM L_distance, store
@@ -189,7 +189,8 @@ def get_houses():
         houses[x]["arounds"] = arounds
         if count == 3:
             break
- 
+        
+    houses= houses[:2]
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  

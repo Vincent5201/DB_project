@@ -6,7 +6,6 @@ import FloorSelector from "./selectors/FloorSelector";
 import ScoreSelector from "./selectors/ScoreSelector";
 import EquipSelector from "./selectors/EquipSelector";
 import AroundSelector from "./selectors/AroundSelector";
-import LocationSelector from "./selectors/LocationSelector";
 import { useState, useEffect } from "react";
 
 const Selector = () => {
@@ -19,16 +18,15 @@ const Selector = () => {
     around: [],
     around_d: [],
   });
-  
+
   const [houses, setHouses] = useState([]);
-  const [inputValue, setInputValue] = useState('');
+  const [inputValue, setInputValue] = useState("");
   const handleChange = (event) => {
     setInputValue(event.target.value);
     filters.around_d = [event.target.value];
   };
   const fetchHouses = () => {
     let query = new URLSearchParams();
-
     Object.keys(filters).forEach((category) => {
       filters[category].forEach((value) => {
         query.append(category, value);
@@ -57,40 +55,34 @@ const Selector = () => {
     });
   };
 
-  useEffect(() => {
-    fetchHouses();
-  }, [filters]);
+  // useEffect(() => {
+  //   fetchHouses();
+  // }, [filters]);
 
   return (
     <section>
-      <div className="filter-container">
+      <div clasSName="filter-container">
         <SectionSelector onFilterChange={handleFilterChange} />
         <RentalSelector onFilterChange={handleFilterChange} />
         <FloorSelector onFilterChange={handleFilterChange} />
         <ScoreSelector onFilterChange={handleFilterChange} />
         <EquipSelector onFilterChange={handleFilterChange} />
         <AroundSelector onFilterChange={handleFilterChange} />
-        <input type="text" id="inputField" value={inputValue}
-            onChange={handleChange} /> 距離限制
-        <button className="ui button" onClick={fetchHouses}>
+        <input
+          type="text"
+          id="inputField"
+          value={inputValue}
+          onChange={handleChange}
+        />{" "}
+        距離限制
+        <button clasSName="ui button" onClick={fetchHouses}>
           搜尋
         </button>
       </div>
-      <table>
-        <tr>
-            <td>盒子1</td>
-            <td>盒子2</td>
-            <td>盒子3</td>
-        </tr>
-        <tr>
-            <td>盒子4</td>
-            <td>盒子5</td>
-            <td>盒子6</td>
-        </tr>
-    </table>
-      <div className="item-list">
+
+      <div clasSName="item-list">
         <h2>結果</h2>
-        <ul>
+        <ul style={{ display: "flex" }}>
           {houses.map((house) => (
             <li key={house.H_ID}>
               <h2>{house.Title}</h2>
@@ -144,12 +136,14 @@ const Selector = () => {
                   ))}
                 </li>
               </ul>
+              {/* {console.log("hi")} */}
+              {console.log(house.arounds)}
               <ul style={{ padding: "8px" }}>
                 附近ubike：
                 <li>
                   {house.arounds.ty3.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
@@ -159,7 +153,7 @@ const Selector = () => {
                 <li>
                   {house.arounds.ty4.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
@@ -169,7 +163,7 @@ const Selector = () => {
                 <li>
                   {house.arounds.ty5.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
@@ -179,7 +173,7 @@ const Selector = () => {
                 <li>
                   {house.arounds.ty6.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
@@ -189,7 +183,7 @@ const Selector = () => {
                 <li>
                   {house.arounds.ty7.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
@@ -199,12 +193,12 @@ const Selector = () => {
                 <li>
                   {house.arounds.ty8.map((res, index) => (
                     <li key={index}>
-                      {res.Sname}：{res.Distance}km
+                      {res.SName}：{res.Distance}km
                     </li>
                   ))}
                 </li>
               </ul>
-              {/* {console.log(house)} */}
+              {console.log(house)}
             </li>
           ))}
         </ul>
