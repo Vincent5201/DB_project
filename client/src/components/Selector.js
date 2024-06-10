@@ -73,9 +73,20 @@ const Selector = () => {
           id="inputField"
           value={inputValue}
           onChange={handleChange}
+          placeholder="Enter a number"
+          style={{ height: "40px", padding: "6px" }}
         />{" "}
         距離限制
-        <button clasSName="ui button" onClick={fetchHouses}>
+        <button
+          clasSName="ui button"
+          style={{
+            height: "2rem",
+            padding: "10px",
+            margin: "10px",
+            borderRadius: "10px",
+          }}
+          onClick={fetchHouses}
+        >
           搜尋
         </button>
       </div>
