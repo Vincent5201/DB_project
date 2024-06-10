@@ -154,6 +154,8 @@ def get_houses():
         d_limit = float(around_d[0])
     except:
         d_limit = 100
+    cont = False
+    select = []
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
@@ -167,7 +169,6 @@ def get_houses():
         if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue
         
-
         query_as = f"""
             SELECT Sname, Distance FROM L_distance, store
             WHERE L_ID1={house['Location_id']} AND L_ID2=location_id AND Stype=1
@@ -178,7 +179,7 @@ def get_houses():
         arounds["ty1"] = around_s1
         if "t1" in around_store and around_s1[0]['Distance'] > d_limit:
             continue
-
+        
         for i in range(3,9):
             query_as = f"""
             SELECT SName, Distance FROM L_distance, store
@@ -189,13 +190,16 @@ def get_houses():
             around_s = cursor.fetchall()[:2]
             arounds[f"ty{i}"] = around_s
             if f"t{i}" in around_store and around_s[0]['Distance'] > d_limit:
-                continue
+                cont = True
+                break
+        if cont:
+            continue
         count += 1
-        houses[x]["arounds"] = arounds
+        select.append(x)
         if count == 3:
             break
-        
-    houses= houses[:2]
+    houses = [ houses[h] for h in select]
+
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
