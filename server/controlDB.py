@@ -195,11 +195,11 @@ def get_houses():
         if cont:
             continue
         count += 1
+        houses[x]["arounds"] = arounds
         select.append(x)
         if count == 3:
             break
     houses = [ houses[h] for h in select]
-
     HT_ids = [row['H_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
