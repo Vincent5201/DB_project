@@ -2,9 +2,14 @@ import mysql.connector
 from mysql.connector import errorcode
 from flask import Flask, jsonify, request
 import random
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import create_engine, text
+from sqlalchemy.pool import QueuePool
 
 app = Flask(__name__)
-
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://root:Jason0928156792@127.0.0.1/housesystem'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
 def get_db_connection():
     try:
         connection = mysql.connector.connect(

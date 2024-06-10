@@ -82,7 +82,7 @@ const Selector = () => {
 
       <div clasSName="item-list">
         <h2>結果</h2>
-        <ul style={{ display: "flex" }}>
+        <ul style={{ display: "flex", padding: "10px" }}>
           {houses.map((house) => (
             <li key={house.H_ID}>
               <h2>{house.Title}</h2>
