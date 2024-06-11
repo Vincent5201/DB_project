@@ -157,7 +157,7 @@ def get_houses():
         d_limit = 100
     cont = False
     select = []
-    res_type = pd.read_csv("sorted_datas//restaurants_type.csv")
+    res_type = pd.read_csv("sorte_datas//restaurants_type.csv")
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""

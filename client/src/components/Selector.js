@@ -61,7 +61,7 @@ const Selector = () => {
 
   return (
     <section>
-      <div clasSName="filter-container">
+      <div className="filter-container">
         <SectionSelector onFilterChange={handleFilterChange} />
         <RentalSelector onFilterChange={handleFilterChange} />
         <FloorSelector onFilterChange={handleFilterChange} />
@@ -78,7 +78,7 @@ const Selector = () => {
         />{" "}
         距離限制
         <button
-          clasSName="ui button"
+          className="ui button"
           style={{
             height: "2rem",
             padding: "10px",
@@ -91,7 +91,7 @@ const Selector = () => {
         </button>
       </div>
 
-      <div clasSName="item-list">
+      <div className="item-list">
         <h2>結果</h2>
         <ul style={{ display: "flex", padding: "10px" }}>
           {houses.map((house) => (
@@ -138,7 +138,8 @@ const Selector = () => {
                 {house.arounds &&
                   house.arounds.restaurant.map((res, index) => (
                     <li key={index}>
-                      {res.Title} - score:{res.Score} - {res.Type} - {res.Distance}km
+                      {res.Title} - score:{res.Score} - {res.Type} -{" "}
+                      {res.Distance}km
                     </li>
                   ))}
               </ul>
