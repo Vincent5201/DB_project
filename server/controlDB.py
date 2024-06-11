@@ -167,8 +167,8 @@ def get_houses():
         """
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:5]
-        #for j, res in enumerate(around_res):
-        #    around_res[j]["Type"] = res_type.loc[res["Type"]-1]
+        for j, res in enumerate(around_res):
+            around_res[j]["Type"] = res_type.loc[res["Type"]-1]["Name"]
         arounds["restaurant"] = around_res
         if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue

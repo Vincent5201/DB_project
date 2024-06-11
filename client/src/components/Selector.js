@@ -138,7 +138,7 @@ const Selector = () => {
                 {house.arounds &&
                   house.arounds.restaurant.map((res, index) => (
                     <li key={index}>
-                      {res.Title} - score:{res.Score} - {res.Distance}km
+                      {res.Title} - score:{res.Score} - {res.Type} - {res.Distance}km
                     </li>
                   ))}
               </ul>
