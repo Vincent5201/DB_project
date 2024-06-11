@@ -130,15 +130,15 @@ const Selector = () => {
               <p>評分: {house.Score}</p>
               <ul>
                 房東:
-                <li> 名稱：{house.LL_id[0]["Name"]}</li>
-                <li>聯絡方式：0{house.LL_id[0]["Phone"]}</li>
+                <li> 名稱：{house.LL_id[0]["LL_Name"]}</li>
+                <li>聯絡方式：0{house.LL_id[0]["LL_Phone"]}</li>
               </ul>
               <ul style={{ padding: "8px" }}>
                 附近食物區:
                 {house.arounds &&
                   house.arounds.restaurant.map((res, index) => (
                     <li key={index}>
-                      {res.Title} - score:{res.Score} - {res.Type} - {res.Distance}km
+                      {res.Title} - score:{res.Score} - {res.Distance}km
                     </li>
                   ))}
               </ul>

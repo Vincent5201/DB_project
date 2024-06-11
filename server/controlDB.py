@@ -157,7 +157,7 @@ def get_houses():
         d_limit = 100
     cont = False
     select = []
-    res_type = pd.read_csv("..//sorted_datas//restaurants_type.csv")
+    res_type = pd.read_csv("sorted_datas//restaurants_type.csv")
     for x, house in enumerate(houses):
         arounds = {}
         query_ar = f"""
@@ -167,8 +167,8 @@ def get_houses():
         """
         cursor.execute(query_ar)
         around_res = cursor.fetchall()[:5]
-        for j, res in enumerate(around_res):
-            around_res[j]["Type"] = res_type.loc[res["Type"]-1]
+        #for j, res in enumerate(around_res):
+        #    around_res[j]["Type"] = res_type.loc[res["Type"]-1]
         arounds["restaurant"] = around_res
         if "t0" in around_store and around_res[0]['Distance'] > d_limit:
             continue
@@ -228,7 +228,7 @@ def get_houses():
         houses[i]["E_id"] = data
 
     for i,id in enumerate(LL_ids):
-        new_query=f"SELECT * FROM landlord WHERE Landlord={id}"
+        new_query=f"SELECT * FROM landlord WHERE LL_ID={id}"
         cursor.execute(new_query)
         data= cursor.fetchall()
         houses[i]["LL_id"] = data
