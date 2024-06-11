@@ -1,7 +1,6 @@
 import mysql.connector
 from mysql.connector import errorcode
 from flask import Flask, jsonify, request
-import logging
 import random
 import pandas as pd
 from flask_sqlalchemy import SQLAlchemy
@@ -9,7 +8,6 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.pool import QueuePool
 
 app = Flask(__name__)
-app.logger.setLevel(logging.WARNING)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://root:Jason0928156792@127.0.0.1/housesystem'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
@@ -209,6 +207,8 @@ def get_houses():
     HT_ids = [row['Housetype_id'] for row in houses]  
     L_ids = [row['Location_id'] for row in houses]  
     E_ids = [row['Equipment_id'] for row in houses]  
+    LL_ids = [row['Landlord_id'] for row in houses]
+
     for i,id in enumerate(HT_ids):
         new_query=f"SELECT * FROM house_type WHERE HT_Id={id}"
         cursor.execute(new_query)
@@ -226,6 +226,12 @@ def get_houses():
         cursor.execute(new_query)
         data= cursor.fetchall()
         houses[i]["E_id"] = data
+
+    for i,id in enumerate(LL_ids):
+        new_query=f"SELECT * FROM landlord WHERE Landlord={id}"
+        cursor.execute(new_query)
+        data= cursor.fetchall()
+        houses[i]["LL_id"] = data
         
     cursor.close()
     connection.close()
